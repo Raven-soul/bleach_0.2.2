@@ -1,0 +1,3 @@
+{
+    "page_template" : "<div class=\"row-2\">\n<div class=\"col chapter-title-mobile\">@@RACETITLENAME@@</div>\n<div class=\"col\">\n<div class=\"race-class-data-area\">\n<div class=\"title-block\">\n<div class=\"row-3\">\n<div class=\"col race-class-name\">\n<p>@@RACESHORTNAME@@</p>\n</div>\n<div class=\"col race-class-source\">\n<p><strong>Источник:</strong> @@RACESORCEDATA@@</p>\n</div>\n<div class=\"col race-class-citation\">\n@@RACECOMMENTAREA@@\n</div>\n</div>\n</div>\n<div class=\"content-block\">\n@@RACECONTENTAREA@@\n<div class=\"empty-line\">data</div>\n<p></p>\n</div>\n</div>\n<div class=\"image-block\">image</div>\n</div>\n</div>"
+}

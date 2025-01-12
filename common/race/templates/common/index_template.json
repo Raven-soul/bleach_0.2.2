@@ -1,0 +1,60 @@
+{
+    "page_template" : "<div class=\"row-2\">\n<div class=\"col chapter-title-mobile\">@@RACETITLENAME@@</div>\n<div class=\"col\">\n<div class=\"row-2\">\n@@RACECONTENTDATA@@\n</div>\n</div>\n</div>",
+    "group_template" : "<div class=\"grid-group\">\n<div class=\"grid-group-name\">@@RACEGROUPNAME@@</div>\n<div class=\"grid-group-data\">\n@@RACEGROUPCONTENT@@\n</div>\n</div>",
+    "group_element_template" : "<div class=\"grid-group-data-item\">\n<a href=\"@@RACEHREF@@\">\n<div class=\"button-view\">\n<div class=\"row-2 ps-2 cr-name\">\n<div class=\"col cr-name-head\">@@RACENAME@@</div>\n<div class=\"col cr-name-append\">@@RACENAEMEENG@@</div>\n</div>\n<img src=\"@@RACELOGO@@\" alt=\"@@RACENAEMEENG@@\">\n</div>\n</a>\n</div>",
+    "title_name" : "Расы Bleach D&D 5e",
+    "group_list" : [
+        {
+            "group_name" : "Расы",
+            "list" : [
+                {
+                    "race_href" : "race.html?name=gecon",
+                    "race_name" : "Искусственная душа", 
+                    "race_name_eng" : "Gecon",
+                    "race_logo" : "common/race/img/gecon_bottom_right_2.png"
+                },
+                {
+                    "race_href" : "race.html?name=people",
+                    "race_name" : "Человек", 
+                    "race_name_eng" : "People",
+                    "race_logo" : "common/race/img/people_2.png"
+                }
+            ]
+        },
+        {
+            "group_name" : "Происхождения",
+            "list" : [
+                {
+                    "race_href" : "race.html?name=soul",
+                    "race_name" : "Душа", 
+                    "race_name_eng" : "Soul",
+                    "race_logo" : "common/race/img/Plus_silver.png"
+                },
+                {
+                    "race_href" : "race.html?name=hollow",
+                    "race_name" : "Пустой", 
+                    "race_name_eng" : "Hollow",
+                    "race_logo" : "common/race/img/Hollow_mask_2.png"
+                },
+                {
+                    "race_href" : "race.html?name=quincy",
+                    "race_name" : "Квинси", 
+                    "race_name_eng" : "Quincy",
+                    "race_logo" : "common/race/img/Caihen.png"
+                },
+                {
+                    "race_href" : "race.html?name=fullbringer",
+                    "race_name" : "Подчинитель", 
+                    "race_name_eng" : "Fullbringer",
+                    "race_logo" : "common/race/img/Fullbringer_silver_grud_2.png"
+                },
+                {
+                    "race_href" : "race.html?name=visored",
+                    "race_name" : "Вайзард", 
+                    "race_name_eng" : "Visored",
+                    "race_logo" : "common/race/img/Visored_mask_3.png"
+                }
+            ]
+        }
+    ]
+}
