@@ -1,0 +1,37 @@
+{
+    "page_template" : "<div class=\"row-2\">\n<div class=\"col chapter-title-mobile\">@@CLASSTITLENAME@@</div>\n<div class=\"col\">\n<div class=\"row-2\">\n@@RACECONTENTDATA@@\n</div>\n</div>\n</div>",
+    "group_template" : "<div class=\"grid-group\">\n<div class=\"grid-group-name\">@@CLASSGROUPNAME@@</div>\n<div class=\"grid-group-data\">\n@@RACEGROUPCONTENT@@\n</div>\n</div>",
+    "group_element_template" : "<div class=\"grid-group-data-item\">\n<a href=\"@@CLASSHREF@@\">\n<div class=\"button-view\">\n<div class=\"row-2 ps-2 cr-name\">\n<div class=\"col cr-name-head\">@@CLASSNAME@@</div>\n<div class=\"col cr-name-append\">@@CLASSNAMEENG@@</div>\n</div>\n<img src=\"@@CLASSLOGO@@\" alt=\"@@CLASSNAMEENG@@\">\n</div>\n</a>\n</div>",
+    "title_name" : "Классы Bleach D&D 5e",
+    "group_list" : [
+        {
+            "group_name" : "Классы",
+            "list" : [
+                {
+                    "class_href" : "class.html?name=shinigami",
+                    "class_name" : "Шинигами", 
+                    "class_name_eng" : "Shinigami",
+                    "class_logo" : "common/class/img/13_Unborder_without_white.png"
+                },
+                {
+                    "class_href" : "class.html?name=quincy",
+                    "class_name" : "Квинси", 
+                    "class_name_eng" : "Quincy",
+                    "class_logo" : "common/class/img/Caihen.png"
+                },
+                {
+                    "class_href" : "class.html?name=arrankar",
+                    "class_name" : "Арранкар", 
+                    "class_name_eng" : "Arrankar",
+                    "class_logo" : "common/class/img/espada_10.png"
+                },
+                {
+                    "class_href" : "class.html?name=fullbringer",
+                    "class_name" : "Подчинитель", 
+                    "class_name_eng" : "Fullbringer",
+                    "class_logo" : "common/class/img/Fullbringer_silver_grud_2.png"
+                }
+            ]
+        }
+    ]
+}

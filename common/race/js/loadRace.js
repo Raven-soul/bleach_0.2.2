@@ -1,5 +1,4 @@
 function loadRace() {
-    debugger;
     var name = getSearchParam('name');
     getRacePageData(name);
 }
@@ -14,11 +13,9 @@ function getRacePageData(race_name) {
         dataType: "json",
         url: '../../common/race/templates/common/page_template.json',
         success: function (data){
-            debugger;
             getRaceData(data.page_template, race_name);
         },
         error: function (response) {
-            debugger;
             // Отрисока меню и других основных элементов, вызвана для отрисовки в случае ошибки
             awake(2);
         }
@@ -28,7 +25,7 @@ function getRacePageData(race_name) {
 function getRaceData (page_template, race_name) {
     $.ajax({
         dataType: "json",
-        url: `../../common/race/templates/${race_name}/${race_name}.json`,
+        url: `../../common/race/templates/pages/${race_name}.json`,
         success: function (data){
             var race_load_area_block = $(".info-block");
             var summ_html_block = "";

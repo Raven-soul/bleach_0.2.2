@@ -1,7 +1,7 @@
 {
     "page_template" : "<div class=\"row-2\">\n<div class=\"col chapter-title-mobile\">@@RACETITLENAME@@</div>\n<div class=\"col\">\n<div class=\"row-2\">\n@@RACECONTENTDATA@@\n</div>\n</div>\n</div>",
     "group_template" : "<div class=\"grid-group\">\n<div class=\"grid-group-name\">@@RACEGROUPNAME@@</div>\n<div class=\"grid-group-data\">\n@@RACEGROUPCONTENT@@\n</div>\n</div>",
-    "group_element_template" : "<div class=\"grid-group-data-item\">\n<a href=\"@@RACEHREF@@\">\n<div class=\"button-view\">\n<div class=\"row-2 ps-2 cr-name\">\n<div class=\"col cr-name-head\">@@RACENAME@@</div>\n<div class=\"col cr-name-append\">@@RACENAEMEENG@@</div>\n</div>\n<img src=\"@@RACELOGO@@\" alt=\"@@RACENAEMEENG@@\">\n</div>\n</a>\n</div>",
+    "group_element_template" : "<div class=\"grid-group-data-item\">\n<a href=\"@@RACEHREF@@\">\n<div class=\"button-view\">\n<div class=\"row-2 ps-2 cr-name\">\n<div class=\"col cr-name-head\">@@RACENAME@@</div>\n<div class=\"col cr-name-append\">@@RACENAMEENG@@</div>\n</div>\n<img src=\"@@RACELOGO@@\" alt=\"@@RACENAMEENG@@\">\n</div>\n</a>\n</div>",
     "title_name" : "Расы Bleach D&D 5e",
     "group_list" : [
         {
