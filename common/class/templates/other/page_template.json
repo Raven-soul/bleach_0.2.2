@@ -1,0 +1,6 @@
+{
+    "page_template" : "<div class=\"row-2\">\n<div class=\"col chapter-title-mobile\">@@CLASSTITLENAME@@</div>\n<div class=\"col\">\n<div class=\"race-class-data-area\">\n<div class=\"back-image\">\n<img src=\"@@CLASSBACKIMAGE@@\" alt=\"back\">\n</div>\n<div class=\"main-content-block\">\n<div class=\"title-block\">\n<div class=\"row-3\">\n<div class=\"col race-class-name\">\n<p>@@CLASSNAME@@</p>\n</div>\n<div class=\"col race-class-source\">\n<p><strong>Источник:</strong> @@CLASSSORCENAME@@</p>\n</div>\n<div class=\"col race-class-citation\">\n<p>@@CLASSCOMMENTDATA@@</p>\n<p>@@CLASSCOMMENTAUTOR@@</p>\n</div>\n</div>\n</div>\n<div class=\"content-block\">\n@@CLASSPREVIEWTEXT@@\n</div>\n<div class=\"content-block\">\n<div class=\"sub-menu\" hidden>\n<h5>Меню</h5>\n<a href=\"#\">data</a>\n<a href=\"#\">data</a>\n<a href=\"#\">data</a>\n<a href=\"#\">data</a>\n</div>\n<div class=\"table\">\n<h2>@@CLASSSHORTNAME@@</h2>\n@@CLASSTABLE@@\n</div>\n<div class=\"content\">\n@@CLASSCONTENTBLOCKS@@\n<h1>@@CLASSSPECIALNAME@@</h1>\n<p>@@CLASSSPECIALDISCRIPTION@@</p>\n@@CLASSSPECINFOBLOCKS@@\n</div>\n</div>\n</div>\n</div>\n@@CLASSIMAGEBLOCK@@\n</div>\n</div>",
+    "data_content_element_template" : "<div class="data-content">\n@@CLASSDATACONTENT@@\n</div>",
+    "spec_info_block_template" : "CLASSSPECINFOBLOCKS",
+    "image_block_template" : ""
+}

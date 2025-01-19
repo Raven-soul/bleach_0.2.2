@@ -1,0 +1,107 @@
+{
+    "title_name": "Арранкар [Arrankar] - Классы Bleach D&D 5",
+    "class_name" : "Арранкар [Arrankar]",
+    "class_short_name" : "Арранкар",
+    "sorce_name" : "\"Оригинальный сюжет\"",
+    "comment" : {
+        "class_comment" : "Если счастье существует в этом мире, то оно должно быть похоже на бесконечную пустоту. Небытие — это когда у тебя ничего нет, и нет ничего, что можно потерять.",
+        "comment_autor" : "— Улькиора Шиффер, <strong>Кватро Эспада</strong>"
+    },
+    "table" :  {
+        "table_template" : "<table class=\"class-progress-table\">\n<tbody>@@CLASSTABLE@@</tbody>\n</table>",
+        "content" : [
+            {
+                "line" : "<tr class=\"tb-head-row\"><th> <span class=\"long\">Уровень</span> <span class=\"short\">ур</span> </th>\n<th> <span class=\"long\">Бонус мастерства</span> <span class=\"short\">бм</span> </th>\n<th> <span class=\"long\">Умения</span> <span class=\"short\">Умения</span> </th></tr>"
+            },
+            {
+                "line" : "<tr class=\"tb-empty-row\"><td>:---:</td>\n<td>:---:</td>\n<td>:---:</td></tr>"
+            },
+            {
+                "line" : "<tr><td>1-й</td>\n<td>+2</td>\n<td class=\"left-content\">Специализация Арранкара, Рессурексион</td>"
+            },
+            {
+                "line" : "<tr><td>2-й</td>\n<td>+2</td>\n<td class=\"left-content\">Способность пустого</td></tr>"
+            },
+            {
+                "line" : "<tr><td>3-й</td>\n<td>+2</td>\n<td class=\"left-content\">Способность специализации Арранкара</td></tr>"
+            },
+            {
+                "line" : "<tr><td>4-й</td>\n<td>+2</td>\n<td class=\"left-content\">Увеличение характеристик</td></tr>"
+            },
+            {
+                "line" : "<tr><td>5-й</td>\n<td>+3</td>\n<td class=\"left-content\">Мульти-атака</td></tr>"
+            },
+            {
+                "line" : "<tr><td>6-й</td>\n<td>+3</td>\n<td class=\"left-content\">Способность пустого</td></tr>"
+            },
+            {
+                "line" : "<tr><td>7-й</td>\n<td>+3</td>\n<td class=\"left-content\">Способность специализации Арранкара</td></tr>"
+            },
+            {
+                "line" : "<tr><td>8-й</td>\n<td>+3</td>\n<td class=\"left-content\">Увеличение характеристик</td></tr>"
+            },
+            {
+                "line" : "<tr><td>9-й</td>\n<td>+4</td>\n<td class=\"left-content\">Неукротимый</td></tr>"
+            },
+            {
+                "line" : "<tr><td>10-й</td>\n<td>+4</td>\n<td class=\"left-content\">Способность пустого</td></tr>"
+            },
+            {
+                "line" : "<tr><td>11-й</td>\n<td>+4</td>\n<td class=\"left-content\">Способность специализации Арранкара</td></tr>"
+            },
+            {
+                "line" : "<tr><td>12-й</td>\n<td>+4</td>\n<td class=\"left-content\">Увеличение характеристик</td></tr>"
+            },
+            {
+                "line" : "<tr><td>13-й</td>\n<td>+5</td>\n<td class=\"left-content\">Повышенная долговечность</td></tr>"
+            },
+            {
+                "line" : "<tr><td>14-й</td>\n<td>+5</td>\n<td class=\"left-content\">Способность пустого</td></tr>"
+            },
+            {
+                "line" : "<tr><td>15-й</td>\n<td>+5</td>\n<td class=\"left-content\">Способность специализации Арранкара</td></tr>"
+            },
+            {
+                "line" : "<tr><td>16-й</td>\n<td>+5</td>\n<td class=\"left-content\">Увеличение характеристик</td></tr>"
+            },
+            {
+                "line" : "<tr><td>17-й</td>\n<td>+6</td>\n<td class=\"left-content\">Вневременное тело</td></tr>"
+            },
+            {
+                "line" : "<tr><td>18-й</td>\n<td>+6</td>\n<td class=\"left-content\">Способность пустого</td></tr>"
+            },
+            {
+                "line" : "<tr><td>19-й</td>\n<td>+6</td>\n<td class=\"left-content\">Увеличение характеристик</td></tr>"
+            },
+            {
+                "line" : "<tr><td>20-й</td>\n<td>+6</td>\n<td class=\"left-content\">Эпический дар</td></tr>"
+            }
+            
+        ] 
+    }
+    ,
+    "content_block" : [
+        {
+            "block" : [
+                {
+                    "p" : "",
+                    "p_level" : "",
+                    "h1" : "",
+                    "h3" : "",
+                    "h4" : "",
+                    "blue_data_area" : [
+                        {
+                            "block_name" : "",
+                            "data_block" : [
+                                {
+                                    "h2" : "",
+                                    "p" : ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ] 
+        }
+    ]
+}
