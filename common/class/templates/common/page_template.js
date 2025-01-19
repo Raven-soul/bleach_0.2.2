@@ -40,6 +40,7 @@ const page_template = {
                             </div>
                             <div class="content">
                                 @@CLASSCONTENTDATA@@
+                                @@CLASSADDITIONALDATA@@  
                                 @@CLASSSPECIALISATION@@                        
                             </div>
                         </div>

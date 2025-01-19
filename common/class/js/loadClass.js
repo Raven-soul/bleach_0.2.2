@@ -14,6 +14,9 @@ function getClassPageData(race_name) {
         case 'arrankar':
             page_content = arrankar_content_data;
             break;
+        case 'fullbringer':
+            page_content = fullbringer_content_data;
+            break;
         default: alert('error');
     }
 
@@ -48,10 +51,18 @@ function getClassPageData(race_name) {
 
     page_temp = page_temp.replace("@@CLASSCONTENTDATA@@", data_content_summ);
 
-    // Блок спецификаций
-    data_content_summ = page_template.specialisation_main;
-    data_content_summ = data_content_summ.replace("@@CLASSSPECIALISATIONNAME@@", page_content.specialisation.specialisation_name);
-    data_content_summ = data_content_summ.replace("@@CLASSSPECIALISATIONDESCRIPTION@@", page_content.specialisation.specialisation_description);
+    debugger;
+    if(!page_content.additional_data.there_is) {
+        page_temp = page_temp.replace("@@CLASSADDITIONALDATA@@  ", '');
+    }
+    else {
+        page_temp = page_temp.replace("@@CLASSADDITIONALDATA@@  ", 'true');
+    }
+
+    // Блок специализаций
+    var data_specialisation_summ = page_template.specialisation_main;
+    data_specialisation_summ = data_specialisation_summ.replace("@@CLASSSPECIALISATIONNAME@@", page_content.specialisation.specialisation_name);
+    data_specialisation_summ = data_specialisation_summ.replace("@@CLASSSPECIALISATIONDESCRIPTION@@", page_content.specialisation.specialisation_description);
     
     var specialisation_content_block_summ = "";
     page_content.specialisation.specialisation_list.forEach((element) => {
@@ -74,8 +85,9 @@ function getClassPageData(race_name) {
 
         specialisation_content_block_summ += specialisation_block;
     });
+    data_specialisation_summ = data_specialisation_summ.replace("@@CLASSSPECIALISATIONCONTENT@@", specialisation_content_block_summ);
 
-    page_temp = page_temp.replace("@@CLASSSPECIALISATION@@", specialisation_content_block_summ);
+    page_temp = page_temp.replace("@@CLASSSPECIALISATION@@", data_specialisation_summ);
 
     // Блок картинок
     var image_block_summ = "";
@@ -89,7 +101,6 @@ function getClassPageData(race_name) {
         image_block_summ += img_temp;
     });
 
-    debugger;
     page_temp = page_temp.replace("@@CLASSIMAGEBLOCK@@", image_block_summ);
 
     class_load_area_block.html(page_temp);
