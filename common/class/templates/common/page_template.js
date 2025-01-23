@@ -40,8 +40,7 @@ const page_template = {
                             </div>
                             <div class="content">
                                 @@CLASSCONTENTDATA@@
-                                @@CLASSADDITIONALDATA@@  
-                                @@CLASSSPECIALISATION@@                        
+                                @@CLASSSPOILERBLOCK@@                     
                             </div>
                         </div>
                     </div>
@@ -66,19 +65,21 @@ const page_template = {
             @@CLASSDATACONTENTELEMENT@@
         </div>
     `,
-    "specialisation_main" : `
-        <h1>@@CLASSSPECIALISATIONNAME@@</h1>
-        <p>@@CLASSSPECIALISATIONDESCRIPTION@@</p>
-        @@CLASSSPECIALISATIONCONTENT@@
+    "spoiler_main" : `
+        <div class="spoiler">
+            <h1>@@CLASSSPOILERNAME@@</h1>
+            @@CLASSSPOILERDESCRIPTION@@
+            @@CLASSSPOILERCONTENT@@
+        </div>
     `,
-    "specialisation_block" : `
+    "spoiler_block" : `
         <div class="spec-info-block">
-            <h1 class="hide-next" id="@@CLASSSPECIALISATIONID@@"
-                onclick="specializationBlockHide('hb', this)">@@CLASSSPECIALISATIONBLOCKNAME@@
+            <h1 class="hide-next" id="@@CLASSSPOILERID@@"
+                onclick="specializationBlockHide('hb', this)">@@CLASSSPOILERBLOCKNAME@@
             </h1>
-            <div class="hidden-data-item hb-@@CLASSSPECIALISATIONID@@">
-                @@CLASSSPECIALISATIONPREVIEW@@
-                @@CLASSSPECIALISATIONDATACONTENT@@
+            <div class="hidden-data-item hb-@@CLASSSPOILERID@@">
+                @@CLASSSPOILERPREVIEW@@
+                @@CLASSSPOILERDATACONTENT@@
             </div>
         </div>
     `,

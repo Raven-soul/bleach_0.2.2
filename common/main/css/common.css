@@ -451,6 +451,13 @@ a.read-all:hover{
     background-color: rgba(20,20,20,.05);
     margin-bottom: 10px;
 }
+.race-class-data-area .content-block .spec-info-block b {
+    font-style: italic;
+}
+
+.race-class-data-area .content-block .spec-info-block .data-content{
+    margin-top: 30px;
+}
 .race-class-data-area .back-image {
     position: absolute;
     top: 0px;
@@ -469,6 +476,10 @@ a.read-all:hover{
     position: relative;
     z-index: 2;
 } 
+
+.race-class-data-area .spoiler {
+    margin-top: 30px;
+}
 /* ------------------------------------------------------------- race-class-data-area end */
 /* ------------------------------------------------------------- image-block start */
 /* ------------------------------------------------------------- h start */

@@ -21,24 +21,26 @@ function getClassPageData(race_name) {
     }
 
     var class_load_area_block = $(".info-block");
-    //var index_summ = "";
-
     let page_temp = page_template.page_template;
+
 
     // Заголовок страницы
     page_temp = page_temp.replace("@@CLASSTITLENAME@@", page_content.title_name);
     page_temp = page_temp.replace("@@CLASSNAME@@", page_content.class_name);
     page_temp = page_temp.replace("@@CLASSSORCENAME@@", page_content.sorce_name);
 
+
     // Комментарий / цитата страницы
     page_temp = page_temp.replace("@@CLASSCOMMENTDATA@@", page_content.comment.class_comment);
     page_temp = page_temp.replace("@@CLASSCOMMENTAUTOR@@", page_content.comment.comment_autor);
     
+
     // Основной контент
     // Таблица
     page_temp = page_temp.replace("@@CLASSPRETABLECONTENT@@", page_content.pretable_content);
     page_temp = page_temp.replace("@@CLASSTABLECONTENT@@", page_content.table);
     
+
     // Основные данные
     var data_content_summ = "";
     page_content.data_content.forEach((data_content) => {
@@ -51,43 +53,45 @@ function getClassPageData(race_name) {
 
     page_temp = page_temp.replace("@@CLASSCONTENTDATA@@", data_content_summ);
 
-    debugger;
-    if(!page_content.additional_data.there_is) {
-        page_temp = page_temp.replace("@@CLASSADDITIONALDATA@@  ", '');
-    }
-    else {
-        page_temp = page_temp.replace("@@CLASSADDITIONALDATA@@  ", 'true');
-    }
 
-    // Блок специализаций
-    var data_specialisation_summ = page_template.specialisation_main;
-    data_specialisation_summ = data_specialisation_summ.replace("@@CLASSSPECIALISATIONNAME@@", page_content.specialisation.specialisation_name);
-    data_specialisation_summ = data_specialisation_summ.replace("@@CLASSSPECIALISATIONDESCRIPTION@@", page_content.specialisation.specialisation_description);
-    
-    var specialisation_content_block_summ = "";
-    page_content.specialisation.specialisation_list.forEach((element) => {
-        var specialisation_block = page_template.specialisation_block;
+    // Блок спойлеров
+    // Сюда входят специализации и дополнительная информация
+    var spoiler_summ = "";
+    page_content.spoiler_block.forEach((data) => {
+        var spoiler_temp = page_template.spoiler_main; 
+        
+        spoiler_temp = spoiler_temp.replace("@@CLASSSPOILERNAME@@", data.spoiler.spoiler_name);
+        spoiler_temp = spoiler_temp.replace("@@CLASSSPOILERDESCRIPTION@@", data.spoiler.spoiler_description);
 
-        specialisation_block = specialisation_block.replace(/@@CLASSSPECIALISATIONID@@/g, element.block_id);
-        specialisation_block = specialisation_block.replace("@@CLASSSPECIALISATIONBLOCKNAME@@", element.block_name);
-        specialisation_block = specialisation_block.replace("@@CLASSSPECIALISATIONPREVIEW@@", element.block_preview);
+        var spoiler_content_block_summ = "";
+        data.spoiler.spoiler_list.forEach((spoiler) => {
+            var spoiler_block = page_template.spoiler_block;
 
-        data_content_summ = "";
-        element.data_content.forEach((data_content) => {
-            var dc_temp = page_template.data_content;
+            spoiler_block = spoiler_block.replace(/@@CLASSSPOILERID@@/g, spoiler.block_id);
+            spoiler_block = spoiler_block.replace("@@CLASSSPOILERBLOCKNAME@@", spoiler.block_name);
+            spoiler_block = spoiler_block.replace("@@CLASSSPOILERPREVIEW@@", spoiler.block_preview);
 
-            dc_temp = dc_temp.replace("@@CLASSDATACONTENTELEMENT@@", data_content.data);
+            data_content_summ = "";
+            spoiler.data_content.forEach((data_content) => {
+                var dc_temp = page_template.data_content;
+                
+                dc_temp = dc_temp.replace("@@CLASSDATACONTENTELEMENT@@", data_content.data);
 
-            data_content_summ += dc_temp;
+                data_content_summ += dc_temp;
+            });
+
+            spoiler_block = spoiler_block.replace("@@CLASSSPOILERDATACONTENT@@", data_content_summ);
+
+            spoiler_content_block_summ += spoiler_block;
         });
 
-        specialisation_block = specialisation_block.replace("@@CLASSSPECIALISATIONDATACONTENT@@", data_content_summ);
+        spoiler_temp = spoiler_temp.replace("@@CLASSSPOILERCONTENT@@", spoiler_content_block_summ);
 
-        specialisation_content_block_summ += specialisation_block;
+        spoiler_summ += spoiler_temp;
     });
-    data_specialisation_summ = data_specialisation_summ.replace("@@CLASSSPECIALISATIONCONTENT@@", specialisation_content_block_summ);
 
-    page_temp = page_temp.replace("@@CLASSSPECIALISATION@@", data_specialisation_summ);
+    page_temp = page_temp.replace("@@CLASSSPOILERBLOCK@@", spoiler_summ);
+
 
     // Блок картинок
     var image_block_summ = "";
