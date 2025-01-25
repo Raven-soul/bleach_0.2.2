@@ -9,7 +9,6 @@ function getSearchParam(param) {
 
 function getClassPageData(race_name) {
     let page_content;
-
     switch(race_name) {
         case 'arrankar':
             page_content = arrankar_content_data;
@@ -17,6 +16,9 @@ function getClassPageData(race_name) {
         case 'fullbringer':
             page_content = fullbringer_content_data;
             break;
+        case 'shinigami':
+                page_content = shinigami_content_data;
+                break;
         default: alert('error');
     }
 
