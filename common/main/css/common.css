@@ -458,6 +458,10 @@ a.read-all:hover{
 .race-class-data-area .content-block .spec-info-block .data-content{
     margin-top: 30px;
 }
+
+.race-class-data-area .content-block .spec-info-block .data-content .sub-data{
+    margin-top: 15px;
+}
 .race-class-data-area .back-image {
     position: absolute;
     top: 0px;
