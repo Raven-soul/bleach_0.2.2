@@ -19,7 +19,10 @@ function getClassPageData(race_name) {
         case 'shinigami':
                 page_content = shinigami_content_data;
                 break;
-        default: alert('error');
+        case 'quincy':
+                    page_content = quincy_content_data;
+                    break;
+        default: alert('Ошибка, класс еще не доступен по причине недоработки. Страница не доступна.');
     }
 
     var class_load_area_block = $(".info-block");
