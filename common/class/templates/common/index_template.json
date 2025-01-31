@@ -30,6 +30,12 @@
                     "class_name" : "Подчинитель", 
                     "class_name_eng" : "Fullbringer",
                     "class_logo" : "common/class/img/Fullbringer_silver_grud_2.png"
+                },
+                {
+                    "class_href" : "class.html?name=bount",
+                    "class_name" : "Зависимый", 
+                    "class_name_eng" : "Bount",
+                    "class_logo" : "common/class/img/Bount.png"
                 }
             ]
         }

@@ -17,11 +17,14 @@ function getClassPageData(race_name) {
             page_content = fullbringer_content_data;
             break;
         case 'shinigami':
-                page_content = shinigami_content_data;
-                break;
+            page_content = shinigami_content_data;
+            break;
         case 'quincy':
-                    page_content = quincy_content_data;
-                    break;
+            page_content = quincy_content_data;
+            break;
+        case 'bount':
+            page_content = bount_content_data;
+            break;
         default: alert('Ошибка, класс еще не доступен по причине недоработки. Страница не доступна.');
     }
 
