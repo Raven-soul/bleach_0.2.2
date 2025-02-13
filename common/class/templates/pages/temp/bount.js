@@ -12,7 +12,7 @@ const bount_content_data = {
         <p>Вступление...</p>
     `,
     "table" : `
-        <h2>Квинси</h2>
+        <h2>Зависимый</h2>
         <table class="class-progress-table">
             <tbody>
                 <tr class="tb-head-row">

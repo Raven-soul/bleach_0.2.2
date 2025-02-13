@@ -53,6 +53,12 @@
                     "race_name" : "Вайзард", 
                     "race_name_eng" : "Visored",
                     "race_logo" : "common/race/img/Visored_mask_3.png"
+                },
+                {
+                    "race_href" : "race.html?name=bount",
+                    "race_name" : "Зависимый", 
+                    "race_name_eng" : "Bount",
+                    "race_logo" : "common/race/img/Bount_2.png"
                 }
             ]
         }

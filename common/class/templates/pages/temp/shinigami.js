@@ -16,7 +16,7 @@ const shinigami_content_data = {
         <p>Все эти герои — шинигами, специализирующиеся на одном виде боя, изученном в академии.</p>
     `,
     "table" : `
-        <h2>шинигами</h2>
+        <h2>Шинигами</h2>
         <table class="class-progress-table">
             <tbody>
                 <tr class="tb-head-row">
