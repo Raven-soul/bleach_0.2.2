@@ -10,7 +10,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="icon" href="../../common/main/img/page_logo_2.png" type="image/x-icon">
 </head>
-<body onload="awake(2)">
+<body onload="loadArmament(2)">
     <div class="main-block">
         <header>
             <div class="stub-header">data</div>
@@ -70,70 +70,7 @@
                             </div>
                         </div>
                         <div class="col p-0 info-block">
-                            <div class="row-2">
-                                <div class="col chapter-title-mobile">Классы Bleach D&D 5e</div>
-                                <div class="col">
-                                    <div class="row-2">
-                                        <div class="col">
-                                            <div class="filter-above-grig-oficial">
-                                                <p>Homebrew</p>
-                                            </div>
-                                        </div>
-                                        <div class="col">
-                                            <div class="filter-grid-group">
-                                                <div class="grid-group-data"> 
-                                                    <!-- selector group -->
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col abilities-grid">
-                                            <div class="armament-abilities-content">
-                                                <div class="row-2">
-                                                    <div class="col">
-                                                        <div class="prompt-area">
-                                                            <div class="prompt">
-                                                                <div class="prompt-data">
-                                                                    <span>[0] - уровень</span>
-                                                                    <span><span class="components">ВСМР</span> - компоненты</span>
-                                                                </div>
-                                                                <hr> 
-                                                            </div>                                      
-                                                        </div>
-                                                    </div>
-                                                    <div class="col" style="margin-bottom: 15px;">
-                                                        <div class="prompt-area">
-                                                            <div class="prompt">
-                                                                <div class="prompt-data prompt-type">
-                                                                    <!-- prompt-type -->
-                                                                </div>
-                                                                <hr> 
-                                                            </div>                                      
-                                                        </div>
-                                                    </div>
-                                                    <div class="col">
-                                                        <div class="armament-abilities-content-data">                                                            
-                                                            <div class="row armament-filtered-area">
-                                                                <div class="col-auto" hidden>
-                                                                    <p class="vertical-group-name">data</p>
-                                                                </div>
-                                                                <div class="col">
-                                                                    <div class="grid-abilities-data">
-                                                                        <!-- grid data -->
-                                                                    </div>                                                                    
-                                                                </div>
-                                                                <!-- <hr class="dot-gradient">                                                                                                                               -->
-                                                            </div>                                                      
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col stub-header">
-                                            data
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <!-- content -->
                         </div>
                     </div>
                 </div>
@@ -166,7 +103,9 @@
             <script src="../../common/main/js/onload.js"></script>
             <script src="../../common/main/js/UI.js"></script>
 
-            <script src="../../common/armament_abilities/js/loadIndex.js"></script>
+            <script src="../../common/armament_abilities/templates/common/page_template.js"></script>
+            <script src="../../common/armament_abilities/templates/common/armament_abilities_data.js"></script>
+            <script src="../../common/armament_abilities/js/loadArmament.js"></script>
         </footer>
     </div>
 </body>

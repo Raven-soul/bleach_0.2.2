@@ -155,7 +155,7 @@ const tp = {
         ico: '<i class="fa-solid fa-khanda"></i>'
     },
     wind: {
-        name: "Оружие",
+        name: "Ветер",
         ico: '<i class="fa-solid fa-wind"></i>'
     }
 }

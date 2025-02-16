@@ -3,22 +3,18 @@ function loadIndex(order_num) {
 }
 
 function getIndexPageData(order_num) {
-        var path_prefix = nestingOrder(order_num);
         var data = page_template;
-
         var class_load_area_block = $(".info-block");
-        var index_summ = "";
 
         let index_temp = data.main_template;
 
         index_temp = index_temp.replace("@@CLASSTITLENAME@@", data.title_name);
-
         index_temp = index_temp.replace("@@ARMAMENTFILTERDATACONTENT@@", filtersGeneration(data));
         index_temp = index_temp.replace("@@ARMAMENTPROMPTDATACONTENT@@", promptTypeLoader());
 
         class_load_area_block.html(index_temp);
 
-        showArmamentAbilities();
+        showArmamentAbilities(data);
 
         //Название расы в заголовке
         var chapter_title = $(".chapter-title-label");
@@ -100,7 +96,7 @@ function showArmamentAbilities(data) {
 
             let item_temp = data.ka_grid_item_template;
             
-            item_temp = item_temp.replace("@@ITEMLINK@@", "armament_page/ability_item.html?id=" + abilitiesId);
+            item_temp = item_temp.replace("@@ITEMLINK@@", "armament.html?id=" + abilitiesId);
             item_temp = item_temp.replace("@@ITEMLEVEL@@", abilitiesValue.cost);
             item_temp = item_temp.replace("@@ITEMSCHOOLLOGO@@", abilitiesValue.type.ico);
             item_temp = item_temp.replace("@@ITEMNAME@@", abilitiesValue.name);

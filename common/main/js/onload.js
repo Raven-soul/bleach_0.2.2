@@ -1,8 +1,6 @@
 function awake(nestOrder){
     windowHeightCheckForFooter();
     menuGeneration(nestOrder);
-
-    //linkLauncher();
 }
 
 function windowHeightCheckForFooter() {
