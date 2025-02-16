@@ -53,8 +53,9 @@ function getArmamentPageData(order_num){
 
     armament_temp = armament_temp.replace("@@ARMAMENTDURATION@@", durationSum);    
     armament_temp = armament_temp.replace("@@ARMAMENTRECHARGE@@", armament.recharge);
+    armament_temp = armament_temp.replace("@@ARMAMENTDESCRIPTIONDATA@@", '<p>' + armament.data_ru + '</p>');
 
-    index_temp = index_temp.replace("@@ARMAMENTITEMDATACONTENT@@", armament_temp);
+    index_temp = index_temp.replace("@@ARMAMENTITEMDATACONTENT@@", armament_temp);    
 
     class_load_area_block.html(index_temp);
 

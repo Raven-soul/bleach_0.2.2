@@ -53,7 +53,10 @@ const page_template = {
                 </p>
             </div>
             <div class="col">
-                Описание
+                @@ARMAMENTDESCRIPTIONDATA@@
+            </div>
+            <div class="col" style="visibility:hidden">
+                <p>data</p>
             </div>
         </div>
     `,

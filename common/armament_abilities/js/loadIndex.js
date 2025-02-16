@@ -8,6 +8,8 @@ function getIndexPageData(order_num) {
 
         let index_temp = data.main_template;
 
+    debugger;
+
         index_temp = index_temp.replace("@@CLASSTITLENAME@@", data.title_name);
         index_temp = index_temp.replace("@@ARMAMENTFILTERDATACONTENT@@", filtersGeneration(data));
         index_temp = index_temp.replace("@@ARMAMENTPROMPTDATACONTENT@@", promptTypeLoader());
@@ -36,6 +38,8 @@ function promptTypeLoader() {
 }
 
 function filtersGeneration(data){
+    debugger;
+
     var summHtmlBlock = "";
 
     for(const [columnKey, columnValue] of Object.entries(armamentAbilitiescolumns)){

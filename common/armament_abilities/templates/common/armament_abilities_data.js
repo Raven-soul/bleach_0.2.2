@@ -794,7 +794,7 @@ const armamentAbilitiesContent = [
         `,
         data_ru:
         `
-    Вы выбираете область в пределах досягаемости и выпускаете смертоносную едкую кислоту в 40-футовом кубе. Каждое существо в этой области получает 10d6 едкого урона от кислоты при неудачном спасении и вдвое меньше при успешном.</p><p></p><p>Кроме того, все существа, провалившие спасбросок, продолжают получать 10d6 едкого урона в начале своих ходов, пока вы сохраняете концентрацию. Если бы эти существа владели каким-либо не каменным, немагическим оружием, к их оружию добавлялось бы постоянное и </p><p></p><p>\ pagebreakNum</p><p></p><p>накопительный штраф -1 к броскам урона каждый раз, когда они получают урон от этой способности. Если значение штрафа падает до -5, оружие уничтожается. Если у противника есть какие-либо не каменные, немагические доспехи или щиты, он получает постоянный и совокупный штраф -1 к предлагаемому им AC. Щиты Armor os, уменьшенные до AC, равного 10, или щит, который получает бонус +0, уничтожаются.</p><p></p><p>Если какое-либо из поражающих видов оружия, брони или щитов является магическим, им разрешается спасбросок каждый раз, когда они получают урон, в случае успеха без получения штрафа.</p><p></p><p>Магическим объектам и фауне в пределах зоны, которые не посещаются, разрешается сделать спасбросок. при неудачном спасброске на них действуют те же эффекты, что и на существо, провалившее спасбросок. Обычная фауна и некаменные предметы разлагаются и подвергаются коррозии.</p><p></p><p>Вы можете повторно выбрать эту способность во второй раз, если вы это сделаете, дальность действия увеличится вдвое, размер кубика удвоится, а размер кубика урона увеличится до d10.
+    Вы выбираете область в пределах досягаемости и выпускаете смертоносную едкую кислоту в 40-футовом кубе. Каждое существо в этой области получает 10d6 едкого урона от кислоты при неудачном спасении и вдвое меньше при успешном.</p><p></p><p>Кроме того, все существа, провалившие спасбросок, продолжают получать 10d6 едкого урона в начале своих ходов, пока вы сохраняете концентрацию. Если бы эти существа владели каким-либо не каменным, немагическим оружием, к их оружию добавлялось бы постоянное и накопительный штраф -1 к броскам урона каждый раз, когда они получают урон от этой способности. Если значение штрафа падает до -5, оружие уничтожается. Если у противника есть какие-либо не каменные, немагические доспехи или щиты, он получает постоянный и совокупный штраф -1 к предлагаемому им AC. Щиты Armor os, уменьшенные до AC, равного 10, или щит, который получает бонус +0, уничтожаются.</p><p></p><p>Если какое-либо из поражающих видов оружия, брони или щитов является магическим, им разрешается спасбросок каждый раз, когда они получают урон, в случае успеха без получения штрафа.</p><p></p><p>Магическим объектам и фауне в пределах зоны, которые не посещаются, разрешается сделать спасбросок. при неудачном спасброске на них действуют те же эффекты, что и на существо, провалившее спасбросок. Обычная фауна и некаменные предметы разлагаются и подвергаются коррозии.</p><p></p><p>Вы можете повторно выбрать эту способность во второй раз, если вы это сделаете, дальность действия увеличится вдвое, размер кубика удвоится, а размер кубика урона увеличится до d10.
         `
     },
     {
@@ -852,7 +852,7 @@ const armamentAbilitiesContent = [
         `,
         data_ru:
         `
-    Вы выбираете область в пределах досягаемости и выпускаете смертоносную едкую кислоту в 40-футовом кубе. Каждое существо в этой области получает 10d6 едкого урона от кислоты при неудачном спасении и вдвое меньше при успешном.</p><p></p><p>Кроме того, все существа, провалившие спасбросок, продолжают получать 10d6 едкого урона в начале своих ходов, пока вы сохраняете концентрацию. Если бы эти существа владели каким-либо не каменным, немагическим оружием, к их оружию добавлялось бы постоянное и </p><p></p><p>\ pagebreakNum</p><p></p><p>накопительный штраф -1 к броскам урона каждый раз, когда они получают урон от этой способности. Если значение штрафа падает до -5, оружие уничтожается. Если у противника есть какие-либо не каменные, немагические доспехи или щиты, он получает постоянный и совокупный штраф -1 к предлагаемому им AC. Щиты Armor os, уменьшенные до AC, равного 10, или щит, который получает бонус +0, уничтожаются.</p><p></p><p>Если какое-либо из поражающих видов оружия, брони или щитов является магическим, им разрешается спасбросок каждый раз, когда они получают урон, в случае успеха без получения штрафа.</p><p></p><p>Магическим объектам и фауне в пределах зоны, которые не посещаются, разрешается сделать спасбросок. при неудачном спасброске на них действуют те же эффекты, что и на существо, провалившее спасбросок. Обычная фауна и некаменные предметы разлагаются и подвергаются коррозии.</p><p></p><p>Вы можете повторно выбрать эту способность во второй раз, если вы это сделаете, дальность действия увеличится вдвое, размер кубика удвоится, а размер кубика урона увеличится до d10.
+    Вы выбираете область в пределах досягаемости и выпускаете смертоносную едкую кислоту в 40-футовом кубе. Каждое существо в этой области получает 10d6 едкого урона от кислоты при неудачном спасении и вдвое меньше при успешном.</p><p></p><p>Кроме того, все существа, провалившие спасбросок, продолжают получать 10d6 едкого урона в начале своих ходов, пока вы сохраняете концентрацию. Если бы эти существа владели каким-либо не каменным, немагическим оружием, к их оружию добавлялось бы постоянное и накопительный штраф -1 к броскам урона каждый раз, когда они получают урон от этой способности. Если значение штрафа падает до -5, оружие уничтожается. Если у противника есть какие-либо не каменные, немагические доспехи или щиты, он получает постоянный и совокупный штраф -1 к предлагаемому им AC. Щиты Armor os, уменьшенные до AC, равного 10, или щит, который получает бонус +0, уничтожаются.</p><p></p><p>Если какое-либо из поражающих видов оружия, брони или щитов является магическим, им разрешается спасбросок каждый раз, когда они получают урон, в случае успеха без получения штрафа.</p><p></p><p>Магическим объектам и фауне в пределах зоны, которые не посещаются, разрешается сделать спасбросок. при неудачном спасброске на них действуют те же эффекты, что и на существо, провалившее спасбросок. Обычная фауна и некаменные предметы разлагаются и подвергаются коррозии.</p><p></p><p>Вы можете повторно выбрать эту способность во второй раз, если вы это сделаете, дальность действия увеличится вдвое, размер кубика удвоится, а размер кубика урона увеличится до d10.
         `
     },
     {
@@ -6814,7 +6814,7 @@ const armamentAbilitiesContent = [
     Вы совершаете одиночную атаку ближнего боя или дальнего боя с обычным радиусом действия 80 футов и большим радиусом действия 120 футов с вашим вооружением. В случае успеха вы наносите урон, равный количеству очков жизни, которые существа восстановили с помощью ваших способностей Кидо или вооружения с момента предыдущего рассвета. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Если вы решите атаковать в ближнем бою, у вас будет преимущество в броске атаки. </p><p>* Если вы решите атаковать на расстоянии, обычная и дальняя дистанции увеличатся вдвое.
         `
     },
-        {
+    {
         type: tp.healing,
         cost: cost.cst4, 
         rules: true,
@@ -7017,7 +7017,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7062,7 +7062,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7107,7 +7107,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.2,
+        hdHollow: hd.hd2,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7201,7 +7201,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.1,
+        hdHollow: hd.hd1,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7246,7 +7246,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7291,7 +7291,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7336,7 +7336,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7381,7 +7381,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst2, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.bonus, 
         range: rng.ft60, 
@@ -7433,7 +7433,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst2, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7478,7 +7478,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7523,7 +7523,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7570,7 +7570,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7615,7 +7615,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: true,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.self, 
@@ -7669,7 +7669,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.5,
+        hdHollow: hd.hd5,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7714,7 +7714,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7759,7 +7759,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst6, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.self, 
@@ -7812,7 +7812,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst10, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.18,
+        hdHollow: hd.hd18,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.self, 
@@ -7859,7 +7859,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7905,7 +7905,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7950,7 +7950,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst6, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -7997,7 +7997,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8044,7 +8044,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.24,
+        hdHollow: hd.hd24,
         abKind: knd.usual,
         castingTime: castTime.bonus, 
         range: rng.self, 
@@ -8089,7 +8089,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8134,7 +8134,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.14,
+        hdHollow: hd.hd14,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8176,7 +8176,7 @@ const armamentAbilitiesContent = [
     В качестве действия Пустота нацеливается на одно существо, которое она может видеть в радиусе 30 футов. Цель должна успешно выполнить спасбросок Харизмы или быть проклята. </p><p></p><p>Будучи проклятой, цель уязвима к одному типу урона по выбору Пустоты. Проклятие действует до тех пор, пока не закончится более сильным заклинанием восстановления, снимающим проклятие заклинанием или подобной магией.
         `
     },
-    {
+        {
         type: tp.hollow,
         cost: cost.cst0, 
         rules: false,
@@ -8226,7 +8226,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.14,
+        hdHollow: hd.hd14,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8271,7 +8271,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.14,
+        hdHollow: hd.hd14,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8316,7 +8316,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst6, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.23,
+        hdHollow: hd.hd23,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8361,7 +8361,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8390,7 +8390,7 @@ const armamentAbilitiesContent = [
             day2:          false
         }, 
         recharge: rch.none, 
-        name: 'Дьявольский взгляд [Devil's Sight]', 
+        name: `Дьявольский взгляд [Devil's Sight]`, 
         requirements: '12 HD, Темное зрение [Darkvision]', 
         data:
         `
@@ -8406,7 +8406,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8453,7 +8453,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst2, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8498,7 +8498,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.15,
+        hdHollow: hd.hd15,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8543,7 +8543,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst6, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.18,
+        hdHollow: hd.hd18,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8592,7 +8592,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.15,
+        hdHollow: hd.hd15,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8637,7 +8637,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8684,7 +8684,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.24,
+        hdHollow: hd.hd24,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8729,7 +8729,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.14,
+        hdHollow: hd.hd14,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8774,7 +8774,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8819,7 +8819,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.2,
+        hdHollow: hd.hd2,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8864,7 +8864,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8954,7 +8954,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.11,
+        hdHollow: hd.hd11,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -8999,7 +8999,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9044,7 +9044,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst6, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.19,
+        hdHollow: hd.hd19,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9091,7 +9091,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst5, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.26,
+        hdHollow: hd.hd26,
         abKind: knd.usual,
         castingTime: castTime.minute10, 
         range: rng.self, 
@@ -9155,7 +9155,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.16,
+        hdHollow: hd.hd16,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9202,7 +9202,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst10, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.14,
+        hdHollow: hd.hd14,
         abKind: knd.usual,
         castingTime: castTime.round, 
         range: rng.self, 
@@ -9251,7 +9251,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.18,
+        hdHollow: hd.hd18,
         abKind: knd.usual,
         castingTime: castTime.round, 
         range: rng.self, 
@@ -9306,7 +9306,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9355,7 +9355,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9406,7 +9406,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9452,7 +9452,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9497,7 +9497,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9542,7 +9542,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst3, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9589,7 +9589,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9634,7 +9634,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.24,
+        hdHollow: hd.hd24,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.ft60, 
@@ -9683,7 +9683,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9735,7 +9735,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.20,
+        hdHollow: hd.hd20,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9780,7 +9780,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9825,7 +9825,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9870,7 +9870,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -9915,7 +9915,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.round, 
         range: rng.ft10, 
@@ -9962,7 +9962,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10007,7 +10007,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.14,
+        hdHollow: hd.hd14,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10052,7 +10052,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10109,7 +10109,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10154,7 +10154,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10199,7 +10199,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10244,7 +10244,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10289,7 +10289,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10334,7 +10334,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.5,
+        hdHollow: hd.hd5,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10428,7 +10428,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10473,7 +10473,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10518,7 +10518,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10563,7 +10563,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.23,
+        hdHollow: hd.hd23,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.self, 
@@ -10618,7 +10618,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst4, 
         rules: true,
         forSummon: true,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10665,7 +10665,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.5,
+        hdHollow: hd.hd5,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10710,7 +10710,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.7,
+        hdHollow: hd.hd7,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10755,7 +10755,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10800,7 +10800,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.18,
+        hdHollow: hd.hd18,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10845,7 +10845,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10890,7 +10890,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -10935,7 +10935,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst10, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.25,
+        hdHollow: hd.hd25,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.self, 
@@ -10992,7 +10992,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11037,7 +11037,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11077,12 +11077,12 @@ const armamentAbilitiesContent = [
     Пустота наносит двойной урон предметам и конструкциям
         `
     },
-        {
+    {
         type: tp.hollow,
         cost: cost.cst10, 
         rules: true,
         forSummon: false,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.ft20, 
@@ -11138,7 +11138,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11185,7 +11185,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11230,7 +11230,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11277,7 +11277,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.24,
+        hdHollow: hd.hd24,
         abKind: knd.usual,
         castingTime: castTime.action, 
         range: rng.ft60, 
@@ -11324,7 +11324,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.6,
+        hdHollow: hd.hd6,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11369,7 +11369,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.2,
+        hdHollow: hd.hd2,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11414,7 +11414,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.2,
+        hdHollow: hd.hd2,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11459,7 +11459,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11504,7 +11504,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11551,7 +11551,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11602,7 +11602,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.4,
+        hdHollow: hd.hd4,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11655,7 +11655,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.3,
+        hdHollow: hd.hd3,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11700,7 +11700,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.10,
+        hdHollow: hd.hd10,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11745,7 +11745,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: false,
-        hdHollow: hd.12,
+        hdHollow: hd.hd12,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11790,7 +11790,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11835,7 +11835,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst3, 
         rules: true,
         forSummon: true,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11880,7 +11880,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.8,
+        hdHollow: hd.hd8,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -11927,7 +11927,7 @@ const armamentAbilitiesContent = [
         cost: cost.cst0, 
         rules: false,
         forSummon: true,
-        hdHollow: hd.14,
+        hdHollow: hd.hd14,
         abKind: knd.usual,
         castingTime: castTime.none, 
         range: rng.none, 
@@ -13092,4923 +13092,7 @@ const armamentAbilitiesContent = [
     Вы отдаете магическую команду существу, которое видите в пределах досягаемости, заставляя его выполнить какую-то услугу или воздержаться от какого-то действия по вашему решению. </p><p>Если существо может понять вас, оно становится очарованным вами на какое-то время. Пока вы зачаровываете существо, оно получает 5d10 психического урона каждый раз, когда действует прямо вопреки вашим инструкциям, но не чаще одного раза в день. На существо, которое не может вас понять, эта способность не действует. </p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, урон увеличивается на 1d10. </p><p></p><p>Вы можете отдать любую команду по своему выбору, за исключением действия, которое приведет к неминуемой смерти. Если вы отдадите суицидальную команду, действие способности прекратится. Вы можете досрочно прекратить действие способности, используя действие для ее отмены. Снятие проклятия, большее восстановление или подобная магия или способность также прекращают действие. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Увеличьте дальность на 10 футов. </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте продолжительность на 1 день. </p><p>* Существо может получать урон более одного раза в день. Вы должны были выбрать эту возможность три раза, прежде чем сможете выбрать эту опцию.
         `
     },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Уменьшение перезарядки [Decrease Recharge]', 
-        requirements: '', 
-        data:
-        `
-    Choose an ability the Hollow has that recharges, except for a Breath Weapon. Choose a number it doesn't recharge on, it now recharges on that number. This ability may be selected multiple times, each time choosing an ability that hasn't been chosen.
-        `,
-        data_ru:
-        `
-    Выберите способность, которой обладает Пустота и которая перезаряжается, за исключением оружия Дыхания. Выберите число, от которого она не перезаряжается, теперь она перезаряжается от этого числа. Эта способность может быть выбрана несколько раз, каждый раз выбирая способность, которая еще не была выбрана.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.14,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Отражение атаки [Deflect Attack]', 
-        requirements: '14 HD', 
-        data:
-        `
-    As a Reaction the Hollow adds 5 to its AC against one weapon attack that would hit it. To do so, the Hollow must see the attacker and be wielding a melee weapon.
-        `,
-        data_ru:
-        `
-    В качестве реакции Пустота добавляет 5 к своему AC против одной атаки оружием, которая поразила бы ее. Для этого Пустота должна видеть атакующего и владеть оружием ближнего боя.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.14,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Отражение дальней атаки [Deflect Missiles]', 
-        requirements: '14 HD', 
-        data:
-        `
-    As a Reaction, in response to being hit by a ranged weapon attack, the Hollow deflects the missile. The damage it takes from the attack is reduced by 1d10. If the damage is reduced to 0, it catches the missile if it’s small enough to hold in one hand and it has a hand free. For each 4 HD above 14 HD, the damage is reduced by 1d10; maximum 4d10.
-        `,
-        data_ru:
-        `
-    В качестве реакции, в ответ на попадание в цель из оружия дальнего боя, Пустота отклоняет ракету. Урон, который она получает от атаки, уменьшается на 1d10. Если урон уменьшен до 0, он ловит ракету, если она достаточно мала, чтобы держать ее в одной руке, и у нее свободна рука. За каждые 4 HD выше 14 HD урон уменьшается на 1d10; максимум на 4d10.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst6, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.23,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchRest_SL, 
-        name: 'Дизоррер [Descorrer]', 
-        requirements: '23 HD, Кумон [Kūmon]', 
-        data:
-        `
-    As an action the Hollow opens a pathway into the garganta, and up to four willing creatures can follow inside. Descorrer is a much more stable form of travel and always provides a safe and short walk to any location familiar to the Hollow on a different plane of existence.
-        `,
-        data_ru:
-        `
-    В качестве действия Лощина открывает путь в гарганту, и до четырех желающих существ могут последовать за ней внутрь. Descorrer - это гораздо более стабильная форма путешествий, которая всегда обеспечивает безопасную и короткую прогулку в любое место, знакомое the Hollow на другом плане существования.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.12,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Дьявольский взгляд [Devil's Sight]', 
-        requirements: '12 HD, Темное зрение [Darkvision]', 
-        data:
-        `
-    Magical darkness doesn't impede the hollows darkvision.
-        `,
-        data_ru:
-        `
-    Магическая темнота не препятствует темному зрению в пустотах.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Смещение [Displacement[', 
-        requirements: '10 HD', 
-        data:
-        `
-    The Hollow beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage.                
-                                If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the Hollow is incapacitated or has a speed of 0. 
-
-        `,
-        data_ru:
-        `
-    Полый зверь создает магическую иллюзию, из-за которой кажется, что он стоит рядом со своим реальным местоположением, в результате чего броски атаки против него становятся невыгодными. </p><p>Если он поражен атакой, эта черта нарушается до конца его следующего хода. Эта черта также нарушается, когда Пустой выведен из строя или имеет скорость 0.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst2, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Пикирующая атака [Dive Attack]', 
-        requirements: '3 HD, Возможность летать', 
-        data:
-        `
-    If the Hollow is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon atack, the attack deals an extra 1d6 damage to the target.
-        `,
-        data_ru:
-        `
-    Если Холлоу летит и пикирует по крайней мере на 30 футов прямо на цель, а затем поражает ее ударом оружия ближнего боя, атака наносит цели дополнительный урон 1d6.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.15,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Скольжение по земле [Earth Glide]', 
-        requirements: '15 HD', 
-        data:
-        `
-    The Hollow can traverse through nonmagical, unworked earth and stone. While doing so, the Hollow doesn’t disturb the material it moves through.
-        `,
-        data_ru:
-        `
-    Пустота может проходить через немагическую, необработанную землю и камень. При этом Пустота не нарушает материал, через который проходит.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst6, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.18,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Поглащение воспоминаний [Eat Memories]', 
-        requirements: '18 HD', 
-        data:
-        `
-    As an action the Hollow targets one creature it can see within 5 feet of it. The target must succeed on a Wisdom saving throw or take 4d8 psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.
-                    
-                                While memory drained, the target must roll a d4 and subtract the number rolled from its ability checks and attack rolls. Each time the target is memory drained beyond the first, the die size increases by one; maximum d12, at which point the target becomes unconscious for 1 hour. The effect then ends.
-                    
-                                The Hollow learns all the languages a memory-drained target knows and gains all its skill proficiencies.
-        `,
-        data_ru:
-        `
-    В качестве действия Пустота нацелена на одно существо, которое она может видеть в радиусе 5 футов от себя. Цель должна успешно выполнить спасительный бросок Мудрости или получить 4d8 психического урона и лишиться памяти до тех пор, пока не завершится короткий или длительный отдых или пока она не получит пользу от заклинания большего восстановления или исцеления. Конструкции, илы, Растения и нежить автоматически преуспевают в сохранении. </p><p></p><p>Пока память истощена, цель должна бросить d4 и вычесть выпавшее число из своих проверок способностей и бросков атаки. Каждый раз, когда память цели истощается сверх первой, размер кубика увеличивается на единицу; максимум d12, после чего цель теряет сознание на 1 час. Затем эффект заканчивается. </p><p></p><p>Пустота изучает все языки, которые знает цель с истощенной памятью, и приобретает все свои навыки.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.15,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Поглащение элементов [Elemental Absorption]', 
-        requirements: '15 HD, Сопротивление элементам [Elemental Resistance]', 
-        data:
-        `
-    The Hollow chooses a damage type they are resistant too. Whenever the Hollow is subjected to the chosen damage, it takes no damage and instead regains a number of hit points equal to the damage dealt.
-        `,
-        data_ru:
-        `
-    Пустота выбирает тип урона, к которому она также устойчива. Всякий раз, когда Пустота подвергается выбранному урону, она не получает урона, а вместо этого восстанавливает количество очков жизни, равное нанесенному урону.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Сопротивленеи элементам [Elemental Resistance]', 
-        requirements: '8 HD', 
-        data:
-        `
-    The Hollow chooses a damage type from the following they are not vulnerable to: Acid, Cold, Fire, Lightning, Necrotic, Poison, Radiant and Thunder. The Hollow has resistance to the chosen damage type.
-                    
-                                Additionally, the Hollow must choose an element type they're not vulnerable or resistant to, they are now vulnerable to the chosen damage type.
-        `,
-        data_ru:
-        `
-    Пустота выбирает тип урона из следующих, к которым она не уязвима: Кислота, Холод, Огонь, Молния, Некротический, Ядовитый, Лучезарный и Гром. Пустота устойчива к выбранному типу урона. </p><p></p><p>Кроме того, Пустотелые должны выбрать тип элемента, к которому они не уязвимы и не устойчивы, теперь они уязвимы к выбранному типу повреждений.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.24,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ускользающий [Elusive]', 
-        requirements: '24 HD, Ловкость 18', 
-        data:
-        `
-    No attack roll has advantage against the Hollow unless it's incapacitated.
-        `,
-        data_ru:
-        `
-    Ни один бросок атаки не имеет преимущества против Пустого, если только он не выведен из строя.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.14,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Загадочный разум [Enigmatic Mind]', 
-        requirements: '14 HD, Интеллект 18', 
-        data:
-        `
-    The Hollow's mind can't be read, creatures can communicate telepathically with the Hollow only if it allows and magic can't determine whether the Hollow is lying.
-        `,
-        data_ru:
-        `
-    Мысли Пустого нельзя прочитать, существа могут телепатически общаться с Пустым, только если это позволяет, а магия не может определить, лжет ли Пустота.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Увеличение [Enlarge]', 
-        requirements: '4 HD, Телосложение13, Средний размер', 
-        data:
-        `
-    As an action, for 1 minute, the hollow magically increases in size, along with anything it is wearing or carrying. While enlarged, the hollow is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the hollow  lacks the room to become Large, it attains the maximum size possible in the space available. 
-        `,
-        data_ru:
-        `
-    В результате в течение 1 минуты пустота волшебным образом увеличивается в размерах вместе со всем, что на ней надето. Увеличенная пустота имеет большие размеры, удваивает свой кубик урона при атаках оружием, основанным на силе (входит в состав атак), и с преимуществом выполняет проверки силы и броски для сохранения силы. Если углублению не хватает места, чтобы стать Большим, оно достигает максимально возможного размера в доступном пространстве.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.2,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Дополнительный навык [Extra Skill]', 
-        requirements: '2 HD', 
-        data:
-        `
-    Choose two skills, the Hollow is now proficient in those skills. This ability can be selected multiple times.
-        `,
-        data_ru:
-        `
-    Выберите два навыка, Пустота теперь владеет этими навыками. Эту способность можно выбирать несколько раз.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Страх безумия [Fear Frenzy]', 
-        requirements: '8 HD, Харизма 14', 
-        data:
-        `
-    The Hollow has advantage on attack rolls against frightened creatures.
-        `,
-        data_ru:
-        `
-    Лощина имеет преимущество в бросках атаки против испуганных существ.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Происхождение фей [Fey Ancestry]', 
-        requirements: '', 
-        data:
-        `
-    The Hollow has advantage on saving throws against being charmed, and magic can't put the Hollow to sleep.
-        `,
-        data_ru:
-        `
-    У Лощины есть преимущество при спасбросках против зачарования, а магия не может усыпить Лощину.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.11,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Дьявольское благословение [Fiendish Blessing]', 
-        requirements: '11 HD, Харизма 15', 
-        data:
-        `
-    The Hollow gains a bonus to AC equal to their Charisma bonus.
-        `,
-        data_ru:
-        `
-    Пустой получает бонус к AC, равный его бонусу за харизму.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Филби [Flby]', 
-        requirements: '3 HD, Возможность летать', 
-        data:
-        `
-    The hollow doesn't provoke an opportunity attack when it flies out of an enemy's reach.
-        `,
-        data_ru:
-        `
-    Пустота не провоцирует атаку при удобном случае, когда она улетает за пределы досягаемости противника.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst6, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.19,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ужасающее присутствие [Frightful Presence]', 
-        requirements: '19 HD, Харизма 20', 
-        data:
-        `
-    As an action, each creature of the hollows choice that is within 120 feet of the hollow and aware of it must succeed on a Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-                                If a creature’s saving throw is successful or the effect ends for it, the creature is immune to the hollows Frightful Presence for the next 24 hours. 
-        `,
-        data_ru:
-        `
-    Каждое выбранное существо из лощины, находящееся в радиусе 120 футов от лощины и осознающее это, должно выполнить спасбросок Мудрости или испугаться на 1 минуту. Существо может повторять спасительный бросок в конце каждого из своих ходов, прекращая действие эффекта на себя в случае успеха. </p><p></p><p>Если спасительный бросок существа успешен или эффект для него заканчивается, существо становится невосприимчивым к Ужасающему Присутствию пустоты в течение следующих 24 часов.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst5, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.26,
-        abKind: knd.usual,
-        castingTime: castTime.minute10, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      true, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Наблюдатель гарганты [Garganta Broadcast]', 
-        requirements: '26 HD, Пескиса [Pesquisa], Мудрость 16 или Интеллект 16', 
-        data:
-        `
-    The Hollow can see and hear a particular creature they choose that is on the same plane of existence as them. The target must make a Wisdom saving throw, which is modified by how well the hollow knows the target and the sort of physical connection they have to it. If a target knows they're using this ability, it can fail the saving throw voluntarily if it wants to be observed.
-                    
-                                On a successful save, the target isn't affected, and the Hollow can't use this ability against it again for 24 hours.
-                    
-                                On a failed save, the ability creates an invisible sensor within 10 feet of the target. The Hollow can see and hear through the sensor as it they were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creatures that can see invisible objects sees the sensor as a small luminous orb.
-                    
-                                | Save Modifier  | Knowledge |
-                                |:---:|:-----------:|
-                                |  +5  | Secondhand (They've heard of the target) |
-                                |  0  | Firsthand (Hollow has met the target) |
-                                |  -5  | Familiar (Hollow knows the target well) |
-                    
-                                | Save Modifier  | Connection |
-                                |:---:|:-----------:|
-                                |  -2  | Likeness or pictures |
-                                |  -4  | Possession or garment |
-                                |  -10  | Body part, lock of hair, bit of nail, or the like |
-                    
-                                Instead of targeting a creature, the Hollow can choose a location they have seen before as the target of the spell. When it does, the sensor appears at the location and doesn't move.
-
-        `,
-        data_ru:
-        `
-    Пустые могут видеть и слышать конкретное выбранное ими существо, которое находится на том же плане существования, что и они. Цель должна совершить спасительный бросок Мудрости, который зависит от того, насколько хорошо пустой знает цель и какую физическую связь он имеет с ней. Если цель знает, что она использует эту способность, она может добровольно отказаться от спасброса, если хочет, чтобы за ней наблюдали. </p><p></p><p>При успешном сохранении цель не подвергается воздействию, и Пустой не может снова использовать против нее эту способность в течение 24 часов. </p><p></p><p>При неудачном сохранении способность создает невидимый датчик в радиусе 10 футов от цели. Пустые могут видеть и слышать через датчик, как будто они были там. Датчик перемещается вместе с целью, оставаясь в пределах 10 футов от нее в течение всего времени. Существа, способные видеть невидимые объекты, воспринимают датчик как маленький светящийся шар. </p><p></p><p>| Сохранить модификатор | Знания | </p><p>|:---:|:-----------:| </p><p>| +5 | Из вторых рук (Они слышали о цели) | </p><p>| 0 | Из первых рук (Холлоу встретился с целью) | </p><p>| -5 | Знакомый (Холлоу хорошо знает цель) | </p><p></p><p>| Сохранить Модификатор | Подключение | </p><p>|:---:|:-----------:| </p><p>| -2 | Сходство или картинки | </p><p>| -4 | Владение или одежда | </p><p>| -10 | Часть тела, прядь волос, кусочек ногтя или тому подобное | </p><p></p><p>Вместо того, чтобы нацеливаться на существо, Пустой может выбрать место, которое он видел раньше, в качестве цели заклинания. Когда это происходит, датчик появляется на нужном месте и не перемещается.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.16,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Звуковое Сонидо [Gemelos Sonido]', 
-        requirements: '16 HD, Сонидо [Sonido], Ловкость 14', 
-        data:
-        `
-    Instead of using Sonido, the Hollow can create afterimages of itself that lasts for 1 minute, or until it loses concentration (as if it were concentrating on a spell). It can create an afterimage for each 10 feet of Sonido; maximum five. The afterimages appear in an unoccupied space that the hollow can see within 20 feet of it. As a bonus action on it's turn, it can move the illusions up to 30 feet to a space it can see, but it must remain within 100 feet of it.
-                    
-                                The afterimages AC equals 10 + the Hollows Dexterity modifier or natural armor bonus, whichever is higher. If the duplicate would take damage it is destroyed, and duplicates automatically fail any saving throw.
-        `,
-        data_ru:
-        `
-    Вместо использования Сонидо, Пустота может создавать остаточные изображения самой себя, которые длятся в течение 1 минуты или до тех пор, пока она не потеряет концентрацию (как если бы она концентрировалась на заклинании). Он может создавать остаточное изображение на каждые 10 футов Sonido; максимум пять. Остаточные изображения появляются в незанятом пространстве, которое пустота может видеть в радиусе 20 футов от себя. В качестве бонусного действия в свой ход он может перемещать иллюзии на расстояние до 30 футов в пространство, которое он может видеть, но он должен оставаться в пределах 100 футов от них. </p><p></p><p>AC остаточных изображений равен 10 + модификатору ловкости Пустоты или бонусу к естественной броне, в зависимости от того, что больше. Если дубликат получит урон, он уничтожается, и дубликаты автоматически проваливают любой спасбросок.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst10, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.14,
-        abKind: knd.usual,
-        castingTime: castTime.round, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchRest_L, 
-        name: 'Гонзуи [Gonzui]', 
-        requirements: '14 HD, Телосложение 16', 
-        data:
-        `
-    The Hollow inhales and attempts to suck out the souls of all beings within range and be devoured.
-                    
-                                Each creature within 20 feet of the Hollow is affected. If the Hollow has double or more HD of the creatures within range, they are slain and their souls devoured. Otherwise, they must make a Constitution saving throw. Any creatures with the Spiritual Awareness trait are allowed a saving throw regardless.
-                    
-                                For each 4 HD above 14 HD, the range is increased by 10 feet.
-        `,
-        data_ru:
-        `
-    Пустота вдыхает и пытается высосать души всех существ в радиусе действия и быть съеденным. </p><p></p><p>Поражено каждое существо в радиусе 20 футов от Пустоты. Если в пределах досягаемости Холлоу находится двойное или более HD существ, они убиты, а их души пожраны. В противном случае они должны сделать спасбросок Конституции. Любым существам с чертой Духовного осознания разрешается спасбросок независимо от этого. </p><p></p><p>За каждые 4 HD выше 14 HD дальность увеличивается на 10 футов.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.18,
-        abKind: knd.usual,
-        castingTime: castTime.round, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchRest_SL, 
-        name: 'Гран Рей Серо [Gran Rey Cero]', 
-        requirements: '18 HD, Серо [Cero]', 
-        data:
-        `
-    By mixing their own blood with a Cero, a Hollow can fire a Cero with much greater attack power and speed. 
-                    
-                                To activate this ability the Hollow loses hit points equal to the number of hit die they have.
-                    
-                                Each creature in a 60-foot cone must make a Dexterity saving throw. A creature takes 6d10 force damage on a failed save, or half as much damage on a successful one.
-                    
-                                For each 4 HD above 18 HD, the size of the cone increases by 10 feet.
-                    
-                                This ability may be selected multiple times, each time choosing one of the following augments:
-                                * The ability also has a Recharge 6.
-                                * Increase the save DC by +1; maximum +4.
-        `,
-        data_ru:
-        `
-    Смешивая собственную кровь с Серо, Пустой может стрелять Серо с гораздо большей силой атаки и скоростью. </p><p></p><p>Чтобы активировать эту способность, Пустой теряет очки жизни, равные количеству имеющихся у него кубиков. </p><p></p><p>Каждое существо в 60-футовом конусе должно совершить спасбросок на ловкость. Существо получает 6d10 силового урона при неудачном спасении или вдвое меньше урона при успешном. </p><p></p><p>За каждые 4 HD выше 18 HD размер конуса увеличивается на 10 футов. </p><p></p><p>Эту способность можно выбирать несколько раз, каждый раз выбирая одно из следующих дополнений: </p><p>* У способности также есть перезарядка 6. </p><p>* Увеличьте значение экономии постоянного тока на +1; максимум +4.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Иеро [Hierro]', 
-        requirements: '4 HD', 
-        data:
-        `
-    The Hollows Reiryoku condenses, creating steel-hard skin.
-                    
-                                Bludgeoning, piercing and slashing damage the Hollow takes is reduced by 2.
-                    
-                                This ability may be selected multiple times, each time the damage is further reduced by 1, but the requirement increases by 2 HD as well.
-        `,
-        data_ru:
-        `
-    Рейреку Пустоты уплотняются, создавая твердую, как сталь, кожу.</p><p></p><p>Урон от ударов дубинкой, колющих и рубящих ударов, наносимый Пустотами, уменьшен на 2.</p><p></p><p>Эта способность может быть выбрана несколько раз, каждый раз наносимый урон дополнительно уменьшается на 1, но требования также увеличиваются на 2 HD.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Высокая скорость регенерации [High-Speed Regeneration]', 
-        requirements: '8 HD', 
-        data:
-        `
-    The Hollow regains 3 hit points at the start of its turn. The Hollow dies only if it starts its turn with 0 hit points and doesn't use High-Speed Regeneration.
-                    
-                                Whenever the Hollow would gain another 5 hit die, the amount of hit points regained is increased by 1.
-                    
-                                This ability may be selected multiple times, each time choosing one of the following augments:
-                                * Instead of regaining hit points, the Hollow may regrow a severed limb. The Hollow must have 10 HD before selecting this option.
-                                * Instead of regaining hit points, the Hollow can regrow an organ. The Hollow must have 15 HD before selecting this option.
-        `,
-        data_ru:
-        `
-    Пустой восстанавливает 3 очка жизни в начале своего хода. Пустой умирает, только если он начинает свой ход с 0 очками жизни и не использует высокоскоростную регенерацию.</p><p></p><p>Всякий раз, когда Пустой получает еще 5 кубиков с попаданиями, количество восстановленных очков жизни увеличивается на 1.</p><p></p><p>Эту способность можно выбирать несколько раз, каждый раз выбирая одно из следующих улучшений:</p><p>* Вместо восстановления хитов, Пустота может отрастить отрубленную конечность. У Пустоты должно быть 10 HD, прежде чем выбрать эту опцию.</p><p>* Вместо восстановления хитов, Пустота может отрастить орган. Перед выбором этой опции в углублении должно быть 15 HD.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Останавливающее дыхание [Hold Breath]', 
-        requirements: '4 HD', 
-        data:
-        `
-    The Hollow can hold its breath for 10 minutes. For each 2 HD above 4 HD the hollow has, it can hold its breathe for an additional minute.
-
-        `,
-        data_ru:
-        `
-    Пустота может задерживать дыхание на 10 минут. За каждые 2 HD выше 4 HD, которые есть у пустоты, она может задерживать дыхание еще на минуту.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ходьба по льду [Ice Walk]', 
-        requirements: '4 HD', 
-        data:
-        `
-    The Hollow can move across and climb icy surfaces without needing to make an ability check, and difficult terrain composed of ice or snow doesn't cost the Hollow extra movement.
-        `,
-        data_ru:
-        `
-    Пустотелый может передвигаться по обледенелым поверхностям и взбираться по ним без необходимости проверки способностей, а труднопроходимая местность, состоящая из льда или снега, не требует от Пустотелого дополнительных перемещений.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.6,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Освещение [Illumination]', 
-        requirements: '6 HD', 
-        data:
-        `
-    The hollow sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 feet. It can switch between the options as an action.
-        `,
-        data_ru:
-        `
-    Углубление излучает либо тусклый свет в радиусе 15 футов, либо яркий свет в радиусе 15 футов и тусклый свет еще на 15 футов. Можно переключаться между опциями в процессе действия.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst3, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Иллюзорная внешность [Illusory Appearance]', 
-        requirements: '10 HD, Интеллект 13 или Мудрость 13', 
-        data:
-        `
-    As an action, the hollow covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of it's general size and humanoid shape. The illusion ends if the hollow takes a bonus action to end it or if it dies.
-                    
-                                The changes wrought by this effect fail to hold up to physical inspection. For example, the hollow could appear to have smooth skin, but someone touching it would feel its rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a Intelligence (Investigation) check to discern that the hollow is disguised.
-        `,
-        data_ru:
-        `
-    В качестве действия пустота покрывает себя и все, что на ней надето, магической иллюзией, которая делает ее похожей на другое существо такого же размера и гуманоидной формы. Иллюзия заканчивается, если пустой выполняет бонусное действие, чтобы покончить с ней, или если он умирает. </p><p></p><p>Изменения, вызванные этим эффектом, не выдерживают физического контроля. Например, впадина может казаться гладкой, но тот, кто прикоснется к ней, почувствует ее грубую плоть. В противном случае существо должно предпринять действие по визуальному осмотру иллюзии и успешно провести проверку интеллекта (Расследование), чтобы определить, что дупло замаскировано.
-        `
-    },
         {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Неизменаяемая форма [Immutable Form]', 
-        requirements: '8 HD', 
-        data:
-        `
-    The Hollow is immune to any spell or effect that would alter its form.
-        `,
-        data_ru:
-        `
-    Пустота невосприимчива к любым заклинаниям или эффектам, которые могли бы изменить ее форму.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.24,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Индексируемый Радар [Indice Radar]', 
-        requirements: '24 HD, Пескиса [Pesquisa] (3), Интеллект 13', 
-        data:
-        `
-    Thrusting their index finger into the ground, a luminous trail rapidly extends outwards from the Hollow in the direction of the target within range and gauging their Reiryoku.
-                    
-                                The Hollow chooses one creature within range, the Hollow gains the knowledge of the creature HD amount, how many armament abilities they possess if any, and the highest spell they can cast.
-                    
-                                Whenever the Hollows hit die increases by one, the range is increased by 10 feet.
-        `,
-        data_ru:
-        `
-    Они тыкают указательным пальцем в землю, и светящийся след быстро вытягивается наружу из Впадины в направлении цели, находящейся в пределах досягаемости, и измеряют их Рейреку. </p><p></p><p>Пустой выбирает одно существо в пределах досягаемости, Пустой получает информацию о количестве HD существ, о том, сколькими способностями к вооружению они обладают, если таковые имеются, и о самом высоком заклинании, которое они могут применить. </p><p></p><p>Всякий раз, когда количество пуль, попадающих в кубик, увеличивается на единицу, дальность стрельбы увеличивается на 10 футов.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.6,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Врожденный заклинатель [Innate Spellcasting]', 
-        requirements: '6 HD, Магия [Magia]', 
-        data:
-        `
-    The Hollow chooses two spells it knows of 3rd level or lower. It can innately cast the chosen spell once per day each, requiring no material components or SP.
-                    
-                                If the hollow already has Innate Spellcasting, it can ignore the requirements for this ability and chooses one of it's spell lists, they can cast those spells an additional time per day each.
-                    
-                                This ability may be selected multiple times, each time choosing one of the following augments:
-                                * The hollow chooses two spells it knows of 3rd level or lower. It can innately cast the chosen spell twice per day requiring no material components.
-                                * The hollow chooses a spell it knows of 4th level or higher. It can innately cast the chosen spell once per day each requiring no material components.
-                                * Choose a spell the hollow can innately cast, it can cast it an additional time per day.
-        `,
-        data_ru:
-        `
-    Пустой выбирает два известных ему заклинания 3-го уровня или ниже. Он может использовать каждое выбранное заклинание один раз в день, не требуя материальных компонентов или SP. </p><p></p><p>Если у пустого уже есть Врожденное Заклинание, он может проигнорировать требования к этой способности и выбрать одно из своих списков заклинаний, они могут разыгрывать эти заклинания дополнительно каждый раз в день. </p><p></p><p>Эта способность может быть выбрана несколько раз, каждый раз выбирая одно из следующих улучшений: </p><p>* Пустота выбирает два известных ей заклинания 3-го уровня или ниже. Он может использовать выбранное заклинание дважды в день, не требуя материальных компонентов. </p><p>* Пустота выбирает известное ей заклинание 4-го уровня или выше. Он может использовать выбранное заклинание один раз в день, каждое из которых не требует материальных компонентов. </p><p>* Выберите заклинание, которое пустота может использовать от природы, оно может использовать его дополнительный раз в день.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.20,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Непостижимый [Inscrutable]', 
-        requirements: '20 HD, Мудрость 16 или Интеллект 16', 
-        data:
-        `
-    The Hollow is immune to any effect that would sense its emotions or read its thorughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain its intentions or sincerity have disadvantage.
-        `,
-        data_ru:
-        `
-    Пустой невосприимчив к любому эффекту, который мог бы ощутить его эмоции или прочитать его мысли, а также к любому заклинанию предсказания, от которого он отказывается. Проверки Мудрости (Проницательности), сделанные для выяснения его намерений или искренности, имеют недостаток.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Острый слух [Keen Hearing]', 
-        requirements: '3 HD', 
-        data:
-        `
-    The Hollow has advantage on Wisdom (Perception) checks that rely on hearing.
-        `,
-        data_ru:
-        `
-    Пустота имеет преимущество при проверке Мудрости (Восприятия), которая полагается на слух.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Острый взгляд [Keen Sight]', 
-        requirements: '3 HD', 
-        data:
-        `
-    The Hollow has advantage on Wisdom (Perception) checks that rely on sight.
-        `,
-        data_ru:
-        `
-    Пустота имеет преимущество при проверке Мудрости (Восприятия), которая полагается на зрение.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Острый нюх [Keen Smell]', 
-        requirements: '3 HD', 
-        data:
-        `
-    The Hollow has advantage on Wisdom (Perception) checks that rely on smell.
-        `,
-        data_ru:
-        `
-    Пустота имеет преимущество при проверке Мудрости (Восприятия), которая основывается на обонянии.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.round, 
-        range: rng.ft10, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchRest_L, 
-        name: 'Кумон [Kūmon]', 
-        requirements: '4 HD', 
-        data:
-        `
-    Hollows have an innate ability to tear the barriers between planes. The Hollow chooses a point it can see and opens a circular portal, 10 feet in diameter, to a different plane of existence. On the other plane, another portal opens up. The Hollow can specify a target destination in general terms.
-                    
-                                Any creature or object entering the portal exits from the other portal as if the two were adjacent to each other.
-        `,
-        data_ru:
-        `
-    Пустые обладают врожденной способностью разрушать барьеры между плоскостями. Пустота выбирает точку, которую может видеть, и открывает круглый портал диаметром 10 футов на другой план существования. На другом плане открывается другой портал. Пустота может указать целевое назначение в общих чертах. </p><p></p><p>Любое существо или объект, входящий в портал, выходит из другого портала, как если бы они были рядом друг с другом.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.6,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Отзвук лабиринта [Labyrinthine Recall]', 
-        requirements: '6 HD', 
-        data:
-        `
-    The Hollow can perfectly recall any path it has traveled.
-        `,
-        data_ru:
-        `
-    Пустота может прекрасно вспомнить любой пройденный ею путь.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.14,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Локус разума [Locus of the Mind]', 
-        requirements: '14 HD, Магия [Magia]', 
-        data:
-        `
-    The Hollow can maintain concentration on two different spells at the same time. In addition, it has advantage on saving throws to maintain concentration spells.
-        `,
-        data_ru:
-        `
-    Пустота может сохранять концентрацию на двух разных заклинаниях одновременно. Кроме того, у нее есть преимущество при спасбросах для сохранения заклинаний концентрации.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Магия [Magia]', 
-        requirements: '4 HD, Мудрость, Интеллект или Харизма 12', 
-        data:
-        `
-    The Hollow gains the ability to cast spells. They cast spells from the Shinigami spell list. The Hollow chooses Wisdom, Intelligence or Charisma to be it's spell casting score.
-                    
-                                The hollow learns 2 cantrips and two 1st level spells.
-                    
-                                Starting when the Hollow gains 6 HD, and at each 2 HD above 6 HD, the Hollow learns an additional spell.
-                    
-                                The Hollows Max Spell Level is their HD divided by 5, rounded down, minimum level 1. 
-                    
-                                If the Hollow already has the Spellcasting feature, it ignores this ability's requirements and Spellcasting is replaced by this ability. They keep their current spells known and they increase their Spell Point Pool by 10.
-                    
-                                This ability can be selected multiple times, each time choosing one of the following:
-                                * The hollow learns 2 new Cantrips
-                                * The hollow learns 2 new spells
-        `,
-        data_ru:
-        `
-    Пустые получают способность накладывать заклинания. Они накладывают заклинания из списка заклинаний Синигами. Пустые выбирают Мудрость, Интеллект или Харизму в качестве оценки за наложение заклинаний.</p><p></p><p>Пустота изучает 2 заклинания и два заклинания 1-го уровня.</p><p></p><p>Начиная с того момента, когда Пустота набирает 6 HD, и при каждых 2 HD выше 6 HD Пустота изучает дополнительное заклинание.</p><p></p><p>Максимальный уровень заклинания Hollows равен их HD, разделенному на 5, округленному в меньшую сторону, минимальному уровню 1. </p><p></p><p>Если у Пустого уже есть функция заклинания, она игнорирует требования к этой способности, и Заклинание заменяется этой способностью. Они сохраняют свои текущие заклинания известными и увеличивают свой запас очков заклинаний на 10.</p><p></p><p>Эту способность можно выбирать несколько раз, каждый раз выбирая одно из следующих:</p><p>* Пустота изучает 2 новых заклинания</p><p>* Пустота изучает 2 новых заклинания
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.12,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Магическое сопротивление [Magic Resistance]', 
-        requirements: '12 HD', 
-        data:
-        `
-    The Hollow has advantage saving throws against spells and other magical effects.
-        `,
-        data_ru:
-        `
-    У Лощины есть преимущество в спасбросках против заклинаний и других магических эффектов.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.6,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Магическое оружие [Magic Weapons]', 
-        requirements: '6 HD', 
-        data:
-        `
-    The hollows weapon attacks are magical.
-        `,
-        data_ru:
-        `
-    Атаки пустотелым оружием обладают магической силой.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Боевое преимущество [Martial Advantage]', 
-        requirements: '10 HD, Сила 12 или Ловкость 12', 
-        data:
-        `
-    Once per turn, the hollow can deal an extra 2d6 damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hollow that isn’t incapacitated.
-        `,
-        data_ru:
-        `
-    Один раз за ход пустота может нанести дополнительный урон 2d6 существу, пораженному атакой оружием, если это существо находится в пределах 5 футов от союзника пустоты, который не выведен из строя.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Маска дикой природы [Mask of the Wild]', 
-        requirements: '10 HD, Владение навыком (Скрытность)', 
-        data:
-        `
-    The Hollow can attempt to hide even when it is only lightly obscured by foliage, heavy rain, falling snow, mist and other natural phenomena.
-        `,
-        data_ru:
-        `
-    В дупле можно попытаться спрятаться, даже если оно лишь слегка прикрыто листвой, сильным дождем, падающим снегом, туманом и другими природными явлениями.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Мимикрия [Mimicry]', 
-        requirements: '4 HD', 
-        data:
-        `
-    The Hollow can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom (Insight) check.
-        `,
-        data_ru:
-        `
-    Пустота может имитировать любые звуки, которые она слышала, включая голоса. Существо, которое слышит звуки, может сказать, что это имитация, после успешной проверки на Мудрость (Проницательность).
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.5,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Мульти атака [Multi-Attack]', 
-        requirements: '5 HD', 
-        data:
-        `
-    The Hollow can make two attacks instead of one when it takes the attack action. For each 5 HD above 5 HD, it gains an additional attack.
-        `,
-        data_ru:
-        `
-    Пустой может нанести две атаки вместо одной, когда выполняет атакующее действие. За каждые 5 HD выше 5 HD он получает дополнительную атаку.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.mile1, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchRest_L, 
-        name: 'Негасион [Negación]', 
-        requirements: 'Тип пустого Гиллиан', 
-        data:
-        `
-    A square beam of light engulfs a target in a beam of light, completely isolating them from the plane they're currently in.
-                    
-                                When the Gillian has a Kūmon active, it can use this ability to draw a non-hostile creature into the Kūmon. The affected creature is immune to damage and cannot be targeted by attacks, abilities or spells. 
-                    
-                                When a Hollow is no longer a Gillian, it loses this ability and replaces it with another Hollow ability it meets the requirements for.
-        `,
-        data_ru:
-        `
-    Квадратный луч света охватывает цель лучом света, полностью изолируя ее от плоскости, в которой она в данный момент находится.</p><p></p><p>Когда у Джиллиан активирован Кумон, она может использовать эту способность, чтобы привлечь в Кумона не враждебное существо. Пораженное существо невосприимчиво к урону и не может быть мишенью для атак, способностей или заклинаний. </p><p></p><p>Когда Пустота больше не является Джиллиан, она теряет эту способность и заменяет ее другой способностью, для которой она соответствует требованиям.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ловкий побег [Nimble Escape]', 
-        requirements: '4 HD, Ловкость 13', 
-        data:
-        `
-    The Hollow can take the Disengage or Hide action as a bonus action on each of its turns.
-        `,
-        data_ru:
-        `
-    Лощина может выполнять действие Расцепления или Скрытия в качестве бонусного действия на каждом из своих ходов.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Тактика стаи [Pack Tactics]', 
-        requirements: '3 HD', 
-        data:
-        `
-    The Hollow has advantage on an attack roll against a creature if at least one of the Hollows allies is within 5 feet of the creature and the ally isn't incapacitated.
-        `,
-        data_ru:
-        `
-    Пустота имеет преимущество при броске атаки против существа, если хотя бы один из союзников Пустоты находится в пределах 5 футов от существа и союзник не выведен из строя.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Пальма планча [Palma Plancha]', 
-        requirements: '10 HD', 
-        data:
-        `
-    Once per turn, when a Hollow deals damage with one of their natural weapons or unarmed strike, they can spend 2 SP and deal additional damage equal to their natural armor bonus.
-        `,
-        data_ru:
-        `
-    Один раз за ход, когда Пустой наносит урон одним из своих естественных видов оружия или невооруженным ударом, он может потратить 2 SP и нанести дополнительный урон, равный его бонусу к естественной броне.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.23,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      true, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Пескиса [Pesquisa]', 
-        requirements: '23 HD', 
-        data:
-        `
-    The Hollow sends out a radiating pulse in the form of a 30-foot-radius sphere which reacts to sources of Reiatsu, allowing it to determine the location of any sensed individuals and gauge how powerful they are. 
-                    
-                                At each minute the Hollow gains the following knowledge:
-                                1. Number of sensed individuals.
-                                2. Distance of the senses individuals.
-                                3. Creature type of the sensed individuals.
-                                4. If the sensed individuals, have more or less HD.
-                    
-                                For each 2 HD above 23 HD, the radius is increased by 10 feet.
-                    
-                                This ability may be selected multiple times, each time reducing the amount of time requires to gain the knowledge by one minute.
-        `,
-        data_ru:
-        `
-    Пустота посылает излучающий импульс в виде сферы радиусом 30 футов, которая реагирует на источники Рейацу, позволяя ей определять местоположение любых обнаруженных людей и оценивать, насколько они сильны. </p><p></p><p>Каждую минуту Пустота получает следующие сведения: </p><p>1. Количество обнаруженных особей. </p><p>2. Расстояние между чувствующими особями. </p><p>3. Тип существа обнаруженных особей. </p><p>4. Если у обнаруженных особей больше или меньше HD. </p><p></p><p>Для каждых 2 HD выше 23 HD радиус увеличивается на 10 футов. </p><p></p><p>Эта способность может быть выбрана несколько раз, каждый раз сокращая количество времени, необходимое для получения знаний, на одну минуту.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst4, 
-        rules: true,
-        forSummon: true,
-        hdHollow: hd.12,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rch6, 
-        name: 'Взгляд окаменения [Petrifying Gaze]', 
-        requirements: '12 HD, глаза', 
-        data:
-        `
-    As an action, the Hollow fixes its gaze on one creature within 60 feet that it can see and that can see its eyes. The target must make a Constitution saving throw. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is retrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success.
-                    
-                                The petrification last until the creature is freed by a greater restoration spell or similar magic.
-        `,
-        data_ru:
-        `
-    В качестве действия Пустота фиксирует свой взгляд на одном существе в радиусе 60 футов, которое она может видеть и которое может видеть ее глаза. Цель должна сделать спасбросок телосложения. Если спасбросок не удался на 5 или более раз, существо мгновенно каменеет. В противном случае существо, не выполнившее спасбросок, начинает превращаться в камень и проходит повторное обучение. Связанное существо должно повторить спасительный бросок в конце своего следующего хода, окаменев при неудаче или прекратив действие эффекта при успехе. </p><p></p><p>Окаменение длится до тех пор, пока существо не будет освобождено более сильным восстанавливающим заклинанием или подобной магией.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.5,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Внезапная атака [Pounce]', 
-        requirements: '5 HD, Четырехлапый, Когти [Claws], Укус [Bite]', 
-        data:
-        `
-    If the Hollow moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a Strength saving throw or be knocked prone. If the target is prone, the Hollow can make one bite attack against it as a bonus action.
-        `,
-        data_ru:
-        `
-    Если Пустота движется по крайней мере на 15 футов прямо к существу, а затем поражает его атакой когтями в тот же ход, эта цель должна успешно выполнить силовой бросок или быть сбита с ног. Если цель лежит ничком, Дупло может нанести по ней один укус в качестве бонусного действия.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.7,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Психическая защита [Psychic Defense]', 
-        requirements: '7 HD, Мудрость 14', 
-        data:
-        `
-    While the hollow is wearing no armor and wielding no shield, its AC includes its Wisdom modifier
-        `,
-        data_ru:
-        `
-    В то время как пустота не носит брони и не владеет щитом, ее AC включает модификатор Мудрости
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Буйство [Rampage]', 
-        requirements: '10 HD, Укус [Bite]', 
-        data:
-        `
-    When the Hollow reduced a creature to 0 hit points with a melee attack on its turn, the Hollow can take a bonus action to move up to half its speed and make a bite attack.
-        `,
-        data_ru:
-        `
-    Когда Пустотелый уменьшил количество очков жизни существа до 0 атакой ближнего боя в свой ход, Пустотелый может предпринять бонусное действие, увеличивающее его скорость вдвое и наносящее атаку укусом.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.18,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Реактивный [Reactive]', 
-        requirements: '18 HD, Ловкость 18', 
-        data:
-        `
-    The hollow can take one reaction on every turn in a combat
-        `,
-        data_ru:
-        `
-    Лощина может принимать одну реакцию на каждый ход в бою
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.6,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Безрассудный [Reckless]', 
-        requirements: '6 HD, Сила 14', 
-        data:
-        `
-    At the start of its turn, the hollow can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn 
-        `,
-        data_ru:
-        `
-    В начале своего хода пустой может получить преимущество по всем броскам атаки оружием ближнего боя, которые он совершает в течение этого хода, но броски атаки против него имеют преимущество до начала следующего хода
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.6,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchRest_SL, 
-        name: 'Безжалостный [Relentless]', 
-        requirements: '6 HD', 
-        data:
-        `
-    If the Hollow takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead. For each 4 HD above 8 HD, the damage needed to take is reduced by 2, minimum 10 damage.
-        `,
-        data_ru:
-        `
-    Если Пустота получает 10 единиц урона или меньше, что уменьшило бы ее до 0 очков жизни, то вместо этого она уменьшается до 1 очка жизни. За каждые 4 HD выше 8 HD необходимый для получения урона уменьшается на 2, минимум на 10 единиц урона.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst10, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.25,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ресурексион [Resurrección: Segunda Etapa]', 
-        requirements: '25 HD, Арранкар, количество способностей не ниже 16', 
-        data:
-        `
-    The Hollow must be in Resurrección to activate this ability.
-                    
-                                When the Hollow enters this form it gains the following benefits for the duration:
-                                * 30 temporary hit points, these stack with any existing temporary hit points.
-                                * Walking speed and Sonido increases by 30 feet          
-                                * Gain 2 Armament abilities, these are only available in this form.
-                                * Gain 2 Bankai abilities, these are only available in this form.
-                                * Gain 2 Hollow abilities, these are only available in this form.
-                                * All natural weapons, armament and unarmed strike damage dice is increased by one step
-                    
-                                This ability may be selected multiple times, each time choosing one of the following augments:
-                                * Increase the duration by 1 minute
-                                * You gain an additional armament and hollow ability or a Bankai ability in this form
-        `,
-        data_ru:
-        `
-    Пустой должен быть в режиме Воскрешения, чтобы активировать эту способность.</p><p></p><p>Когда Пустой принимает эту форму, он получает следующие преимущества на время действия:</p><p>* 30 временных очков жизни, они суммируются с любыми существующими временными очками жизни.</p><p>* Скорость ходьбы и Сонидо увеличиваются на 30 футов </p><p>* Получите 2 способности к вооружению, они доступны только в этой форме.</p><p>* Получите 2 способности банкай, они доступны только в этой форме.</p><p>* Получите 2 Пустые способности, они доступны только в этой форме.</p><p>* Все кубики природного оружия, доспехов и урона от ударов без оружия увеличены на одну ступень</p><p></p><p>Эту способность можно выбирать несколько раз, каждый раз выбирая одно из следующих улучшений:</p><p>* Увеличьте продолжительность на 1 минуту</p><p>* Вы получаете дополнительное вооружение и пустотелую способность или способность Банкай в этой форме
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Сокрытие в тенях [Shadow Stealth]', 
-        requirements: '8 HD, Ловкость 13', 
-        data:
-        `
-    While in dim light or darkness, the Hollow can take the Hide action as a bonus action.
-        `,
-        data_ru:
-        `
-    Находясь в условиях тусклого освещения или темноты, the Hollow может выполнить действие Спрятаться в качестве бонуса.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Осадный монстр [Siege Monster]', 
-        requirements: '10 HD, Сила 16', 
-        data:
-        `
-    The hollow deals double damage to objects and structures
-        `,
-        data_ru:
-        `
-    Пустота наносит двойной урон предметам и конструкциям
-        `
-    },
-        {
-        type: tp.hollow,
-        cost: cost.cst10, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.12,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft20, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: true, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchRest_SL, 
-        name: 'Сильбидо [Silbido]', 
-        requirements: '12 HD, Харизма 13', 
-        data:
-        `
-    Once per day, the Holow can summon Menos that appear in unoccupied spaces that they can see within range. Choose one of the following options for what appears:
-                    
-                                * One Menos of challenge rating 2 or lower.
-                                * Two menos of challenge rating 1 or lower.
-                                * Four Menos of challenge rating 1/2 or lower.
-                                * Eight Menos of challenge rating 1/4 or lower.
-                    
-                                The Menos dissapear when it drops to 0 hit points.
-                    
-                                The summoned creatures are friendly to the Hollow and it's companions. They act on the same turn as the Hollow. They obey any verbal commands that are issued to them (no action required by the Hollow). If the Hollow doesn't issue any commands to them, they attack any hostile creatures.
-                    
-                                The DM has the creatures' statistics.
-        `,
-        data_ru:
-        `
-    Один раз в день Персонаж может вызывать людей, которые появляются в незанятых местах, которые он может видеть в пределах досягаемости. Выберите один из следующих вариантов для того, что появляется: </p><p></p><p>* Один человек с рейтингом вызова 2 или ниже. </p><p>* Два мено с рейтингом сложности 1 или ниже. </p><p>* Четыре Мено с рейтингом сложности 1/2 или ниже. </p><p>* Восемь Мено с рейтингом сложности 1/4 или ниже. </p><p></p><p>Менос исчезает, когда его количество падает до 0 очков жизни. </p><p></p><p>Призванные существа дружелюбны к Лощине и ее компаньонам. Они действуют в тот же ход, что и Лощина. Они подчиняются любым устным командам, которые им отдаются (Пустота не требует никаких действий). Если Пустота не отдает им никаких команд, они атакуют любых враждебных существ. </p><p></p><p>У DM есть статистика существ.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Увеличение размера [Size Increase]', 
-        requirements: '4 HD', 
-        data:
-        `
-    The Hollow size increases by one category. Increasing its Strength score by 1 (maximum 18) and decreasing its Dexterity by 1 (minimum 8).
-                    
-                                This ability may be selected multiple times, to a maximum size of gargantuan.
-        `,
-        data_ru:
-        `
-    Размер полости увеличивается на одну категорию. Увеличивается показатель силы на 1 (максимум 18) и уменьшается Ловкость на 1 (минимум 8). </p><p></p><p>Эта способность может быть выбрана несколько раз, до максимального размера gargantuan'а.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Скользкий [Slippery]', 
-        requirements: '4 HD', 
-        data:
-        `
-    The Hollow has advantage on ability checks and saving throws made to escape a grapple.
-        `,
-        data_ru:
-        `
-    Лощина имеет преимущество при проверке способностей и спасительных бросках, сделанных, чтобы избежать схватки.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchDay1, 
-        name: 'Скрытая атака [Sneak Attack]', 
-        requirements: '4 HD, Ловкость 15, навык (Скрытность)', 
-        data:
-        `
-    The Hollow deals an extra 1d4 damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the Hollow that isn't incapacitated and the Hollow doesn't have disadvantage on the attack roll.
-                    
-                                For each 4 HD above 4 HD, the uses per day is increased by one; maximum 6\Day. For each 2 HD above 4 HD, the damage is increased by 1d4; maximum 6d4.
-        `,
-        data_ru:
-        `
-    Пустота наносит дополнительный урон 1d4, когда поражает цель атакой оружием и имеет преимущество при броске атаки, или когда цель находится в пределах 5 футов от союзника Пустоты, который не выведен из строя, и у Пустоты нет недостатка при броске атаки. </p><p></p><p>За каждые 4 HD выше 4 HD количество использований в день увеличивается на единицу; максимум 6\ День. За каждые 2 HD выше 4 HD урон увеличивается на 1d4; максимум 6d4.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.24,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: true, 
-            released: false
-        }, 
-        material_stuff: '(один из глаз заклинателя, который поглощает способность)',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.rchDay1, 
-        name: 'Солита Виста [Solita Vista]', 
-        requirements: '24 HD, Пескиса [Pesquisa], Мудрость 13 или Интеллект 13', 
-        data:
-        `
-    The Hollow removes one of its eyes and crushes it, which turns into dust and flows around up to 12 willing creatures.
-                    
-                                Affected creatures experience events that the Hollow has experienced that it chooses as far back as one week. The affected creatures experience the events as the Hollow did, the sight, sounds, emotions, etc. The amount of time the Hollow can relay is 1 minute for each two HD it possesses, these minutes need not be consecutive of the same day or event. It can be one minute of one day, and another minute of another day.
-        `,
-        data_ru:
-        `
-    Пустота удаляет один из своих глаз и раздавливает его, который превращается в пыль и обтекает до 12 существ, желающих этого. </p><p></p><p>Пострадавшие существа переживают события, которые Пустота пережила по своему выбору еще неделю назад. Пострадавшие существа переживают события так же, как это было в Пустоте, вид, звуки, эмоции и т.д. Время, которое Полый может ретранслировать, составляет 1 минуту на каждые два HD, которыми он обладает, эти минуты не обязательно должны быть последовательными в один и тот же день или событие. Это может быть одна минута одного дня и еще одна минута другого дня.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.6,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Сонидо [Sonido]', 
-        requirements: '6 HD', 
-        data:
-        `
-    The Hollow gains a Shunpo of 40 feet. For each 4 HD above 6 HD, the Shunpo is increased by 10 feet.
-        `,
-        data_ru:
-        `
-    Лощина получает Шунпо в 40 футов. За каждые 4 HD выше 6 HD Шунпо увеличивается на 10 футов.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.2,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Паучье лазанье [Spider Climb]', 
-        requirements: '2 HD', 
-        data:
-        `
-    The Hollow can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-        `,
-        data_ru:
-        `
-    Пустотелый может лазать по труднопроходимым поверхностям, в том числе вверх ногами по потолкам, без необходимости проверки способности.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.2,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Уверенный [Sure-Footed]', 
-        requirements: '2 HD, Сила 13 или Ловкость 13', 
-        data:
-        `
-    The Hollow has advantage on Strength and Dexterity saving throws against effects that would knock it prone.
-        `,
-        data_ru:
-        `
-    Пустота имеет преимущество в Силе и Ловкости при спасительных бросках против эффектов, которые могли бы сбить ее с ног.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Неожиданная атака [Surprise Attack]', 
-        requirements: '8 HD', 
-        data:
-        `
-    If the Hollow surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 1d6 damage from the attack. For each 4 HD above 8 HD, the damage increases by 1d6; maximum 4d6.
-        `,
-        data_ru:
-        `
-    Если Пустота застает существо врасплох и поражает его атакой во время первого раунда боя, цель получает дополнительный урон 1d6 от атаки. За каждые 4 HD выше 8 HD урон увеличивается на 1d6; максимум 4d6.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Проглатывание целиком [Swallow Whole]', 
-        requirements: '10 HD, Укус [Bite], Большой размер существа', 
-        data:
-        `
-    When the Hollow succeeds on it's Bite attack, If the target is at least one size smaller, it must succeed on a Dexterity saving throw or be swallowed by the Hollow. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the Hollow, and takes 3d4 acid damage at the start of each of the Hollows turns.
-                    
-                                If the Hollow takes 10 damage or more on a single turn from a creature inside it, the Hollow must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the Hollow. 
-        `,
-        data_ru:
-        `
-    Когда Пустотелый успешно атакует своим Укусом, если цель хотя бы на один размер меньше, он должен выполнить спасительный бросок на Ловкость или быть проглоченным Пустотелым. Проглоченное существо ослеплено и сковано, полностью защищено от атак и других эффектов за пределами Пустоты и получает 3d4 ед. урона кислотой в начале каждого хода в Пустоте. </p><p></p><p>Если Лощина получает 10 единиц урона или более за один ход от существа, находящегося внутри нее, Лощина должна успешно выполнить спасбросок конституции DC 20 в конце этого хода или отрыгнуть всех проглоченных существ, которые падают ничком в радиусе 10 футов от Лощины.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Хвост [Tail]', 
-        requirements: '3 HD', 
-        data:
-        `
-    You gain a tail. You can grasp things with your tail. It has a reach of 5 feet, and it can lift a number of pounds equal your Strength score. You can use it to do the following simple tasks: lift, drop, hold, push, or pull an object or a creature; open or close a door or a container. Your DM might allow other simple tasks to be added to that list of options.
-                    
-                                Your tail can’t wield weapons or shields or do anything that requires manual precision, such as using tools or magic items or performing the somatic components of a spell.
-                    
-                                This ability may be selected multiple times, each time choosing one of the following options:
-                                * Your tail is considered a melee weapon; using Dexterity.
-                                * You can use your tail to grapple someone. You must have a Strength 16 to select this option.
-        `,
-        data_ru:
-        `
-    Вы получаете хвост. Вы можете хвататься за предметы своим хвостом. Его длина достигает 5 футов, и он может поднять количество фунтов, равное вашему показателю силы. Вы можете использовать его для выполнения следующих простых задач: поднимать, ронять, удерживать, толкать или тянуть предмет или существо; открывать или закрывать дверь или контейнер. Ваш администратор может разрешить добавление других простых задач к этому списку опций. </p><p></p><p>Ваш хвост не может владеть оружием или щитами или делать что-либо, требующее ручной точности, например, использовать инструменты или магические предметы или выполнять соматические компоненты заклинания. </p><p></p><p>Эта способность может быть выбрана несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Ваш хвост считается оружием ближнего боя; требуется ловкость. </p><p>* Вы можете использовать свой хвост, чтобы схватить кого-нибудь. У вас должно быть количество баллов 16, чтобы выбрать этот вариант.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.4,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Щупальце [Tentacle]', 
-        requirements: '4 HD', 
-        data:
-        `
-    You gain a tentacle. You can grasp things with your tentacle. It has a reach of 5 feet, and it can lift a number of pounds equal your Strength score. You can use it to do the following simple tasks: lift, drop, hold, push, or pull an object or a creature; open or close a door or a container. Your DM might allow other simple tasks to be added to that list of options.
-                    
-                                Your tentacle can’t wield weapons or shields or do anything that requires manual precision, such as using tools or magic items or performing the somatic components of a spell.
-                    
-                                This ability may be selected multiple times, each time choosing one of the following options:
-                    
-                                * Your tentacle is considered a melee weapon, you must choose if its Strength or Dexterity based.
-                                * You can use your tentacle to grapple someone. You must have a Strength 16 to select this option.
-                                * You gain another tentacle.
-        `,
-        data_ru:
-        `
-    Вы получаете щупальце. Вы можете хвататься за предметы своим щупальцем. Его длина достигает 5 футов, и оно может поднять количество фунтов, равное вашему показателю силы. Вы можете использовать его для выполнения следующих простых задач: поднимать, ронять, удерживать, толкать или тянуть предмет или существо; открывать или закрывать дверь или контейнер. Ваш администратор может разрешить добавление других простых задач к этому списку опций. </p><p></p><p>Ваше щупальце не может владеть оружием или щитами или делать что-либо, требующее ручной точности, например, использовать инструменты или магические предметы или выполнять соматические компоненты заклинания. </p><p></p><p>Эту способность можно выбирать несколько раз, каждый раз выбирая один из следующих вариантов: </p><p></p><p>* Ваше щупальце считается оружием ближнего боя, вы должны выбрать, зависит ли оно от силы или ловкости. </p><p>* Вы можете использовать свое щупальце, чтобы схватить кого-нибудь. У вас должна быть сила 16, чтобы выбрать эту опцию. </p><p>* Вы получаете еще одно щупальце.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.3,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Местный камуфляж [Terrain Camouflage]', 
-        requirements: '3 HD', 
-        data:
-        `
-    Choose one of the following terrains: Arctic, Coastal, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark, Underwater, or Urban. The Hollow has advantage on Dexterity (Stealth) checks made to hide in the chosen terrain.
-        `,
-        data_ru:
-        `
-    Выберите один из следующих ландшафтов: Арктический, Прибрежный, Пустынный, Лесной, Луговой, Холмистый, Горный, Болотный, Подземный, Подводный или Городской. Лощина имеет преимущество при проверке ловкости (Скрытности), выполняемой для того, чтобы спрятаться на выбранной местности.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.10,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Тунеллер [Tunneler]', 
-        requirements: '10 HD, Землерой [Burrow]', 
-        data:
-        `
-    The Hollow can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
-        `,
-        data_ru:
-        `
-    Пустота может прорыться в твердой породе с половиной своей скорости и оставляет за собой туннель диаметром 10 футов.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.12,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Мстительный следопыт [Vengeful Tracker]', 
-        requirements: '12 HD', 
-        data:
-        `
-    The Hollow knows the distance to and direction of any creature against which it seeks revenge, even if the creature and the Hollow are on different planes of existence. If the creature being tracked by the Hollow dies, the Hollow knows.
-        `,
-        data_ru:
-        `
-    Пустота знает расстояние до любого существа, которому она стремится отомстить, и направление его движения, даже если существо и Пустота находятся на разных планах существования. Если существо, за которым следит Пустота, умирает, Пустота знает.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Хождение по воде [Water Walking]', 
-        requirements: '8 HD', 
-        data:
-        `
-    The Hollow can walk across water and other liquids as if they were solid ground.
-        `,
-        data_ru:
-        `
-    Полая может ходить по воде и другим жидкостям, как по твердой земле.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst3, 
-        rules: true,
-        forSummon: true,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Паутина [Web]', 
-        requirements: '8 HD', 
-        data:
-        `
-    As an action, the Hollow spews out webbing at a creature it can see within 30 feet. The target is restrained by webbing. As an action, the restrained target can make a Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; HP 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
-        `,
-        data_ru:
-        `
-    В качестве действия Пустота выпускает паутину в существо, которое она может видеть в радиусе 30 футов. Цель удерживается паутиной. В качестве действия связанная цель может провести проверку на Прочность, разорвав перепонку в случае успеха. Сеть также может быть атакована и уничтожена (AC 10; HP 5; уязвимость к урону от огня; невосприимчивость к ударам дубинкой, ядом и психическому урону).
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.8,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Паучий сенсор [Web Sense]', 
-        requirements: '8 HD', 
-        data:
-        `
-    While in contact with a web, the Hollow knows the exact location of any other creature in contact with the same web.
-                    
-                                Additionally, the Hollow ignores movement restrictions caused by webbing.
-        `,
-        data_ru:
-        `
-    Находясь в контакте с паутиной, Пустота знает точное местоположение любого другого существа, находящегося в контакте с той же паутиной. </p><p></p><p>Кроме того, Пустота игнорирует ограничения на передвижение, вызванные паутиной.
-        `
-    },
-    {
-        type: tp.hollow,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: true,
-        hdHollow: hd.14,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Уязвленная ярость [Wounded Fury]', 
-        requirements: '12 HD', 
-        data:
-        `
-    While the Hollow has 10 hit points or fewer, the Hollow has advantage on attack rolls. In addition, it deals an extra 1d6 damage to any target it hits with a melee attack. For each 4 HD above 14 HD, the Hollow deals an additional 1d6 damage; maximum 6d6.
-        `,
-        data_ru:
-        `
-    Хотя у Лощины 10 очков жизни или меньше, у Лощины есть преимущество в бросках атаки. Кроме того, она наносит дополнительный урон 1d6 любой цели, пораженной атакой ближнего боя. За каждые 4 HD выше 14 HD Пустота наносит дополнительный урон 1d6; максимум 6d6.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst1, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  true, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Форма холода [Cold Form]', 
-        requirements: '', 
-        data:
-        `
-    Your armament becomes pure ice. While this ability is active, your armaments damage type is changed to cold damage.
-
-                                If you have a Summon, you may have this ability apply to it's weapons as well. You may dismiss this ability as as a bonus action.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * You may activate this ability as a bonus action and dismiss it at will.
-                                * This ability no longer requires V or S components.
-        `,
-        data_ru:
-        `
-    Ваше вооружение становится чистым льдом. Пока эта способность активна, тип урона, наносимого вашим оружием, меняется на урон от холода. </p><p></p><p>Если у вас есть Призыв, вы можете применить эту способность и к его оружию. Вы можете отменить эту способность в качестве бонусного действия. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию. </p><p>* Для этой способности больше не требуются компоненты V или S.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  true, 
-            concentration: true, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ледяное оружие [Ice Weapon]', 
-        requirements: '', 
-        data:
-        `
-    Ice rimes your armament, dealing an additional 1d4 cold damage. You may dismiss this ability as a bonus action.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * You may activate this ability as a bonus action and dismiss it at will.
-                                * This ability no longer requires V or s components.
-                                * Increase the damage dice size by one step, to a maximum of a 1d12.
-        `,
-        data_ru:
-        `
-    Лед покрывает ваше вооружение, нанося дополнительный урон холодом на 1d4. Вы можете отменить эту способность в качестве бонусного действия. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию. </p><p>* Для этой способности больше не требуются компоненты V или s. </p><p>* Увеличьте размер кубика урона на один шаг, максимум до 1d12.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Замораживающее оружие [Freezing Weapon]', 
-        requirements: 'Одна ледяная способность', 
-        data:
-        `
-    When you score a critical hit with your armament, the target takes an additional 1d4 cold damage and is slowed. The target can use an action to make a Strength or Constitution saving throw. On a success, this effect ends.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * Increase the save DC by 1.
-                                * Increase the damage die size by one step, maximum of a 1d10.
-        `,
-        data_ru:
-        `
-    Когда вы наносите критический удар своим оружием, цель получает дополнительный урон холодом на 1d4 и замедляется. Цель может использовать действие, чтобы сделать спасбросок силы или телосложения. При успешном завершении этот эффект заканчивается. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Увеличьте значение сохранения DC на 1. </p><p>* Увеличьте размер кубика урона на один шаг, максимум на 1d10.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst1, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  true, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         true, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Контроль льда и снега [Control Ice & Snow]', 
-        requirements: 'Одна ледяная способность', 
-        data:
-        `
-    You choose nonmagical ice, snow or water that you can see within range and that fits within a 5-foot cube. You affect it in one of the follows ways:
-                                * You instantaneously freeze the water into ice or snow, you instantaneously melt ice or snow into water or can harden show into ice or soften ice to snow.
-                                * You lower the temperature by two temperature bands This change lasts for the duration.
-                                * You cause simple shapes - such as vague form of a creature, an inanimate object or location - to appear within the ice or snow as you lie. The shapes last for the duration.
-                                * If you use this ability multiple times, you can only have a number of its non-instantaneous effects, equal to your proficiency bonus active at a time, and you can dismiss such an effect as an action.
-
-                                Each time you reselect this ability, the cube is increased by 5 feet.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * You may now affect magical ice, snow or water.
-                                * The ice you can produce with this ability cannot be thawed out magically or otherwise.
-                                * You can lower the temperature by an additional 2 temperature bands.
-        `,
-        data_ru:
-        `
-    Вы выбираете немагический лед, снег или воду, которые можете видеть в пределах досягаемости и которые помещаются в 5-футовый куб. Вы воздействуете на них одним из следующих способов: </p><p>* Вы мгновенно замораживаете воду в лед или снег, вы мгновенно превращаете лед или снег в воду или можете превратить шоу в лед или размягчить лед в снег. </p><p>* Вы понижаете температуру на два температурных диапазона, и это изменение длится в течение всего срока действия. </p><p>* Пока вы лежите, вы заставляете простые фигуры - такие как расплывчатые очертания существа, неодушевленного предмета или местоположения - появляться во льду или снегу. Фигуры сохраняются в течение всего времени. </p><p>* Если вы используете эту способность несколько раз, у вас может быть активировано только количество ее не мгновенных эффектов, равных вашему бонусу за мастерство, и вы можете отклонить такой эффект как действие. </p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, куб увеличивается на 5 футов. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Теперь вы можете воздействовать на магический лед, снег или воду. </p><p>* Лед, который вы можете создать с помощью этой способности, нельзя разморозить магическим или иным способом. </p><p>* Вы можете снизить температуру еще на 2 температурных диапазона.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst1, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  true, 
-            concentration: true, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ледяной щит [Ice Shield]', 
-        requirements: 'Две ледяные способности', 
-        data:
-        `
-    A coat of ice surrounds your body for the ability's duration. The ice doesn't harm you or your equipment. Until the ability ends, you gain the following benefits:
-                                * You have resistance to cold and fire damage.
-                                * You reduce the next physical damage you take by 4, one you've taken this amount of damage, this part of the ability ends. Each time you reselect this ability, this increased by 1.
-                                * Any creature that is within 5 feet of you is slowed. Each time you reselect this ability, the range increases by 5 feet.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * This ability no longer requires V or S components.
-                                * This ability no longer requires Concentration.
-                                * You are immune to cold damage instead.
-                                * You may choose if this ability's damage affects creatures or not.
-
-        `,
-        data_ru:
-        `
-    Ваше тело покрыто слоем льда на время действия способности. Лед не причиняет вреда вам или вашему снаряжению. Пока действие способности не закончится, вы получаете следующие преимущества: </p><p>* У вас есть устойчивость к урону от холода и огня. </p><p>* Вы уменьшаете следующий наносимый вами физический урон на 4, после получения такого количества урона эта часть способности заканчивается. Каждый раз, когда вы повторно выбираете эту способность, она увеличивается на 1. </p><p>* Любое существо, находящееся в радиусе 5 футов от вас, замедляется. Каждый раз, когда вы повторно выбираете эту способность, дальность действия увеличивается на 5 футов. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Для этой способности больше не требуется концентрация. </p><p>* Вместо этого вы невосприимчивы к урону от холода. </p><p>* Вы можете выбрать, влияет ли урон от этой способности на существ или нет.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Конус льда [Cone of Ice]', 
-        requirements: 'Три ледяные способности', 
-        data:
-        `
-    A blast of cold air erupts from you. Each creature in a 60-foot cone must make a Dexterity saving throw. A creatures takes 3d8 cold damage on a failed save, or half as much damage on a successful one.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * This ability no longer requires V or S components.
-                                * Increase the cone size by 5 feet.
-                                * Increase the damage by 1d6.
-        `,
-        data_ru:
-        `
-    Из вас вырывается струя холодного воздуха. Каждое существо в 60-футовом конусе должно совершить спасительный бросок на ловкость. Существо получает 3d8 урона от холода при неудачном спасении или вдвое меньше урона при успешном. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте размер конуса на 5 футов. </p><p>* Увеличьте урон на 1d6.
-        `
-    },
-        {
-        type: tp.ice,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  true, 
-            concentration: true, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Стена льда [Wall of Ice]', 
-        requirements: 'Четыре ледяные способности', 
-        data:
-        `
-    You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of up to ten 10-foot-square panels. Each panel must be continuous with another panel. In any form, the wall is 1 foot thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature within its area is puched to one side of the wall and must make dexterity saving throw. On a failed save, the creatures takes 4d6 cold damage, or half as much damage on a successful save.
-
-                                The wall is an object that can be damaged and thus breached. Each panel has AC 12 and 10 hit points per inch of thickness, and it is vulnerable to fire damage. Reducing a panel of wall to 0 hit points destroys it and leaves behind a sheet of frigid air in the space the wall occupied. A creature moving throw the sheet of frigid air for the first time on turn must make a Constitution saving throw. The creature takes 4d6 cold damage on a failed save, or half as much damage on a successful one.
-
-                                Each time you reselect this ability, increase the damage by 1d6.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * Increase the range by 10 feet.
-                                * This ability no longer requires V or S components.
-                                * This ability no longer requires Concentration.
-                                * You can create an additional panel.
-        `,
-        data_ru:
-        `
-    Вы создаете ледяную стену на твердой поверхности в пределах досягаемости. Вы можете придать ему форму полусферического купола или сферы радиусом до 10 футов, а можете сформировать плоскую поверхность, состоящую из десяти панелей площадью до 10 квадратных футов. Каждая панель должна быть сплошной с другой панелью. В любой форме стена имеет толщину 1 фут и прослужит на протяжении всего срока. Если стена прорезает пространство существа при его появлении, существо, находящееся в пределах его зоны, отбрасывается к одной стороне стены и должно совершить спасительный бросок на ловкость. При неудачном спасении существа получают 4d6 урона от холода, или вдвое меньше урона при успешном спасении.</p><p></p><p>Стена - это объект, который можно повредить и, таким образом, пробить брешь. Каждая панель имеет 12 и 10 хит-пойнтов на дюйм толщины и уязвима к повреждениям от огня. Уменьшение количества попаданий в панель стены до 0 уничтожает ее и оставляет после себя слой холодного воздуха на пространстве, которое занимала стена. Существо, которое впервые за ход бросает слой холодного воздуха, должно совершить спасбросок телосложения. Существо получает 4d6 урона от холода при неудачном спасении или вдвое меньше урона при успешном.</p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, увеличивайте урон на 1 к 6.</p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Увеличьте дальность на 10 футов.</p><p>* Для этой способности больше не требуются компоненты V или S.</p><p>* Для этой способности больше не требуется концентрация.</p><p>* Вы можете создать дополнительную панель.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         true, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Столб льда [Pillar of Ice]', 
-        requirements: 'Четыре ледяные способности', 
-        data:
-        `
-    A 10-foot-radius, 40-foot-high column of ice rises from the ground, lifting any object or creature (including you) standing in the area into the air. Creatures succeeding on a Dexterity saving throw can choose to avoid the column, on failure taking 6d6 cold damage.
-
-                                Moving or fighting atop the ice column requires an Acrobatics check. Those who fail fall prone and must immediately succeed on a Dexterity saving throw or slip off the column, taking commensurate falling damage.
-
-                                Creatures atop the column as it rises may be smashed against the ceiling or other overhead obstruction, which deals 3d6 cold damage and 3d6 bludgeoning damage. 
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * Increase the range by 10 feet.
-                                * This ability no longer requires V or S components.
-                                * Increase the radius and height or the cylinder by 5 feet.
-                                * Increase the damage by 1d6.
-        `,
-        data_ru:
-        `
-    Ледяной столб радиусом 10 футов и высотой 40 футов поднимается из земли, поднимая в воздух любой предмет или существо (включая вас), стоящие в этом районе. Существа, преуспевшие в спасброске на ловкость, могут уклониться от колонны, в случае неудачи получая 6d6 урона от холода. </p><p></p><p>Перемещение или бой на вершине ледяной колонны требует проверки акробатики. Те, кто потерпел неудачу, падают ничком и должны немедленно выполнить спасбросок на ловкость или соскользнуть со столба, получив соответствующий урон при падении. </p><p></p><p>Существа на вершине колонны, когда она поднимается, могут быть разбиты о потолок или другое препятствие над головой, что наносит 3d6 урона от холода и 3d6 урона от ударов дубинкой. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Увеличьте дальность на 10 футов. </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте радиус и высоту цилиндра на 5 футов. </p><p>* Увеличьте урон на 1d6.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst3, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.ultimate,
-        castingTime: castTime.round, 
-        range: rng.ft100, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ледяной шторм [Ice Storm] (Ultimate)', 
-        requirements: 'Пять ледяных способностей', 
-        data:
-        `
-    A hail of rock-hard ice pounds on five ares you choose within range.
-
-                                The area consists of 80-foot-radius, 40-foot-high cylinder. Each creature in the area takes 7d8 cold damage.
-
-                                Hailstones causes the creatures within it's area to be slowed.
-
-                                Each time you reselect this ability, increase the damage by 1d8.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * This ability no longer requires V or S components.
-                                * Increase the radius and height by 10 feet.
-        `,
-        data_ru:
-        `
-    Град из твердого, как камень, льда обрушивается на пять выбранных вами соток в пределах досягаемости. </p><p></p><p>Территория состоит из цилиндра радиусом 80 футов и высотой 40 футов. Каждое существо в этой зоне получает 7d8 урона от холода. </p><p></p><p>Град замедляет существ в пределах своей области. </p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, увеличивайте урон на 1d8. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте радиус и высоту на 10 футов.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst4, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.ascended,
-        castingTime: castTime.round, 
-        range: rng.mile1, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ледяной рой [Ice Swarm] (Ascended)', 
-        requirements: 'Шесть ледяных способностей', 
-        data:
-        `
-    Freezing orbs of ice plummet to the ground at four different points you can see within range.
-
-                                Each creature in a 20-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creatures takes 10d6 cold damage and 10d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one icy bursts is affected only once.
-
-                                This ability damages plants, objects in the area and freezes water solid.
-
-                                You may reselect this ability a second time, if you do, creatures can be affected more than once from the icy bursts.
-        `,
-        data_ru:
-        `
-    Замораживающие ледяные шары падают на землю в четырех разных точках, которые вы можете видеть в пределах досягаемости. </p><p></p><p>Каждое существо в сфере радиусом 20 футов с центром в каждой выбранной вами точке должно совершить спасбросок на ловкость. Сфера разлетается по углам. Существа получают 10d6 урона от холода и 10d6 урона от ударов дубинкой при неудачном спасении или вдвое меньше урона при успешном. Существо, находящееся в зоне более чем одного ледяного взрыва, поражается только один раз. </p><p></p><p>Эта способность наносит урон растениям, предметам в этом районе и замораживает воду. </p><p></p><p>Вы можете повторно выбрать эту способность во второй раз, если вы это сделаете, существа могут пострадать от ледяных взрывов более одного раза.
-        `
-    },
-    {
-        type: tp.ice,
-        cost: cost.cst4, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.ascended,
-        castingTime: castTime.round, 
-        range: rng.mile1, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: true, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Ниже нуля [Subzero] (Ascended)', 
-        requirements: 'Шесть ледяных способностей', 
-        data:
-        `
-    Your armament abilities or Kido that deal cold damage, ignore resistances. If a creature would be immune to cold damage, they instead take half damage.
-        `,
-        data_ru:
-        `
-    Ваши способности к вооружению или кидо, наносящие урон холодом, игнорируют сопротивление. Если существо невосприимчиво к урону холодом, оно вместо этого получает половину урона.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  true, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Психическая форма [Psychic Form]', 
-        requirements: '', 
-        data:
-        `
-    While this ability is active, your armaments damage type is changed to psychic damage.
-
-                                If you have a Summon, you may have this ability apply to it's weapons as well. You may dismiss this ability as as a bonus action.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * You may activate this ability as a bonus action and dismiss it at will.
-                                * This ability no longer requires V or S components.
-        `,
-        data_ru:
-        `
-    Пока эта способность активна, тип урона от оружия меняется на психический урон. </p><p></p><p>Если у вас есть Призыв, вы можете применить эту способность и к оружию. Вы можете отменить эту способность в качестве бонусного действия. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию. </p><p>* Для этой способности больше не требуются компоненты V или S.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  true, 
-            concentration: true, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Оружие разума [Mind Weapon]', 
-        requirements: '', 
-        data:
-        `
-    Your armament deals an additional 1d4 psychic damage. You may dismiss this ability as a bonus action.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * You may activate this ability as a bonus action and dismiss it at will.
-                                * This ability no longer requires V or S components.
-                                * Increase the damage dice size by one step, to a maximum of a 1d12.
-        `,
-        data_ru:
-        `
-    Ваше вооружение наносит дополнительный 1d4 психического урона. Вы можете отменить эту способность в качестве бонусного действия. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию. </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте размер кубика урона на один шаг, максимум до 1d12.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst0, 
-        rules: false,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.none, 
-        range: rng.none, 
-        components: 
-        { 
-            verbal:   false, 
-            somatic:  false, 
-            material: false, 
-            released: false
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Псионическое оружие [Psionic Weapon]', 
-        requirements: 'Одна иллюзорная способность', 
-        data:
-        `
-    When you score a critical hit with your armament, the target takes an additional 1d4 psychic damage and is incapacitated. At the end of each of its turns, the target can make a intelligence saving throw. On a success, the effect ends on the target.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * Increase the save DC by 1.
-                                * Increase the damage die size by one step, to a maximum of a 1d10.
-        `,
-        data_ru:
-        `
-    Когда вы наносите критический удар своим оружием, цель получает дополнительный 1d4 психического урона и становится недееспособной. В конце каждого хода цель может совершить интеллектуальный спасбросок. В случае успеха действие эффекта прекращается на цели. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Увеличьте время сохранения на 1. </p><p>* Увеличьте размер кубика урона на один шаг, максимум до 1d10.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: true, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Иллюзия [Illusion]', 
-        requirements: 'Одна иллюзорная способность', 
-        data:
-        `
-    You create one image of an object that is no larger than a 5-foot cube. Each time you reselect this ability, the cube increased by 5 feet and the number of images you can create increases by one.
-
-                                The image appears at a spot that you can see within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
-
-                                As long as you are within range of the illusion, you can use your action to alter its appearance. Each time you reselect this ability, the range of this ability increases by 10 feet.
-
-                                Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against the save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and its other sensory qualities become faint to the creature. 
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * This ability no longer requires V or S components.
-                                * You can instead use a bonus action to alter the illusion.
-                                * You can create images of creatures.
-                                * You can also create and altar auditory sensations with the illusion.
-                                * You can also create and alter olfactory sensations within the illusion.
-                                * You can also create and altar temperatures appropriate to the illusion.
-                                * You can spend an action to 'program' scripted events your illusion follows, as well as specific conditions that must be met to activate, or change the events. These events continue to loop until the end of the duration, or you program different events. You must have select this ability four times before you can select this option.
-        `,
-        data_ru:
-        `
-    Вы создаете одно изображение объекта размером не более 5-футового куба. Каждый раз, когда вы повторно выбираете эту возможность, куб увеличивается на 5 футов, а количество изображений, которые вы можете создать, увеличивается на единицу. </p><p></p><p>Изображение появляется в месте, которое вы можете видеть в пределах досягаемости, и сохраняется в течение всего времени. Изображение является чисто визуальным; оно не сопровождается звуком, запахом или другими сенсорными эффектами. </p><p></p><p>Пока вы находитесь в пределах досягаемости иллюзии, вы можете использовать свое действие, чтобы изменить ее внешний вид. Каждый раз, когда вы повторно выбираете эту способность, радиус действия этой способности увеличивается на 10 футов. </p><p></p><p>Физическое взаимодействие с изображением показывает, что это иллюзия, потому что вещи могут проходить через него. Существо, которое использует свое действие для изучения изображения, может определить, что это иллюзия, после успешной проверки Интеллекта (расследования) с сохранением DC. Если существо распознает иллюзию такой, какая она есть, оно может видеть сквозь изображение, и другие его сенсорные качества становятся для существа неуловимыми. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Вместо этого вы можете использовать бонусное действие, чтобы изменить иллюзию. </p><p>* Вы можете создавать изображения существ. </p><p>* Вы также можете создавать и изменять слуховые ощущения с помощью иллюзии. </p><p>* Вы также можете создавать и изменять обонятельные ощущения в рамках иллюзии. </p><p>* Вы также можете создать температуру алтаря, соответствующую иллюзии. </p><p>* Вы можете потратить действие, чтобы запрограммировать события по сценарию, которым следует ваша иллюзия, а также определенные условия, которые должны быть выполнены для активации или изменения событий. Эти события продолжают повторяться до окончания продолжительности, или вы программируете другие события. Вы должны выбрать эту возможность четыре раза, прежде чем сможете выбрать эту опцию.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst1, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: true, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Сокрытие себя [Disguise Self]', 
-        requirements: 'Одна иллюзорная способность', 
-        data:
-        `
-    You make yourself - including your clothing, armor, weapons and other belongs on your person - look different for the duration, or until you use your action to dismiss it.
-
-                                You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can’t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
-
-                                The changes wrought by this ability fail to hold up to physical inspection. For example, if you use this ability to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this ability to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
-
-                                To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your save DC.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-
-                                * This ability no longer requires V or S components.
-                                * This ability no longer requires concentration.
-                                * Increase the duration by 1 minute.
-        `,
-        data_ru:
-        `
-    Вы заставляете себя - включая свою одежду, доспехи, оружие и другие принадлежности к вашей персоне - выглядеть по-другому на время или до тех пор, пока вы не воспользуетесь своим действием, чтобы избавиться от этого. </p><p></p><p>Вы можете казаться на 1 фут ниже или выше, а можете казаться худым, толстым или что-то среднее. Вы не можете изменить свой тип телосложения, поэтому вы должны принять форму, которая имеет такое же базовое расположение конечностей. В противном случае, степень иллюзии зависит от вас. </p><p></p><p>Изменения, вызванные этой способностью, не выдерживают физического контроля. Например, если вы используете эту способность, чтобы добавить шляпу к своему наряду, предметы проходят через шляпу, и любой, кто прикоснется к ней, ничего не почувствует или почувствует вашу голову и волосы. Если вы используете эту способность казаться тоньше, чем вы есть на самом деле, рука того, кто протянет руку, чтобы прикоснуться к вам, столкнется с вами, когда она, казалось бы, все еще находится в воздухе. </p><p></p><p>Чтобы распознать, что вы замаскированы, существо может использовать свое действие для проверки вашей внешности и должно успешно выполнить проверку интеллекта (Расследование) по вашему сохраненному DC. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p></p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Для этой способности больше не требуется концентрация. </p><p>* Увеличьте продолжительность на 1 минуту.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst1, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.self, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Зеркальное изображение [Mirror Image]', 
-        requirements: 'Две иллюзорные способности', 
-        data:
-        `
-    Three illusory duplicates of yourself appear in your space. For the duration, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which images is real. You can use your action to dismiss the illusory duplicates.
-
-                                Each time a creature targets you with an attack during the ability's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.
-
-                                If the number rolled is equal to or greaterh than 20 - 8 - the number of duplicates, you may change the attack's target to a duplicate.
-
-                                A duplicates AC equal 10 + your Dexterity modifier. If an attack hits a duplicate, teh duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The ability ends when all duplicates are destroyed.
-
-                                A creature is unaffected by this ability if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * This ability no longer requires V or S components.
-                                * Increase the duration by 1 minute.
-                                * Increase the amount of duplicates by one, maximum of six duplicates.
-        `,
-        data_ru:
-        `
-    В вашем пространстве появляются три иллюзорных дубликата вас самих. На время действия дубликаты перемещаются вместе с вами и имитируют ваши действия, меняя положение, поэтому невозможно отследить, какие изображения настоящие. Вы можете использовать свое действие, чтобы удалить иллюзорные дубликаты. </p><p></p><p>Каждый раз, когда существо атакует вас в течение действия способности, бросьте d20, чтобы определить, нацелена ли атака на одного из ваших дубликатов. </p><p></p><p>Если выпавшее число равно или больше 20 - 8 - количество дубликатов, вы можете изменить цель атаки на дубликат. </p><p></p><p>Количество дубликатов равно 10 + ваш модификатор ловкости. Если атака поражает дубликат, дубликат уничтожается. Дубликат может быть уничтожен только атакой, которая поражает его. При этом игнорируются все другие повреждения и эффекты. Способность заканчивается, когда все дубликаты уничтожены. </p><p></p><p>Эта способность не влияет на существо, если оно не может видеть, если оно полагается на чувства, отличные от зрения, такие как слепота, или если оно может воспринимать иллюзии как ложные, как при истинном зрении. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте продолжительность на 1 минуту. </p><p>* Увеличьте количество дубликатов на один, максимум на шесть.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft30, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: true, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Страх [Fear]', 
-        requirements: 'Три иллюзорные способности', 
-        data:
-        `
-    Choose a single creature you can see within range, you project a phantasmal image of that creature’s worst fears that is only visible to that creature. Each time you reselect this ability the range increased by 10 feet.
-
-                                The target must make a Intelligence saving throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target’s turns before the spell ends, the target must succeed on a Wisdom saving throw or take 2d8 psychic damage. On a successful save, the spell ends.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * This ability no longer requires V or S components.
-                                * This ability no longer requires concentration.
-                                * You can target an additional creature, maximum 5.
-                                * Increase the damage by 1d8 to a maximum of 6d8.
-        `,
-        data_ru:
-        `
-    Выбрав единственное существо, которое вы можете увидеть в пределах досягаемости, вы проецируете призрачный образ худших страхов этого существа, который виден только этому существу. Каждый раз, когда вы повторно выбираете эту способность, дальность увеличивается на 10 футов. </p><p></p><p>Цель должна совершить интеллектуальный спасбросок. При неудачном спасении цель на время пугается. В конце каждого хода цели до окончания действия заклинания цель должна успешно выполнить спасбросок Мудрости или получить 2d8 психического урона. При успешном спасброске действие заклинания заканчивается. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Для этой способности больше не требуется концентрация. </p><p>* Вы можете нацелиться на дополнительное существо, максимум на 5. </p><p>* Увеличьте урон на 1d8, максимум до 6d8.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: true, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Призрачный убийца [Phantasmal Killer]', 
-        requirements: 'Четыре иллюзорные способности', 
-        data:
-        `
-    You craft an illusion that takes root in the mind of a creature that you can see within range. The target must make an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other visible phenomenon of your choice that is no larger than a 10-foot cube and that is perceivable only to the target for the duration. This ability has no effect on undead or constructs. Each time you reselect this ability the cube is increased by 5 feet.
-
-                                The phantasm includes sound, temperature, and other stimuli, also evident only to the creature.
-
-                                The target can use its action to examine the phantasm with an Intelligence (Investigation) check against the save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the ability ends.
-
-                                While a target is affected by the ability, the target treats the phantasm as if it were real. The target rationalizes any illogical outcomes from interacting with the phantasm. For example, a target attempting to walk across a phantasmal bridge that spans a chasm falls once it steps onto the bridge. If the target survives the fall, it still believes that the bridge exists and comes up with some other explanation for its fall it was pushed, it slipped, or a strong wind might have knocked it off.
-
-                                An affected target is so convinced of the phantasm’s reality that it can even take damage from the illusion. A phantasm created to appear as a creature can attack the target. Similarly, a phantasm created to appear as fire, a pool of acid, or lava can burn the target. Each round on your turn, the phantasm can deal 4d6 psychic damage to the target if it is in the phantasm's area of within 5 fee of the phantasm,
-
-                                provided that the illusion is of a creature or hazard that could logically deal damage, such as by attacking. The target perceives the damage as a type appropriate to the illusion.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * Increase the range by 10 feet.
-                                * this ability no longer requires V or S components.
-                                * This ability no longer requires concentration.
-                                * Increase the damage by 1d6.
-        `,
-        data_ru:
-        `
-    Вы создаете иллюзию, которая внедряется в разум существа, которое вы можете видеть в пределах досягаемости. Цель должна совершить интеллектуальный спасбросок. При неудачном сохранении вы создаете призрачный объект, существо или другое видимое явление по вашему выбору, размер которого не превышает 10-футовый куб и который на время действия виден только цели. Эта способность не влияет на нежить или конструкции. Каждый раз, когда вы повторно выбираете эту способность, куб увеличивается на 5 футов. </p><p></p><p>Фантом включает в себя звук, температуру и другие стимулы, также очевидные только для существа. </p><p></p><p>Цель может использовать свое действие для проверки фантома с проверкой интеллекта (Расследования) по сохраненному DC. Если проверка проходит успешно, цель понимает, что фантом - это иллюзия, и действие способности заканчивается. </p><p></p><p>Пока способность воздействует на цель, цель относится к фантому так, как если бы он был реальным. Цель рационализирует любые нелогичные результаты взаимодействия с фантомом. Например, цель, пытающаяся пройти по призрачному мосту, перекинутому через пропасть, падает, как только ступает на мост. Если объект переживает падение, он все еще верит, что мост существует, и находит какое-то другое объяснение своему падению: его столкнули, он поскользнулся или его мог сорвать сильный ветер. </p><p></p><p>Пораженная цель настолько убеждена в реальности фантома, что может даже получать урон от иллюзии. Фантом, созданный в виде существа, может атаковать цель. Точно так же фантом, созданный в виде огня, лужи кислоты или лавы, может сжечь цель. В каждом раунде вашего хода фантом может наносить 4d6 психического урона цели, если она находится в зоне действия фантома в пределах 5 метров от фантома., </p><p></p><p>при условии, что иллюзия представляет существо или опасность, которые логически могут наносить урон, например, атакуя. Цель воспринимает урон как тип, соответствующий иллюзии. </p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Увеличьте дальность на 10 футов. </p><p>* для этой способности больше не требуются компоненты V или S. </p><p>* Для этой способности больше не требуется концентрация. </p><p>* Увеличьте урон на 1d6.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst2, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.usual,
-        castingTime: castTime.action, 
-        range: rng.ft60, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       true,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          false
-        }, 
-        recharge: rch.none, 
-        name: 'Галлюциногенный ландшафт [Hallucinatory Terrain]', 
-        requirements: 'Четыре иллюзорные способности', 
-        data:
-        `
-    You make terrain in an area up to 20-foot-cube look, sound, smell, and even feel like some other sort of terrain. each time
-
-                                Each time you reselect this ability, the cube increases by 5 feet. The terrain’s general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
-
-                                Similarly, you can alter the appearance of structures, or add them where none are present. The spell doesn’t disguise, conceal, or add creatures.
-
-                                The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell’s area disappears immediately.
-
-                                A creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * Increase the range by 10 feet.
-                                * This ability no longer requires V or S components.
-                                * Increase the duration by 1 minute.
-        `,
-        data_ru:
-        `
-    Вы придаете ландшафту площадью до 20 кубических футов внешний вид, звук, запах и даже ощущения, похожие на какой-то другой ландшафт. каждый раз, когда </p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, куб увеличивается на 5 футов. Однако общая форма местности остается прежней. Открытые поля или дорогу можно сделать похожими на болото, холм, расщелину или какую-либо другую труднопроходимую местность. Пруд можно сделать похожим на травянистый луг, пропасть - на пологий склон или усыпанный камнями овраг - на широкую и гладкую дорогу. </p><p></p><p>Аналогичным образом, вы можете изменять внешний вид структур или добавлять их там, где их нет. Заклинание не маскирует и не добавляет существ. </p><p></p><p>Иллюзия включает в себя звуковые, визуальные, тактильные и обонятельные элементы, поэтому она может превратить чистую местность в труднопроходимую (или наоборот) или иным образом затруднить передвижение по местности. Любая часть иллюзорной местности (например, камень или палка), удаленная из зоны действия заклинания, немедленно исчезает. </p><p></p><p>Существо, внимательно изучающее иллюзию, может попытаться проверить Интеллект (Расследование) вашего заклинания save DC, чтобы не поверить ему. Существо, которое распознает иллюзию такой, какая она есть, видит ее как расплывчатое изображение, наложенное на местность. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Увеличьте дальность на 10 футов. </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте продолжительность на 1 минуту.
-        `
-    },
-    {
-        type: tp.illusion,
-        cost: cost.cst3, 
-        rules: true,
-        forSummon: false,
-        hdHollow: hd.none,
-        abKind: knd.ultimate,
-        castingTime: castTime.round, 
-        range: rng.ft20, 
-        components: 
-        { 
-            verbal:   true, 
-            somatic:  true, 
-            material: false, 
-            released: true
-        }, 
-        material_stuff: '',
-        duration:
-        { 
-            until_sealed:  false, 
-            concentration: false, 
-            minute1:       false,
-            minute2:       false, 
-            minute5:       false,
-            minute10:      false, 
-            round1:        false, 
-            round2:        false,
-            round5:        false, 
-            instantaneous: false, 
-            hour1:         false, 
-            special:       false,
-            day2:          true
-        }, 
-        recharge: rch.none, 
-        name: 'Геас [Geas] (Ultimate)', 
-        requirements: 'Пять иллюзорных способностей', 
-        data:
-        `
-    You place a magical command on a creature that you can see within range, forcing it to carry out some service or refrain from some action or course of activity as you decide.
-                                If the creature can understand you it becomes charmed by you for the duration. While the creature is charmed by you, it takes 5d10 psychic damage each time it acts in a manner directly counter to your instructions, but no more than once each day. A creature that can’t understand you is unaffected by this ability.
-
-                                Each time you reselect this ability the damage increases by 1d10.
-
-                                You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the ability ends. You can end the ability early by using an action to dismiss it. A remove curse, greater restoration, or similar magic or ability also ends it.
-
-                                You may reselect this ability multiple times, each time choosing one of the following options:
-                                * Increase the range by 10 feet.
-                                * This ability no longer requires V or S components.
-                                * Increase the duration by 1 day.
-                                * A creature may take damage more than once each day. You must have selected this ability three times before you can select this option.
-        `,
-        data_ru:
-        `
-    Вы отдаете магическую команду существу, которое видите в пределах досягаемости, заставляя его выполнить какую-то услугу или воздержаться от какого-то действия по вашему решению. </p><p>Если существо может понять вас, оно становится очарованным вами на какое-то время. Пока вы зачаровываете существо, оно получает 5d10 психического урона каждый раз, когда действует прямо вопреки вашим инструкциям, но не чаще одного раза в день. На существо, которое не может вас понять, эта способность не действует. </p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, урон увеличивается на 1d10. </p><p></p><p>Вы можете отдать любую команду по своему выбору, за исключением действия, которое приведет к неминуемой смерти. Если вы отдадите суицидальную команду, действие способности прекратится. Вы можете досрочно прекратить действие способности, используя действие для ее отмены. Снятие проклятия, большее восстановление или подобная магия или способность также прекращают действие. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Увеличьте дальность на 10 футов. </p><p>* Для этой способности больше не требуются компоненты V или S. </p><p>* Увеличьте продолжительность на 1 день. </p><p>* Существо может получать урон более одного раза в день. Вы должны были выбрать эту возможность три раза, прежде чем сможете выбрать эту опцию.
-        `
-    },
-    {
         type: tp.illusion,
         cost: cost.cst4, 
         rules: true,
@@ -18978,7 +14062,7 @@ const armamentAbilitiesContent = [
     Луч света устремляется к существу в пределах досягаемости. Нанесите по цели дальнюю атаку. При попадании цель получает 3d8 урона от излучения. </p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, вы получаете дополнительный луч максимум к четырем лучам. Вы можете направить дополнительные лучи на ту же цель или на другую, вы должны сделать отдельный бросок атаки для любых дополнительных лучей. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов: </p><p>* Для этой способности больше не требуются компоненты V. </p><p>* Дальность стрельбы увеличена на 10 футов. </p><p>* Увеличьте размер кубика урона до d10. Вы должны выбрать эту способность четыре раза, прежде чем сможете выбрать эту опцию.
         `
     },
-        {
+    {
         type: tp.light,
         cost: cost.cst2, 
         rules: true,
@@ -21866,6 +16950,2192 @@ const armamentAbilitiesContent = [
         `
     Ваши звуковые способности увеличены по мощности.</p><p></p><p>Ваши способности к вооружению или кидо, наносящие урон от грома, игнорируют сопротивление. Если существо невосприимчиво к урону от грома, оно вместо этого получает половину урона.
         `
-    }
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft5, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       true,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Призыв [Summon]', 
+        requirements: '', 
+        data:
+        `
+    *When you select this ability you must choose a Summon. To do so, choose any type of creature with a stat block in the Monster Manual (or any other resource approved by your DM) with a challenge rating 1/2 or lower. Any additional Summon abilities gained will add to, change or remove from your Summons stat block.*
 
+                                You toss your armament into an unoccupied space you choose within range, it transforms into your Summon. As an action you control what your Summon does.
+
+                                While your armament is your Summon it gains the following traits:
+                                * Your Summon has a proficiency bonus equal to yours.
+                                * Any abilities or attacks your Summon has that deal damage, its damage amount is changed to your base armament damage.
+                                * If your Summon is reduced to 0 hit points, it reverts back to your armament and falls to the ground.
+                                * You can't have more than one Summon active at a time.
+
+                                For every other Summon ability you have, the duration of this ability is increased by 1 minute.
+
+                                Whenever you level up and your HD increases, your Summons HD increases by one.
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+
+                                * When you activate Summon, you gain a copy of your Armament
+                                * The casting time is changed to a Bonus action 
+                                * This ability doesn't require V or S components
+        `,
+        data_ru:
+        `
+    * Когда вы выбираете эту способность, вы должны выбрать Призыв. Для этого выберите любой тип существа с блоком характеристик из Руководства по монстрам (или любого другого ресурса, одобренного вашим мастером) с рейтингом сложности 1/2 или ниже. Любые дополнительные полученные способности к призыву дополняют, изменяют или удаляют из вашего блока характеристик призыва.*</p><p></p><p>Вы бросаете свое вооружение в выбранное вами свободное место в пределах досягаемости, оно преобразуется в ваш Призыв. В ходе действия вы контролируете действие своего Призыва.</p><p></p><p>Хотя ваше вооружение зависит от вашего Призыва, оно приобретает следующие характеристики:</p><p>* К вашему призыву добавляется бонус к навыкам, равный вашему.</p><p>* Любые способности или атаки, которые наносит ваш Призыв, изменяются на урон от вашего базового вооружения.</p><p>* Если ваш Призыв уменьшен до 0 очков жизни, он возвращается обратно в ваше вооружение и падает на землю.</p><p>* У вас не может быть активировано более одного призыва одновременно.</p><p></p><p>Для каждой другой вашей способности призыва продолжительность действия этой способности увеличивается на 1 минуту.</p><p></p><p>Всякий раз, когда вы повышаете уровень и ваш HD увеличивается, ваш уровень призыва увеличивается на единицу.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p></p><p>* Когда вы активируете Призыв, вы получаете копию своего Вооружения</p><p>* Время применения меняется на бонусное действие </p><p>* Для этой способности не требуются компоненты V или S
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Клинок призыва [Summons Blade]', 
+        requirements: 'Призыв [Summon]', 
+        data:
+        `
+    Your Summon has a copy of your armament, if any. However, it cannot use any armament abilities.
+        `,
+        data_ru:
+        `
+    Ваш призыв содержит копию вашего вооружения, если таковое имеется. Однако он не может использовать никакие способности вооружения.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Увеличение очков способностей [Ability Score Increase]', 
+        requirements: 'Призыв [Summon]', 
+        data:
+        `
+    Choose one of your Summons ability scores, it increases by 2, or you can increase two ability scores of your Summon by 1 instead.
+
+                                You may reselect this ability multiple times.
+        `,
+        data_ru:
+        `
+    Выберите одну из ваших способностей Призыва, она увеличится на 2, или вместо этого вы можете увеличить две способности вашего Призыва на 1.</p><p></p><p>Вы можете повторно выбирать эту способность несколько раз.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Природная броня [Natural Armor]', 
+        requirements: 'Призыв [Summon]', 
+        data:
+        `
+    Your Summon gains a natural armor bonus of 2. If it already has natural armor, it increases by 2.
+        `,
+        data_ru:
+        `
+    Ваш призыватель получает бонус к естественной броне в размере 2. Если у него уже есть естественная броня, она увеличивается на 2.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Увеличение числа здоровья [Hit Point Increase]', 
+        requirements: 'Призыв [Summon]', 
+        data:
+        `
+    Your summon gains two hit die, and its maximum hit points increases. To determine the amount of the increase, roll your Summons Hit Die (the type of die appears in the Summons stat block), and add its Constitution modifier.
+
+                                You may reselect this ability multiple times.
+        `,
+        data_ru:
+        `
+    Ваш призыв получает два кубика с попаданиями, и его максимальное количество очков жизни увеличивается. Чтобы определить величину увеличения, бросьте кубик, поражающий призыв (тип кубика отображается в блоке характеристик призыва), и добавьте модификатор его конституции.</p><p></p><p>Вы можете повторно выбирать эту способность несколько раз.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Увеличение скорости [Speed Increase]', 
+        requirements: 'Призыв [Summon]', 
+        data:
+        `
+    Select one of your Summons modes of movement, it increases by 10 feet.
+
+                                You may reselect this ability multiple times.
+        `,
+        data_ru:
+        `
+    Выберите один из режимов передвижения вашего призывателя, он увеличивается на 10 футов.</p><p></p><p>Вы можете повторно выбирать эту способность несколько раз.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Расширенное видение [Extra Sense]', 
+        requirements: 'Призыв [Summon]', 
+        data:
+        `
+    Your Summon gains one of the following senses:
+                                * Blindsight 30 feet.
+                                * Darkvision 60 feet.
+                                * Tremorsense 80 feet.
+
+                                You may reselect this ability multiple times, each time choosing a different sense.
+        `,
+        data_ru:
+        `
+    Ваш призыв получает одно из следующих чувств:</p><p>* Зрение вслепую на 30 футов.</p><p>* Зрение в темноте на 60 футов.</p><p>* Чувство тремора на 80 футов.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая другое ощущение.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Расширенное движение [Extra Movement]', 
+        requirements: 'Призыв [Summon], три способности призыва', 
+        data:
+        `
+    Your Summon gains one of the following movements modes:
+
+                                Burrow speed of 50 feet.
+                                Climb speed of 40 feet.
+                                Fly speed of 30 feet.
+                                Swim speed of 60 feet.
+
+                                You may reselect this ability multiple times, each time choosing a different movement mode.
+        `,
+        data_ru:
+        `
+    Ваш призыв получает один из следующих режимов передвижения:</p><p></p><p>Скорость погружения в нору - 50 футов.</p><p>Скорость набора высоты - 40 футов.</p><p>Скорость полета - 30 футов.</p><p>Скорость плавания - 60 футов.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая другой режим передвижения.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Истинное зрение [truesight]', 
+        requirements: 'Призыв [Summon], Расширенное видение [Extra Sense], две способности призыва', 
+        data:
+        `
+    Your summon gains truesight out to 30 feet.
+        `,
+        data_ru:
+        `
+    Ваш призыв усиливает Истинное Зрение на расстоянии до 30 футов.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Иммунитет к состояниям [Condition Immunity]', 
+        requirements: 'Призыв [Summon], пять способностей призыва', 
+        data:
+        `
+    Choose one of the conditions listed below, your Summon is immune to that condition.
+
+                                Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, or poisoned.
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+                                * Choose another condition your Summon is now immune too.
+                                * Choose Restrained, Stunned or Exhaustion, your Summon is now immune to that condition. You must have selected this ability once, and have five other Summon abilities before you can choose this option.
+
+        `,
+        data_ru:
+        `
+    Выберите одно из перечисленных ниже условий, ваш Призыв невосприимчив к этому условию.</p><p></p><p>Ослеплен, Зачарован, Оглушен, напуган, парализован, окаменел или отравлен.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Выберите другое условие, при котором ваш призыв теперь также невосприимчив.</p><p>* Выберите Сдержанный, Оглушенный или Истощенный, ваш призыв теперь невосприимчив к этому состоянию. Вы должны были выбрать эту способность один раз и обладать пятью другими способностями призыва, прежде чем сможете выбрать этот вариант.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Передача чувств [Share Senses]', 
+        requirements: 'Призыв [Summon], шесть способностей призыва', 
+        data:
+        `
+    While your Summon is within 100 feet of you, you can communicate with it telepathically. Additionally, as a bonus action, you can see through your Summon's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the Summon has. During this time, you are deaf and blind with regard to your own senses.
+        `,
+        data_ru:
+        `
+    Пока ваш Призыв находится в радиусе 100 футов от вас, вы можете общаться с ним телепатически. Кроме того, в качестве бонусного действия вы можете видеть глазами своего Призывателя и слышать то, что слышит он, до начала вашего следующего хода, получая преимущества любых особых чувств, которыми обладает Призыватель. В течение этого времени вы глухи и слепы по отношению к своим собственным чувствам.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Регенерация [Regeneration]', 
+        requirements: 'Призыв [Summon], восемь способностей призыва', 
+        data:
+        `
+    Your Summon regains 10 hit points at the start of your turn. Choose a damage type, if your Summon took damage of the chosen type since your last turn, this ability doesn't function at the start of your next turn.
+
+                                You may reselect this ability multiple times, each time increasing the amount of hit points regained by 2.
+        `,
+        data_ru:
+        `
+    Ваш призыв восстанавливает 10 очков жизни в начале вашего хода. Выберите тип урона. Если ваш Призыв получил урон выбранного типа с момента вашего последнего хода, эта способность не действует в начале вашего следующего хода.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз увеличивая количество восстановленных очков жизни на 2.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Передача заклинаний [Share Spells]', 
+        requirements: 'Призыв [Summon], десять способностей призыва', 
+        data:
+        `
+    when you cast a spell targeting yourself, you can also affect your Summon with the spell if your Summon is within 30 feet of you.
+        `,
+        data_ru:
+        `
+    когда вы произносите заклинание, нацеленное на вас самих, вы также можете повлиять этим заклинанием на свой Призыв, если он находится в пределах 30 футов от вас.
+        `
+    },
+    {
+        type: tp.summon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: true,
+        hdHollow: hd.none,
+        abKind: knd.ascended,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Трансмогрификация [Transmogrify] (Ascended)', 
+        requirements: 'Призыв [Summon], четыре способностей призыва, форма Ascended', 
+        data:
+        `
+    At the end of each long rest or when you enter your ascended form, you may reselect all your Summoning armament abilities, choosing new ones if desired.
+        `,
+        data_ru:
+        `
+    В конце каждого длительного отдыха или когда вы входите в свою вознесенную форму, вы можете повторно выбрать все свои способности к Призыву оружия, при желании выбрав новые.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Форма воды [Water Form]', 
+        requirements: '', 
+        data:
+        `
+    Your armament becomes pure water. While this ability is active, your armaments damage type is changed to cold damage.
+
+                                If you have a Summon, you may have this ability apply to it's weapons as well. You may dismiss this ability as as a bonus action.
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+                                * You may activate this ability as a bonus action and dismiss it at will.
+                                * This ability no longer requires V or S components.
+        `,
+        data_ru:
+        `
+    Ваше вооружение становится чистой водой. Пока эта способность активна, тип урона, наносимого вашим оружием, изменяется на урон от холода.</p><p></p><p>Если у вас есть Призыв, вы можете применить эту способность и к его оружию. Вы можете отменить эту способность в качестве бонусного действия.</p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию.</p><p>* Для этой способности больше не требуются компоненты V или S.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Водное оружие [Aquatic Weapon]', 
+        requirements: '', 
+        data:
+        `
+    Your armament drips with magical water, dealing an additional 1d4 cold damage. You may dismiss this ability as a bonus action.
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+                                * You may activate this ability as a bonus action and dismiss it at will.
+                                * This ability no longer requires V or S components.
+                                * Increase the damage dice size by one step, to a maximum of a 1d12.
+        `,
+        data_ru:
+        `
+    С вашего вооружения стекает магическая вода, наносящая дополнительный урон холодом на 1d4. Вы можете отменить эту способность в качестве бонусного действия.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию.</p><p>* Для этой способности больше не требуются компоненты V или S.</p><p>* Увеличьте размер кубика урона на один шаг, максимум до 1d12.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Приливное оружие [Tidal Weapon]', 
+        requirements: 'Одна водная способность', 
+        data:
+        `
+    When you score a critical hit with your armament, the target takes an additional 1d4 cold damage, and is knocked prone. 
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+                                * Increase the damage die size by one step, to a maximum of 1d10.
+        `,
+        data_ru:
+        `
+    Когда вы наносите критический удар своим оружием, цель получает дополнительный урон холодом на 1d4 и падает ничком. </p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Увеличьте размер кубика урона на один шаг, максимум до 1d10.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft60, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  true, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: true, 
+            hour1:         true, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Управление водой [Shape Water]', 
+        requirements: 'Одна водная способность', 
+        data:
+        `
+    You choose an area of non-magical water (solid, liquid or gas) that you can see within range and that fits within a 5-foot cube. You manipulate it in one of the following ways:
+
+                                * You instantaneously move or otherwise change the flow of the water as you direct, up to 5 feet in any direction. This movement doesn’t have enough force to cause damage.
+                                * You cause the water to form into simple shapes and animate at your direction. This change lasts for the duration.
+                                * You change the water’s color or opacity. The water must be changed in the same way throughout. This change lasts for the duration.
+                                * You freeze the water, provided that there are no creatures in it. This frozen water can and will melt over time.
+                                * You melt the ice, you may have the water retain its shape if able.
+                                * vaporize the water or sublimate the ice, which expands to a 30-foot-radius sphere of vapor centered on the water or ice. This vapor is ambient temperature and does not cause damage. The sphere spreads around corners, and its area is lightly obscured. It falls to the ground as water after 1 hour or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. If the environment is Extreme Cold, the vapor turns to snow at the the end of the round and falls to the ground. If the environment is Extreme Heat, the vapor disperses at the end of the round.
+                                * You condense the vapor, causing it to fall to the ground as water and form a puddle on the ground.
+                                * You depose the vapor, causing it to fall to the ground as snow and form a patch on the ground.
+
+                                If you activate this ability multiple times, you can only have a number of its non-instantaneous effects, equal to your proficiency bonus, active at a time, and you can dismiss such an effect as an action.
+
+                                Each time you reselect this ability, the area of the cube you can affect is increased by 5 feet.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - You can now affect magical water.
+                                - Increase the range by 10 feet.
+                                - Increase the duration by 1 hour.
+        `,
+        data_ru:
+        `
+    Вы выбираете область немагической воды (твердой, жидкой или газообразной), которую можете видеть в пределах досягаемости и которая помещается в 5-футовый куб. Вы манипулируете ею одним из следующих способов:</p><p></p><p>* Вы мгновенно перемещаете или иным образом изменяете поток воды по своему усмотрению на расстояние до 5 футов в любом направлении. Это движение не обладает достаточной силой, чтобы нанести ущерб.</p><p>* Вы заставляете воду принимать простые формы и анимироваться по вашему указанию. Это изменение длится некоторое время.</p><p>* Вы меняете цвет или непрозрачность воды. Воду необходимо постоянно менять одинаковым образом. Это изменение длится в течение всего срока действия.</p><p>* Вы замораживаете воду при условии, что в ней нет живых существ. Эта замороженная вода может со временем растаять и будет таять.</p><p>* При растапливании льда вода может сохранить свою форму, если это возможно.</p><p>* выпаривайте воду или сублимируйте лед, который расширяется до сферы пара радиусом 30 футов с центром в воде или льду. Этот пар имеет температуру окружающей среды и не наносит повреждений. Сфера растекается по углам, и ее площадь слегка затемняется. Он падает на землю в виде воды через 1 час или до тех пор, пока ветер средней или большей скорости (не менее 10 миль в час) не рассеет его. Если в окружающей среде очень холодно, пар в конце раунда превращается в снег и падает на землю. Если в окружающей среде очень жарко, пар рассеивается в конце раунда.</p><p>* Вы конденсируете пар, в результате чего он падает на землю в виде воды и образует лужу на земле.</p><p>* Вы выпускаете пар, в результате чего он падает на землю в виде снега и образует на земле пятно.</p><p></p><p>Если вы активируете эту способность несколько раз, у вас может быть одновременно активировано только несколько ее не мгновенных эффектов, равных вашему бонусу к навыкам, и вы можете отклонить такой эффект как действие.</p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, площадь куба, на который вы можете воздействовать, увеличивается на 5 футов.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Теперь вы можете воздействовать на магическую воду.</p><p>- Увеличьте дальность действия на 10 футов.</p><p>- Увеличьте продолжительность на 1 час.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Водяной щит [Water Shield]', 
+        requirements: 'Две водные способности', 
+        data:
+        `
+    Swirling water surrounds your body for the duration. This water does not harm you or your equipment. Until the ability ends, you gain the following benefits:
+                                * You have resistance to acid, fire and bludgeoning damage, and you are vulnerable to lightning damage. 
+                                * Whenever a creature is within 5 feet of you, you may have them make a saving throw. The creature chooses Strength or Dexterity. On a failed save, the creature is knocked prone.
+                                * You have a swimming speed of 40 feet.
+                                * You are able to breathe underwater.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+
+                                - This ability no longer requires V or S components.
+                                - This ability no longer requires concentration.
+                                - You are no longer vulnerable to lightning damage.
+        `,
+        data_ru:
+        `
+    Бурлящая вода окружает ваше тело на время действия. Эта вода не причиняет вреда вам или вашему снаряжению. Пока действие способности не закончится, вы получаете следующие преимущества:</p><p>* У вас есть устойчивость к урону от кислоты, огня и ударов дубинкой, и вы уязвимы к урону от молнии. </p><p>* Всякий раз, когда существо находится в пределах 5 футов от вас, вы можете попросить его сделать спасительный бросок. Существо выбирает Силу или Ловкость. При неудачном спасении существо падает ничком.</p><p>* Ваша скорость плавания составляет 40 футов.</p><p>* Вы можете дышать под водой.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p></p><p>- Для этой способности больше не требуются компоненты V или S.</p><p>- Для этой способности больше не требуется концентрация.</p><p>- Вы больше не уязвимы к урону от молнии.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft20, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: true, 
+            minute1:       true,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Подводный рыцарь [Undersea Knight]', 
+        requirements: 'Две водные способности', 
+        data:
+        `
+    Up to four willing creatures within range gain the following benefits:
+                                * You are able to move across any liquid surface – such as water, acid, mud, snow, quicksand, or lava – as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). If the target is submerged in a liquid, the ability carries the target to the surface of the liquid at a rate of 60 feet per round.
+                                * You are able to breathe underwater until the ability ends. Affected creatures also retain their normal mode of respiration.
+                                * You have advantage on Athletic checks for swimming.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - You may activate this ability as a bonus action.
+                                - Increase the range by 10 feet.
+                                - This ability no longer requires V or S components.
+                                - This ability no longer requires concentration.
+                                - Increase the duration by 1 minute.
+                                - Increase the the number of willing creatures you can target by 2.
+        `,
+        data_ru:
+        `
+    До четырех желающих существ в пределах досягаемости получают следующие преимущества:</p><p>* Вы можете передвигаться по любой жидкой поверхности – такой как вода, кислота, грязь, снег, зыбучие пески или лава, – как если бы это была безвредная твердая почва (существа, пересекающие расплавленную лаву, все еще могут получать урон от высокой температуры). Если цель погружена в жидкость, способность поднимает цель на поверхность жидкости со скоростью 60 футов за раунд.</p><p>* Вы можете дышать под водой, пока действие способности не закончится. Пострадавшие существа также сохраняют свой обычный режим дыхания.</p><p>* У вас есть преимущество при спортивных проверках на умение плавать.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Вы можете активировать эту способность в качестве бонусного действия.</p><p>- Увеличьте дальность на 10 футов.</p><p>- Для этой способности больше не требуются компоненты V или S.</p><p>- Эта способность больше не требует концентрации.</p><p>- Увеличьте продолжительность на 1 минуту.</p><p>- Увеличьте количество готовых существ, на которых вы можете нацелиться, на 2.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft80, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: true, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Водяной взрыв [Water Blast]', 
+        requirements: 'Три водные способности', 
+        data:
+        `
+    You hurl a condense ball of water toward a creature within range.
+                                Make a ranged attack against the target. On a hit, the target takes 3d8 bludgeoning damage.
+                                Each time you select this ability, you gain an additional ball to a maximum of four. You can direct the additional balls at the same target or a different one, you must make a separate attack roll for any additional ball.
+
+                                You may select this option multiple times, each time choosing one of the following options:
+                                - This ability no longer requires V components.
+                                - The range is increased by 10 feet.
+                                - Increase the damage die size to a d10. You must have selected this ability four times before you can select this option.
+        `,
+        data_ru:
+        `
+    Вы бросаете конденсирующийся водяной шар в существо, находящееся в пределах досягаемости.</p><p>Атакуйте цель на расстоянии. При попадании цель получает 3d8 урона от удара дубинкой.</p><p>Каждый раз, когда вы выбираете эту способность, вы получаете дополнительный шар максимум до четырех. Вы можете направить дополнительные шары в ту же цель или в другую, вы должны сделать отдельный бросок атаки для любого дополнительного мяча.</p><p></p><p>Вы можете выбирать эту опцию несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Для этой способности больше не требуются компоненты V.</p><p>- Дальность действия увеличена на 10 футов.</p><p>- Увеличьте размер кубика урона до d10. Вы должны были выбрать эту возможность четыре раза, прежде чем сможете выбрать эту опцию.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft60, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Стена воды [Wall of Water]', 
+        requirements: 'Три водные способности', 
+        data:
+        `
+    You conjure up a wall of water on the ground at a point you can see within range. You can make the wall up to 30 feet long, 10 feet high, and 1 foot thick, or you can make a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall vanishes when the ability ends. The wall’s space is difficult terrain.
+
+                                Any ranged weapon attack that enters the wall’s space has disadvantage on the attack roll, and fire damage
+                                is halved if the fire effect passes through the wall to reach its target. Spells and abilities that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot square section is frozen).
+
+                                Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall’s water doesn’t fill it.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - Increase the range by 10 feet.
+                                - This ability no longer requires V or S components.
+                                - This ability no longer requires concentration.
+                                - Increase the length, height and diameter of the wall by 10 feet. The thickness is also increased by 1 foot to a maximum of 5 feet.
+        `,
+        data_ru:
+        `
+    Вы создаете в воображении стену воды на земле в точке, которую можете видеть в пределах досягаемости. Вы можете сделать стену длиной до 30 футов, высотой 10 футов и толщиной 1 фут, или вы можете сделать кольцевую стену диаметром до 20 футов, высотой 20 футов и толщиной 1 фут. Стена исчезает, когда способность заканчивается. Пространство стены представляет собой сложный рельеф.</p><p></p><p>Любая атака оружием дальнего боя, которая попадает в пространство стены, оказывает негативное влияние на бросок атаки, а урон от огня </p><p>уменьшается вдвое, если эффект огня проходит сквозь стену, достигая своей цели. Заклинания и способности, наносящие урон от холода и проходящие сквозь стену, приводят к тому, что участок стены, через который они проходят, намерзает (замораживается участок площадью не менее 5 квадратных футов).</p><p></p><p>Каждая замороженная секция площадью 5 квадратных футов имеет AC 5 и 15 очков жизни. Уменьшение замороженной секции до 0 очков жизни уничтожает ее. Когда секция разрушена, вода стены не заполняет ее.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Увеличьте дальность на 10 футов.</p><p>- Для этой способности больше не требуются компоненты V или S.</p><p>- Для этой способности больше не требуется концентрация.</p><p>- Увеличьте длину, высоту и диаметр стены на 10 футов. Толщина также увеличивается на 1 фут, максимум до 5 футов.
+        `
+    },
+        {
+        type: tp.water,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft80, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: true, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Приливная волна [Tidal Wave]', 
+        requirements: 'Четыре водные способности', 
+        data:
+        `
+    You conjure up a wave of water that crashes down on an area within range.
+
+                                The area can be up to 30 feet long, up to 10 feet wide, and up to 10 feet tall. Each creature in that area must make a Dexterity saving throw. On a failed save, a creature takes 7d10 bludgeoning damage and is knocked prone. On a successful save, a creature takes half as much damage and isn’t knocked prone. The water then spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 30 feet of it, and remains for the next minute.
+
+                                Each time you select this ability, increase the maximum length, width and height by 5 feet.
+
+                                You may select this option multiple times, each time choosing one of the following options:
+                                - Increase the range by 10 feet.
+                                - This ability no longer requires V components.
+                                - Increase the duration the water remains for 1 minute.
+                                - Increase the save DC by 1.
+        `,
+        data_ru:
+        `
+    Вы вызываете волну воды, которая обрушивается на территорию в пределах досягаемости.</p><p></p><p>Площадь может достигать 30 футов в длину, 10 футов в ширину и 10 футов в высоту. Каждое существо в этой области должно совершить спасбросок на ловкость. При неудачном спасении существо получает 7d10 урона от ударов дубинкой и падает ничком. При успешном спасении существо получает вдвое меньше урона и не падает ничком. Затем вода растекается по земле во всех направлениях, туша незащищенное пламя в его зоне и в радиусе 30 футов от него, и остается в течение следующей минуты.</p><p></p><p>Каждый раз, когда вы выбираете эту способность, увеличивайте максимальную длину, ширину и высоту на 5 футов.</p><p></p><p>Вы можете выбирать эту опцию несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Увеличьте дальность на 10 футов.</p><p>- Для этой способности больше не требуются компоненты V.</p><p>- Увеличьте время пребывания воды в течение 1 минуты.</p><p>- Увеличьте значение сохранения постоянного тока на 1.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst3, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.ultimate,
+        castingTime: castTime.round, 
+        range: rng.sight, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        true, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Цунами [Tsunami] (Ultimate)', 
+        requirements: 'Пять водных способностей', 
+        data:
+        `
+    A wall of water springs into existence at a point you choose within range. You can make the wall up to 60 feet long, 60 feet high, and 25 feet thick. The wall lasts for the duration.
+
+                                When the wall appears, each creature within its area takes 7d8 bludgeoning damage.
+
+                                At the start of each of your turns after the wall appears, the wall, along with any creatures in it, moves 25 feet away from you. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a Strength saving throw or take 7d8 bludgeoning damage. A creature can take this damage only once per round. At the end of the turn, the wall’s height is reduced by 20 feet, and the damage creatures take from the ability on subsequent rounds is reduced by 1d8. When the wall reaches 0 feet in height or the duration expires, the ability ends.
+
+                                A creature caught in the wall can move by swimming. Because of the force of the wave, though, the creature must make a successful Strength (Athletics) check against the save DC in order to move at all. If it fails the check, it can’t move. A creature that moves out of the area falls to the ground.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - This ability no longer requires V or S components.
+                                - Increase the duration by 1 round.
+                                - increase the walls length and height by 20 feet, and the thicknes by 5 feet.
+                                - Increase the save DC by 2.
+        `,
+        data_ru:
+        `
+    Стена из воды возникает в выбранной вами точке в пределах досягаемости. Вы можете сделать стену длиной до 60 футов, высотой 60 футов и толщиной 25 футов. Стена прослужит долго.</p><p></p><p>Когда появляется стена, каждое существо в пределах своей зоны получает 7d8 урона от ударов дубинкой.</p><p></p><p>В начале каждого вашего хода после появления стены стена вместе со всеми находящимися в ней существами отодвигается от вас на 25 футов. Любое огромное или меньшее существо внутри стены или в пространство которого стена входит при его движении, должно выполнить бросок с сохранением силы или получить 7d8 урона от удара дубинкой. Существо может получить этот урон только один раз за раунд. В конце хода высота стены уменьшается на 20 футов, а урон, наносимый существами от способности в последующих раундах, уменьшается на 1d8. Когда стена достигает 0 футов в высоту или время действия истекает, действие способности прекращается.</p><p></p><p>Существо, застрявшее в стене, может передвигаться вплавь. Однако из-за силы волны существо должно выполнить успешную проверку силы (Атлетика) по сравнению с сохраненным DC, чтобы вообще двигаться. Если проверка не пройдена, оно не может двигаться. Существо, которое выходит из зоны, падает на землю.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Для этой способности больше не требуются компоненты V или S.</p><p>- Увеличьте продолжительность на 1 раунд.</p><p>- увеличьте длину и высоту стен на 20 футов, а толщину на 5 футов.</p><p>- Увеличьте коэффициент сохранения на 2.
+        `
+    },
+    {
+        type: tp.water,
+        cost: cost.cst4, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.ascended,
+        castingTime: castTime.round, 
+        range: rng.mile1, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: true, 
+            minute1:       true,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Водоворот [Maelstrom] (Ascended)', 
+        requirements: 'Шесть водных способностей', 
+        data:
+        `
+    A mass of 20-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 10d6 bludgeoning damage and be pulled 10 feet toward the center. Once a creature reaches the center, if they would take damage, the hit die is increased by one step and they begin to drown.
+                                As an action any creature within the area can make an additional Strength saving throw, however they do so at disadvantage. On a successful save they are able to move.
+
+                                You may select this ability a second time, if you do the range, duration, depth and radius is doubled. The damage dice size is also increased to a d10.
+        `,
+        data_ru:
+        `
+    Появляется масса воды глубиной 20 футов и кружится в радиусе 30 футов с центром в точке, которую вы можете видеть в пределах досягаемости. Точка должна находиться на земле или в водоеме. Пока действие заклинания не закончится, эта область является труднопроходимой, и любое существо, начинающее там свой ход, должно преуспеть в броске с сохранением силы или получить 10d6 урона от ударов дубинкой и быть оттащенным на 10 футов к центру. Как только существо достигает центра, если оно получает урон, количество попаданий увеличивается на одну ступень, и оно начинает тонуть.</p><p>В качестве действия любое существо в пределах зоны может сделать дополнительный бросок для сохранения силы, однако оно делает это в невыгодном положении. При успешном спасении оно может двигаться.</p><p></p><p>Вы можете выбрать эту способность во второй раз, при этом дальность, продолжительность, глубина и радиус действия удваиваются. Размер кубика урона также увеличивается до d10.
+        `
+    },
+    {
+        type: tp.weapon,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.bonus, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Форма оружия [Weapon Form]', 
+        requirements: '', 
+        data:
+        `
+    When you select this ability, you may choose one of the melee weapons in the PHB (PG 149) as a weapon form. When you activate this ability your armament changes into one of the selected weapon forms. While in this form your current weapon loses its statistics and gains the new weapons statistics. If your armament's damage dice is greater than any of your weapon forms, you may have it retain the greater damage.
+
+                                You may select this ability multiple times, each time choosing one of the following actions:
+                                - Choose a new weapon form.
+                                - This ability no longer requires V or S components.
+        `,
+        data_ru:
+        `
+    Когда вы выбираете эту способность, вы можете выбрать одно из видов оружия ближнего боя из PHB (СТР. 149) в качестве формы оружия. Когда вы активируете эту способность, ваше вооружение меняется на одну из выбранных форм оружия. Находясь в этой форме, ваше текущее оружие теряет свою статистику и получает статистику нового оружия. Если кубики урона вашего вооружения больше, чем у любой из ваших форм оружия, вы можете сохранить за ним больший урон.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая одно из следующих действий:</p><p>- Выберите новую форму оружия.</p><p>- Для этой способности больше не требуются компоненты V или S.
+        `
+    },
+    {
+        type: tp.weapon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Улучшенное оружие [Enhanced Weapon]', 
+        requirements: '', 
+        data:
+        `
+    Choose one of the following weapon properties. Your armament gains the chosen weapon property.
+                                * Finesse
+                                * Light
+                                * Reach
+                                * Thrown (10/20)
+                                * Versatile (Damage dice size increased by one step when used with two hands to make a weapon attack)
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - Choose an additional weapon property.
+                                - Increase both values of the Thrown range by 10 feet. You must have selected the Thrown weapon property before you can choose this option.
+                                - Your armament retains the selected weapon properties even when you use Weapon Form of similar abilities.
+        `,
+        data_ru:
+        `
+    Выберите одно из следующих свойств оружия. Ваше вооружение приобретает выбранное свойство оружия.</p><p>* Изящество</p><p>* Легкость</p><p>* Досягаемость</p><p>* Брошенный (10/20)</p><p>* Универсальность (размер кубика урона увеличивается на одну ступень при использовании оружия двумя руками для атаки)</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Выберите дополнительное свойство оружия.</p><p>- Увеличьте оба значения дальности броска на 10 футов. Вы должны выбрать свойство Брошенное оружие, прежде чем сможете выбрать эту опцию.</p><p>- Ваше вооружение сохраняет выбранные свойства оружия, даже если вы используете форму оружия с аналогичными способностями.
+        `
+    },
+    {
+        type: tp.weapon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Закаленная сталь [Tempered Steel]', 
+        requirements: 'Одна способность оружия*', 
+        data:
+        `
+    Your armament is more resilient. If an effect would damage, break, or destroy your armament without a save, you are allowed a saving throw (except for Final Shikai or similar effect). On a success negating the destructions effect. If you are allowed a saving throw you have advantage on that saving throw.
+
+                                If an effect would build up a cumulative penalty on your armament and be destroyed at a certain threshold, that threshold is doubled.
+
+                                If a creature would attempt to disarm your armament you are holding, you can use your reaction to make a melee weapon attack against that creature.
+        `,
+        data_ru:
+        `
+    Ваше вооружение более устойчиво. Если эффект повредит, сломает или уничтожит ваше вооружение без сохранения, вам разрешается сделать спасбросок (за исключением Финального шикай или аналогичного эффекта). При успешном выполнении, сводящем на нет эффект разрушений. Если вам разрешен спасбросок, у вас есть преимущество в этом спасброске.</p><p></p><p>Если эффект увеличивает совокупный штраф к вашему вооружению и будет уничтожен при достижении определенного порога, этот порог удваивается.</p><p></p><p>Если существо попытается обезвредить ваше оружие, которое вы держите в руках, вы можете использовать свою реакцию, чтобы атаковать это существо оружием ближнего боя.
+        `
+    },
+    {
+        type: tp.weapon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: `Грань богоубийцы [Godslayer's Edge]`, 
+        requirements: 'Две способности оружия*', 
+        data:
+        `
+    Weapon attacks you make with your armament ignore damage resistance to it's damage type.
+
+                                If the subject of your attack would be immune to your armament base damage type, that immunity is instead treated as resistance.
+        `,
+        data_ru:
+        `
+    Атаки оружием, которые вы производите своим вооружением, игнорируют сопротивление урону в зависимости от типа урона.</p><p></p><p>Если объект вашей атаки невосприимчив к базовому типу урона вашего вооружения, этот иммунитет вместо этого рассматривается как сопротивление.
+        `
+    },
+    {
+        type: tp.weapon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Увеличение критического урона [Increased Critical]', 
+        requirements: 'Три способности оружия*', 
+        data:
+        `
+    You score a critical on a roll of 19 or 20 when making weapon attack rolls with your armament.
+
+                                If you already have a similar ability, the extra damage dice is maxed.
+        `,
+        data_ru:
+        `
+    Вы набираете критическое значение при броске 19 или 20 очков при выполнении бросков атаки оружием с вашим вооружением.</p><p></p><p>Если у вас уже есть подобная способность, количество кубиков дополнительного урона увеличивается.
+        `
+    },
+    {
+        type: tp.weapon,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Оружие небес [Weapon of Heaven]', 
+        requirements: 'Четыре способности оружия*', 
+        data:
+        `
+    While using your armament, you may add your proficiency bonus to weapon attack damage rolls with it.
+        `,
+        data_ru:
+        `
+    Используя свое вооружение, вы можете добавить бонус к навыкам к броскам урона от атаки оружием с его помощью.
+        `
+    },
+    {
+        type: tp.weapon,
+        cost: cost.cst4, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.bonus, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Зачарованное оружие [Enchanted Weapon]', 
+        requirements: 'Пять способностей оружия*', 
+        data:
+        `
+    When you select this ability, you may choose one of the enchantments listed below. You can dismiss this ability as a bonus action.
+
+                                * Acid - For the duration your weapon deals an extra 1d4 acid damage.
+
+                                * Flame - For the duration your weapon deals an extra 1d4 fire damage.
+
+                                * Frost - For the duration your weapon deals an extra 1d4 cold damage.
+
+                                * Lightning - For the duration your weapon deals an extra 1d4 lightning damage.
+
+                                * Necrotic - For the duration your weapon deals an extra 1d4 necrotic damage.
+
+                                * Poison - For the duration your weapon deals an extra 1d4 poison damage.
+
+                                * Radiant - For the duration your weapon deals an extra 1d4 radiant damage.
+
+                                * Thunder - For the duration your weapon deals an extra 1d4 thunder damage.
+
+                                * Wind - For the duration your weapon deals an extra 1d4 force damage.
+
+                                * Returning - When you make a ranged attack using this armament, immediately after the attack, the weapon flies back to your hand. Your armament must have the Thrown weapon property before you can select this Enchantment.
+
+                                * Defender - The first time you attack with your armament on each of your turns, you can transfer some or all of the weapon's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, if you have a +3, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the weapon to gain a bonus to AC from it. 
+
+                                * Dancing - As a bonus action you toss your armament into the air and it begins to hover. You may have it fly up to 30 feet, and it attacks one creature of your choice within 5 feet of it. The weapon uses your attack roll and ability score modifier to damage rolls. While the weapon hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it. As a bonus action, you can have the weapon fly up to 30 feet to try and return to your hand. If you have no hand free, it falls to the ground at your feet. It also ceases to hover if you grasp it or move more than 60 feet away from it. You must have selected this ability once before you can select this Enchantment.
+
+                                * Speed - You can make one additional attack with this armament when you take the attack action. You must have selected this ability two times before you can select this Enchantment.
+
+                                * Slaying - Choose one creature type (Soul, Bount, Hollow, Quincy, Human), when the chosen creature type takes damage, the creature must make a DC 17 Constitution saving throw, taking an extra 6d8 damage on a failed save, or half as much extra damage on a successful one. You must have selected this ability three times before you can select this Enchantment.
+
+                                You may reselect this ability multiple times, each time choosing another enchantment.
+        `,
+        data_ru:
+        `
+    Выбрав эту способность, вы можете выбрать одно из перечисленных ниже заклинаний. Вы можете отменить эту способность в качестве бонусного действия.</p><p></p><p>* Кислота - На время действия ваше оружие наносит дополнительный урон кислотой на 1d4.</p><p></p><p>* Пламя - на время действия ваше оружие наносит дополнительный урон от огня 1d4.</p><p></p><p>* Мороз - на время действия ваше оружие наносит дополнительный урон от холода 1d4.</p><p></p><p>* Молния - на время действия ваше оружие наносит дополнительный урон от молнии на 1d4.</p><p></p><p>* Некротический - на время действия ваше оружие наносит дополнительный урон от некроза на 1d4.</p><p></p><p>* Яд - на время действия ваше оружие наносит дополнительный урон ядом на 1d4.</p><p></p><p>* Излучение - на время действия ваше оружие наносит дополнительный урон излучением на 1d4.</p><p></p><p>* Гром - на время действия ваше оружие наносит дополнительный урон от грома на 1d4.</p><p></p><p>* Ветер - на время действия ваше оружие наносит дополнительный урон от силы на 1d4.</p><p></p><p>* Возвращение - когда вы совершаете атаку дальнего боя с использованием этого оружия, сразу после атаки оружие возвращается к вам в руку. Ваше оружие должно обладать свойством Брошенное оружие, прежде чем вы сможете выбрать это заклинание.</p><p></p><p>* Защитник - При первой атаке своим вооружением в каждый из своих ходов вы можете перенести часть или весь бонус к оружию на свой класс брони, вместо того чтобы использовать бонус при любых атаках в этот ход. Например, если у вас есть + 3, вы можете уменьшить бонус к броскам атаки и урона до + 1 и получить + 2 бонуса к AC. Скорректированные бонусы остаются в силе до начала вашего следующего хода, хотя вы должны держать оружие, чтобы получить от него бонус к AC. </p><p></p><p>* Танец - В качестве бонусного действия вы подбрасываете свое оружие в воздух, и оно начинает парить. Вы можете заставить его взлететь на высоту до 30 футов и атаковать одно выбранное вами существо в радиусе 5 футов от него. Оружие использует ваш бросок атаки и модификатор оценки способностей для бросков урона. Пока оружие парит, вы можете использовать бонусное действие, чтобы заставить его пролететь до 30 футов и переместиться в другое место в радиусе 30 футов от вас. В рамках того же бонусного действия вы можете заставить меч атаковать одно существо в радиусе 5 футов от него. В качестве бонусного действия вы можете заставить оружие пролететь до 30 футов, чтобы попытаться вернуться в вашу руку. Если у вас нет свободной руки, он падает на землю к вашим ногам. Он также перестает парить, если вы возьметесь за него или отойдете от него более чем на 60 футов. Вы должны выбрать эту способность один раз, прежде чем сможете использовать это заклинание.</p><p></p><p>* Скорость - Вы можете совершить одну дополнительную атаку этим оружием, когда выполняете атакующее действие. Вы должны выбрать эту способность два раза, прежде чем сможете использовать это Заклинание.</p><p></p><p>* Убийство - Выберите один тип существа (Душа, Баунт, Лощина, Квинси, Человек), когда выбранный тип существа получает урон, существо должно совершить спасбросок Конституции DC 17, получив дополнительный урон 6d8 при неудачном спасении или вдвое меньше дополнительного урона при успешном. Вы должны выбрать эту способность три раза, прежде чем сможете использовать это заклинание.</p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая другое заклинание.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Форма ветра [Wind Form]', 
+        requirements: '', 
+        data:
+        `
+    Your armament becomes pure air. While this ability is active, your armaments damage type is changed to force damage.
+
+                                If you have a Summon, you may have this ability apply to it's weapons as well. You may dismiss this ability as as a bonus action.
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+                                * You may activate this ability as a bonus action and dismiss it at will.
+                                * This ability no longer requires V or S components.
+        `,
+        data_ru:
+        `
+    Ваше вооружение становится чистым воздухом. Пока эта способность активна, тип урона, наносимого вашим вооружением, изменяется на урон силой.</p><p></p><p>Если у вас есть Призыв, вы можете применить эту способность и к его оружию. Вы можете отменить эту способность в качестве бонусного действия.</p><p></p><p>Вы можете повторно выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию.</p><p>* Для этой способности больше не требуются компоненты V или S.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Зефирное оружие [Zephyr Weapon]', 
+        requirements: '', 
+        data:
+        `
+    Wind rages across your armament, dealing an additional 1d4 force damage. You may dismiss this ability as a bonus action.
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+                                * You may activate this ability as a bonus action and dismiss it at will.
+                                * This ability no longer requires V or s components.
+                                * Increase the damage dice size by one step, to a maximum of a 1d12.
+        `,
+        data_ru:
+        `
+    Ветер бушует в вашем вооружении, нанося дополнительный урон силой 1d4. Вы можете отменить эту способность в качестве бонусного действия.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Вы можете активировать эту способность в качестве бонусного действия и отменить ее по своему желанию.</p><p>* Для этой способности больше не требуются компоненты V или s.</p><p>* Увеличьте размер кубика урона на один шаг, максимум до 1d12.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Циклонное оружие [Cyclone Weapon]', 
+        requirements: 'Одна воздушная способность', 
+        data:
+        `
+    When you score a critical hit with your armament, the target takes an additional 1d4 force damage and is pushed back 10 feet.
+
+                                You may reselect this ability multiple times, each time choosing one of the following options:
+                                * Increase the save DC by 1.
+                                * Increase the damage die size by one step, maximum of a 1d10.
+        `,
+        data_ru:
+        `
+    Когда вы наносите критический удар своим оружием, цель получает дополнительный урон силой 1d4 и отбрасывается на 10 футов.</p><p></p><p>Вы можете повторно использовать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>* Увеличьте коэффициент сохранения на 1.</p><p>* Увеличьте размер кубика урона на одну ступень, максимум на 1d10.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft60, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  true, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: true, 
+            hour1:         true, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Контроль ветров [Control Winds]', 
+        requirements: 'Одна воздушная способность', 
+        data:
+        `
+    You take control of the air in a 5-foot cube that you can see within range. Choose one of the following effects when you activate this ability. The effect lasts for the duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the
+
+                                effect or to restart one you’ve halted.
+
+                                **Gusts.** A wind picks up within the cube, continually blowing in a horizontal direction that you choose. You choose the intensity of the wind: calm, moderate, or strong.
+
+                                If the wind is moderate or strong, ranged weapon attacks that pass through it or that are made against targets within the cube have disadvantage on their attack rolls.
+
+                                If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.
+
+                                **Downdraft.** You cause a sustained blast of strong wind to blow downward from the top of the cube.
+                                Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls.
+
+                                A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.
+
+                                **Updraft.** You cause a sustained updraft within the cube, rising upward from the cube’s bottom edge.
+                                Creatures that end a fall within the cube take only half damage from the fall.
+
+                                When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal.
+
+                                Each time you reselect this ability the cube increases by 5 feet.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - Increase the range by 10 feet.
+                                - Increase the duration by 1 hour.
+                                - When you choose gust, you can choose two different directions.
+                                - Downdraft also affects non-flying creatures.
+                                - When a creature ends a fall in an updraft, they take no fall damage instead. If a creature jumps within an updraft, their jump height is doubled instead.
+                                - You may activate this ability as a bonus action. If you select this option a second time, you may activate this ability as a reaction, but can only select the updraft option if you do so.
+        `,
+        data_ru:
+        `
+    Вы получаете контроль над воздухом в 5-футовом кубе, который можете видеть в пределах досягаемости. При активации этой способности выберите один из следующих эффектов. Эффект сохраняется до тех пор, пока вы не воспользуетесь своим действием в более позднем ходе для переключения на другой эффект. Вы также можете использовать свое действие для временной остановки эффекта</p><p></p><p>или перезапуска эффекта, который вы остановили.</p><p></p><p>** Порывы. ** Внутри куба поднимается ветер, постоянно дующий в выбранном вами горизонтальном направлении. Вы выбираете интенсивность ветра: спокойный, умеренный или сильный.</p><p></p><p>Если ветер умеренный или сильный, атаки оружием дальнего боя, которые проходят сквозь него или наносятся по целям внутри куба, имеют недостаток в бросках атаки.</p><p></p><p>Если ветер сильный, любое существо, движущееся против ветра, должно тратить 1 дополнительный фут движения на каждую перемещенную ногу.</p><p></p><p>** Нисходящий поток. ** Вы создаете продолжительный порыв сильного ветра, который дует вниз от вершины куба.</p><p>Атаки из оружия дальнего боя, которые проходят через куб или наносятся по целям внутри него, имеют недостаток в бросках атаки.</p><p></p><p>Существо должно выполнить бросок с сохранением силы, если оно впервые влетает в куб на ходу или начинает свой ход с полета. При неудачном спасении существо падает ничком.</p><p></p><p>** Восходящий поток. ** Вы создаете устойчивый восходящий поток внутри куба, поднимающийся вверх от нижнего края куба.</p><p>Существа, завершающие падение внутри куба, получают только половину урона от падения.</p><p></p><p>Когда существо в кубе совершает вертикальный прыжок, оно может подпрыгнуть на 10 футов выше обычного.</p><p></p><p>Каждый раз, когда вы повторно выбираете эту способность, куб увеличивается на 5 футов.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Увеличьте дальность на 10 футов.</p><p>- Увеличьте продолжительность на 1 час.</p><p>- Когда вы выбираете порыв ветра, вы можете выбрать два разных направления.</p><p>- Нисходящий поток также влияет на нелетающих существ.</p><p>- Когда существо завершает падение в восходящем потоке, оно не получает урона при падении. Если существо прыгает в пределах восходящего потока, высота его прыжка увеличивается вдвое.</p><p>- Вы можете активировать эту способность в качестве бонусного действия. Если вы выберете эту опцию во второй раз, вы можете активировать эту способность в качестве реакции, но можете выбрать опцию восходящего потока только в том случае, если вы это сделаете.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst1, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  true, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Щит ветра [Wind Shield]', 
+        requirements: 'Две воздушные способности', 
+        data:
+        `
+    Until the ability ends, wind whirls around you, and you gain the following benefits:
+
+                                * Weapon attacks made against you have disadvantage on the attack roll.
+                                * You gain a flying speed of 10 feet. If you are still flying when the spell ends, you fall, unless you can somehow prevent it.
+                                * Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d4 force damage. Each time you reselect this ability, the damage dice size is increased by one step to a maximum of a 1d10.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+
+                                - This ability no longer requires V or S components.
+                                - This ability no longer requires Concentration.
+                                - You may choose if this ability damages creatures or not.
+        `,
+        data_ru:
+        `
+    Пока действие способности не закончится, вокруг вас кружится ветер, и вы получаете следующие преимущества:</p><p></p><p>* Атаки оружием, нанесенные против вас, уменьшают бросок атаки.</p><p>* Вы увеличиваете скорость полета на 10 футов. Если вы все еще летите, когда действие заклинания заканчивается, вы падаете, если только не сможете каким-то образом предотвратить это.</p><p>* Любое существо, которое впервые приближается к вам на расстояние 5 футов во время хода или заканчивает свой ход там, получает 1d4 силового урона. Каждый раз, когда вы повторно выбираете эту способность, размер кубика урона увеличивается на один шаг максимум до 1d10.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p></p><p>- Эта способность больше не требует компонентов V или S.</p><p>- Эта способность больше не требует концентрации.</p><p>- Вы можете выбрать, наносит ли эта способность урон существам или нет.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.ft80, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: true, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Коса ветра [Wind Scythe]', 
+        requirements: 'Три воздушные способности', 
+        data:
+        `
+    You launch a crescent blade of wind toward a creature within range.
+                                Make a ranged attack against the target. On a hit, the target takes 3d8 force damage.
+
+                                Each time you select this ability, you gain an additional blade to a maximum of four blades. You can direct the additional blades at the same target or a different one, you must make a separate attack roll for any additional blades.
+
+                                You may select this option multiple times, each time choosing one of the following options:
+                                - This ability no longer requires V components.
+                                - The range is increased by 10 feet.
+                                - Increase the damage die size to a d10. You must have selected this ability four times before you can select this option.
+        `,
+        data_ru:
+        `
+    Вы запускаете серповидный клинок ветра в существо, находящееся в пределах досягаемости.</p><p>Атакуйте цель на расстоянии. При попадании цель получает урон силой 3d8.</p><p></p><p>Каждый раз, когда вы выбираете эту способность, вы получаете дополнительный клинок максимум к четырем клинкам. Вы можете направить дополнительные клинки на ту же цель или на другую, вы должны сделать отдельный бросок атаки для любых дополнительных клинков.</p><p></p><p>Вы можете выбирать эту опцию несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Для этой способности больше не требуются компоненты V.</p><p>- Дальность действия увеличена на 10 футов.</p><p>- Увеличьте размер кубика урона до d10. Вы должны были выбрать эту возможность четыре раза, прежде чем сможете выбрать эту опцию.
+        `
+    },
+        {
+        type: tp.wind,
+        cost: cost.cst2, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.usual,
+        castingTime: castTime.action, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: true, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Воздушный взрыв [Wind Blast]', 
+        requirements: 'Четыре воздушные способности', 
+        data:
+        `
+    A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose. Each creature in the line must make a Strength saving throw. A creature takes 6d6 force damage on a failed save and be pushed back 15 feet away from you in a direction following the line, or half as much damage on a successful one and not be pushed back.
+
+                                The wind disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 80 percent chance to extinguish them.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - This ability no longer requires V components.
+                                - Increase the length by 10 feet.
+                                - Increase the damage by 1d6.
+                                - Increase the range creatures are pushed back by an additional 5 feet.
+        `,
+        data_ru:
+        `
+    Линия сильного ветра длиной 60 футов и шириной 10 футов дует от вас в выбранном вами направлении. Каждое существо в линии должно сделать бросок с сохранением силы. Существо получает 6d6 силового урона при неудачном спасении и будет отброшено на 15 футов от вас в направлении, следующем за линией, или вдвое меньше урона при успешном спасении и не будет отброшено назад.</p><p></p><p>Ветер рассеивает газ или пар и гасит свечи, факелы и подобные незащищенные очаги пламени в этом районе. Это заставляет защищенное пламя, например, фонарей, бешено плясать и имеет 80-процентный шанс погасить его.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Для этой способности больше не требуются компоненты V.</p><p>- Увеличьте длину на 10 футов.</p><p>- Увеличьте урон на 1d6.</p><p>- Увеличьте дальность, на которой существа отбрасываются назад еще на 5 футов.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst3, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.ultimate,
+        castingTime: castTime.round, 
+        range: rng.ft100, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        true, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Торнадо [Tornado] (Ultimate)', 
+        requirements: 'Пять воздушных способностей', 
+        data:
+        `
+    You conjure a raging tornado on a point that you can see on the ground within range, this area must be able to fit the tornado or this ability fails. The tornado is a 40-foot-radius, 80-foot-high cylinder centered on that point. Until the
+
+                                ability ends, you can use your action to move the tornado up to 30 feet in any direction along the ground.
+
+                                The tornado sucks up any Medium or smaller objects that aren’t secured to anything and that aren’t worn or carried by anyone. A creature must make a Strength saving throw the first time on a turn that it enters the tornado or that the tornado enters its space, including when the tornado first appears. A creature takes 7d8 force damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength saving throw or become restrained in the whirlwind until the spell ends. When a creature starts its turn restrained by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top, and takes an additional 7d8 force damage each turn its within the tornado.
+
+                                A restrained creature moves with the whirlwind and falls when the duration ends, unless the creature has some means to stay aloft. A restrained creature can use an action to make a Strength or Dexterity check against the  save DC. If successful, the creature is no longer restrained by the whirlwind and is hurled 3d6 × 10 feet away from it in a random direction.
+
+                                This ability deals damage to structures within its radius. If a structure drops to 0 hit points, it collapses and pieces of the structure are automatically flung outside the area of the tornado potentially damaging nearby creatures. Any creature within 30 ft. of the tornado's radius when a structure collapses within it must make a Dexterity saving throw. On a failed save,  the creature takes 4d8 bludgeoning damage and is knocked prone. On a successful save, the creature takes half damage and doesn't fall prone.
+
+                                \pagebreakNum
+
+                                This also increases the damage any creatures can potentially take by 2d6 bludgeoning and 2d6 slashing damage.
+
+                                You may select this ability multiple times, each time choosing one of the following options:
+                                - This ability no longer requires V or S components.
+                                - Increase the duration by 1 round.
+                                - increase the radius and height by 10 feet.
+                                - Increase the save DC by 1.
+        `,
+        data_ru:
+        `
+    Вы вызываете бушующий торнадо в точке, которую видите на земле в пределах досягаемости, эта область должна соответствовать торнадо, иначе эта способность не срабатывает. Торнадо представляет собой цилиндр радиусом 40 футов и высотой 80 футов с центром в этой точке. До тех пор, пока по окончании действия способности вы можете использовать свое действие, чтобы переместить торнадо на высоту до 30 футов в любом направлении по земле.</p><p></p><p>Торнадо засасывает любые предметы среднего или меньшего размера, которые ни к чему не прикреплены и которые никто не носит и не переносит. Существо должно совершить силовой бросок в первый раз за ход, когда оно попадает в торнадо или когда торнадо входит в его пространство, в том числе при первом появлении торнадо. Существо получает 7d8 силового урона при неудачном спасении или вдвое меньше урона при успешном. Кроме того, крупное или меньшее существо, которому не удается сохранить силу, должно успешно выполнить бросок с сохранением Силы или оказаться связанным в вихре до окончания действия заклинания. Когда существо начинает свой ход, сдерживаемое вихрем, существо затягивается в него на 5 футов выше, если только оно не находится наверху, и получает дополнительный урон силой 7d8 за каждый ход внутри торнадо.</p><p></p><p>Связанное существо движется вместе с вихрем и падает по окончании его действия, если только у существа нет каких-либо средств удержаться в воздухе. Связанное существо может использовать действие, чтобы проверить Силу или Ловкость в соответствии с сохраненным DC. В случае успеха вихрь больше не удерживает существо и отбрасывает его на расстояние 3d6 × 10 футов в случайном направлении.</p><p></p><p>Эта способность наносит урон сооружениям в радиусе действия. Если строение теряет 0 очков жизни, оно разрушается, и его куски автоматически разлетаются за пределы зоны действия торнадо, потенциально нанося урон ближайшим существам. Любое существо в радиусе 30 футов от торнадо, когда внутри него рушится конструкция, должно совершить спасительный бросок на Ловкость. При неудачном спасении существо получает 4d8 урона от ударов дубинкой и падает ничком. При успешном спасении существо получает половину урона и не падает ничком.</p><p></p><p>\Разрыв страницы</p><p></p><p>Это также увеличивает урон, который потенциально могут получить любые существа, на 2d6 урона от ударов дубинкой и 2d6 рубящего урона.</p><p></p><p>Вы можете выбирать эту способность несколько раз, каждый раз выбирая один из следующих вариантов:</p><p>- Для этой способности больше не требуются компоненты V или S.</p><p>- Увеличьте продолжительность на 1 раунд.</p><p>- увеличьте радиус и высоту на 10 футов.</p><p>- Увеличьте постоянный ток сохранения на 1.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst4, 
+        rules: true,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.ascended,
+        castingTime: castTime.round, 
+        range: rng.self, 
+        components: 
+        { 
+            verbal:   true, 
+            somatic:  true, 
+            material: false, 
+            released: true
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: true, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        true, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Ураган [Hurricane] (Ascended)', 
+        requirements: 'Шесть воздушных способностей', 
+        data:
+        `
+    You conjure a deadly and devastating storm that descends from the sky. A 60-foot radius, and 60-foot tall cylinder appears centered on you. You are unaffected by your own Hurricane. The ability fails if you can't see a point in the sky where the storm can descend from (for example, if you are in a room that can't accommodate the storm).
+
+                                Within the storm, all ranged attacks and spells always miss their target, being swept away from the raging winds. Vision is lightly obscured, the terrain is difficult, and other creatures have disadvantage on concentration checks.
+
+                                Within the storm you have a fly speed of 60 feet and take no damage from the storm itself, however you can still take damage from flying debris, but you have advantage on dexterity saving throws to avoid debris within the storm.
+
+                                When the storm appears, small and smaller creatures are instantly swept away from the winds. Medium and large creatures must make a Strength saving throw, on a failed save they are swept away from the winds. Huge and larger creatures must make a Strength saving throw with advantage, on a failed save they are swept away by the winds.
+                                If a creature begins its turn within the storm they must make a Strength saving throw, taking 10d6 force damage, or half as much on a successful save. If a creature has been swept away by the winds, they have disadvantage on the saving throw.
+
+                                These raging winds also deal damage to structures within the area. If a structure drops to 0 hit points, it collapses and pieces of the structure are swept by the winds increasing the damage creatures and structures take within the storm by 4d6 bludgeoning damage and 4d6 slashing damage. Each structure that collapses within the area further increases the damage the same amount.
+
+                                A creature that has been swept away by the storm are flung randomly closer to the eye of the storm, or away from the eye by 4d6 x 10 feet. A creature that has been swept away by the storm can spend a bonus action to make a dexterity saving throw against the save DC. On a success, they can control the direction they move in.
+
+                                The eye of the storm is 1/4 the size of the storm and none of the effects of the storm are active within it.
+
+                                You may reselect this ability a second time, if you do the size of the area is doubled.
+        `,
+        data_ru:
+        `
+    Вы вызываете смертоносный и разрушительный шторм, который обрушивается с неба. В центре вас появляется цилиндр радиусом 60 футов и высотой 60 футов. На вас не влияет ваш собственный ураган. Способность не срабатывает, если вы не видите точку в небе, откуда может обрушиться буря (например, если вы находитесь в комнате, которая не может вместить бурю).</p><p></p><p>Во время шторма все дальние атаки и заклинания всегда попадают мимо цели, уносимые бушующими ветрами. Зрение слегка затуманено, местность сложная, а у других существ меньше возможностей для проверки концентрации.</p><p></p><p>Во время шторма вы летите со скоростью 60 футов и не получаете урона от самого шторма, однако вы все еще можете получать урон от летящих обломков, но у вас есть преимущество в спасительных бросках на ловкость, чтобы избегать попадания обломков в шторм.</p><p></p><p>Когда начинается шторм, маленькие существа мгновенно уносятся ветром. Средние и крупные существа должны сделать силовой бросок, при неудачном спасении они уносятся ветром. Огромные существа должны с преимуществом совершить силовой бросок, при неудачном сейве их уносит ветром.</p><p>Если существо начинает свой ход во время шторма, оно должно совершить бросок с сохранением силы, получив 10d6 силового урона или вдвое меньше при успешном спасении. Если существо было унесено ветром, оно теряет преимущество при спасброске.</p><p></p><p>Эти бушующие ветры также наносят урон строениям в пределах области. Если строение падает до 0 очков жизни, оно разрушается, и куски строения уносятся ветром, увеличивая урон, наносимый существами и сооружениями во время шторма, на 4d6 урона от ударов дубинкой и 4d6 рубящего урона. Каждое разрушающееся сооружение в пределах данной области еще больше увеличивает урон на ту же величину.</p><p></p><p>Существо, унесенное штормом, случайным образом отбрасывается ближе к эпицентру шторма или от него на расстояние 4d6 x 10 футов. Существо, унесенное штормом, может потратить бонусное действие, чтобы совершить спасбросок на ловкость против спасенного DC. В случае успеха оно может контролировать направление своего движения.</p><p></p><p>Глаз бури составляет 1/4 размера шторма, и ни одно из эффектов шторма в нем не действует.</p><p></p><p>Вы можете повторно выбрать эту способность во второй раз, в этом случае размер области увеличится вдвое.
+        `
+    },
+    {
+        type: tp.wind,
+        cost: cost.cst0, 
+        rules: false,
+        forSummon: false,
+        hdHollow: hd.none,
+        abKind: knd.ascended,
+        castingTime: castTime.none, 
+        range: rng.none, 
+        components: 
+        { 
+            verbal:   false, 
+            somatic:  false, 
+            material: false, 
+            released: false
+        }, 
+        material_stuff: '',
+        duration:
+        { 
+            until_sealed:  false, 
+            concentration: false, 
+            minute1:       false,
+            minute2:       false, 
+            minute5:       false,
+            minute10:      false, 
+            round1:        false, 
+            round2:        false,
+            round5:        false, 
+            instantaneous: false, 
+            hour1:         false, 
+            special:       false,
+            day2:          false
+        }, 
+        recharge: rch.none, 
+        name: 'Пронзительные ветры [Piercing Winds] (Ascended)', 
+        requirements: 'Шесть воздушных способностей', 
+        data:
+        `
+    Your Wind abilities are increased in power.
+
+                                Your armament abilities or Kido that deal force damage ignore resistances. If a creature would be immune to force damage, it instead takes half damage.
+        `,
+        data_ru:
+        `
+    Ваши способности к ветру увеличены по мощности.</p><p></p><p>Ваши способности к вооружению или кидо, наносящие силовой урон, игнорируют сопротивление. Если существо невосприимчиво к силовому урону, оно вместо этого получает половину урона.
+        `
+    }
 ]
