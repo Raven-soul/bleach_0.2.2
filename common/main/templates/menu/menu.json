@@ -8,8 +8,8 @@
             "SectionName":"Справочники",
             "SectionMenuItems":[
                 {
-                    "ItemName":"<strike>Кидо</strike>",
-                    "ItemLink":"#",
+                    "ItemName":"Кидо",
+                    "ItemLink":"pages/kido/index.html",
                     "ItemLogo":"<i class=\"fa-solid fa-fire\" aria-hidden=\"true\"></i>"
                 },
                 {
