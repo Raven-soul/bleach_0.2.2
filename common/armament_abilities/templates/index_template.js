@@ -1,4 +1,4 @@
-const page_template = {
+const index_template = {
     main_template : `
         <div class="row-2">
             <div class="col chapter-title-mobile">Классы Bleach D&D 5e</div>

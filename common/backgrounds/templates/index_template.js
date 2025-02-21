@@ -1,4 +1,4 @@
-const page_template = {
+const index_template = {
     main_template : `
         <div class="row-2">
             <div class="col chapter-title-mobile">Классы Bleach D&D 5e</div>
@@ -23,9 +23,9 @@ const page_template = {
                                             </div>
                                             <div class="col">
                                                 <div class="grid-abilities-data">
-                                                    <!-- grid data -->
+                                                    @@BACKGROUNDELEMENT@@
                                                 </div>                                                                    
-                                            </div>                                                                                                                              -->
+                                            </div>
                                         </div>                                                      
                                     </div>
                                 </div>
@@ -40,24 +40,17 @@ const page_template = {
         </div>
     `,
 //kido-armament grid item
-    ka_grid_item_template : `
+    bgr_grid_item_template : `
         <div class="grid-abilities-item px-1">
             <a href="@@ITEMLINK@@" class="abilities-info-block">                                                                                
                 <div class="row abilities-info-block-data">
-                    <div class="col left-align-data">                                                                                            
-                        <span class="level">
-                            <span class="gray-font">[</span>@@ITEMLEVEL@@<span class="gray-font">]</span>
-                        </span>
-                        <span class="school-logo">
-                            @@ITEMSCHOOLLOGO@@                                                                                   
-                        </span>
+                    <div class="col left-align-data"> 
                         <span class="name">@@ITEMNAME@@</span>
                     </div>
-                    <div class="col-auto components">@@ITEMCOMPONENTS@@</div>
                 </div>  
                 <hr class="abilities-hr-gradient">                                                                                
             </a>
         </div>
     `,
-    title_name : "Способности вооружения Bleach D&D 5e"
+    title_name : "Предыстории Bleach D&D 5e"
 }

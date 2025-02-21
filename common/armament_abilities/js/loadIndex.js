@@ -3,12 +3,10 @@ function loadIndex(order_num) {
 }
 
 function getIndexPageData(order_num) {
-        var data = page_template;
+        var data = index_template;
         var class_load_area_block = $(".info-block");
 
         let index_temp = data.main_template;
-
-    debugger;
 
         index_temp = index_temp.replace("@@CLASSTITLENAME@@", data.title_name);
         index_temp = index_temp.replace("@@ARMAMENTFILTERDATACONTENT@@", filtersGeneration(data));
