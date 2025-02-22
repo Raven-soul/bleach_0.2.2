@@ -22,6 +22,9 @@ const page_template = {
                 <p  class="name">
                     <span>@@FEATNAME@@</span>
                 </p>
+                <p class="cost-type half-gray">
+                    <span>@@FEATREQUIREMENT@@</span>
+                </p>
             </div>
             <div class="col race-class-data-area">
                 @@FEATDESCRIPTIONDATA@@

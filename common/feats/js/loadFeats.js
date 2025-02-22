@@ -18,6 +18,7 @@ function getFeatPageData(order_num) {
 
     let feat_temp = data.feat_item_template;
     feat_temp = feat_temp.replace("@@FEATNAME@@", feat.name);
+    feat_temp = feat_temp.replace("@@FEATREQUIREMENT@@", feat.requirement);
 
     var feat_summ = "";
 

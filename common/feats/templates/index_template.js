@@ -15,6 +15,17 @@ const index_template = {
                     <div class="col abilities-grid">
                         <div class="armament-abilities-content">
                             <div class="row-2">
+                                <div class="col" style="margin-bottom: 15px;">
+                                    <div class="prompt-area">
+                                        <div class="prompt">
+                                            <div class="prompt-data prompt-type">
+                                                <!-- prompt-type --> 
+                                                @@FEATPROMPTDATACONTENT@@
+                                            </div>
+                                            <hr> 
+                                        </div>                                      
+                                    </div>
+                                </div>
                                 <div class="col">
                                     <div class="armament-abilities-content-data">                                                            
                                         <div class="row armament-filtered-area">
@@ -45,6 +56,9 @@ const index_template = {
             <a href="@@ITEMLINK@@" class="abilities-info-block">                                                                                
                 <div class="row abilities-info-block-data">
                     <div class="col left-align-data"> 
+                        <span class="school-logo">
+                            @@ITEMSCHOOLLOGO@@                                                                                   
+                        </span>
                         <span class="name">@@ITEMNAME@@</span>
                     </div>
                 </div>  

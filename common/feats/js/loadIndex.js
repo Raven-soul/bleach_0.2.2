@@ -14,11 +14,13 @@ function getIndexPageData(order_num) {
 
         item_temp = item_temp.replace("@@ITEMLINK@@", "feat.html?id=" + featId);
         item_temp = item_temp.replace("@@ITEMNAME@@", featValue.name);
+        item_temp = item_temp.replace("@@ITEMSCHOOLLOGO@@ ", featValue.type.ico);
 
         summHtmlBlock = summHtmlBlock + item_temp;
     }
 
     index_temp = index_temp.replace("@@FEATELEMENT@@", summHtmlBlock);
+    index_temp = index_temp.replace("@@FEATPROMPTDATACONTENT@@", promptTypeLoader());
     
     load_area_block.html( index_temp );
     
@@ -28,4 +30,15 @@ function getIndexPageData(order_num) {
 
     // Отрисока меню и других основных элементов, будет происходить здесь, уже после отрисовки страницы
     awake(order_num);
+}
+
+function promptTypeLoader() {
+    var summHtmlBlock = "";
+
+    for(const [typeKey, typeValue] of Object.entries(tp)){
+        if(typeKey != "discard"){
+            summHtmlBlock += "<span>" + typeValue.ico + " - " + typeValue.name + "</span>";
+        }        
+    }
+    return summHtmlBlock;
 }
