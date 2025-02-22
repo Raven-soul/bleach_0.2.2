@@ -9,16 +9,16 @@ function getIndexPageData(order_num) {
 
     var summHtmlBlock = "";
 
-    for(const [backgroundId, backgroundValue] of Object.entries(backgrounds_content_data)){
+    for(const [featId, featValue] of Object.entries(feats_content_data)){
         let item_temp = data.bgr_grid_item_template;
 
-        item_temp = item_temp.replace("@@ITEMLINK@@", "background.html?id=" + backgroundId);
-        item_temp = item_temp.replace("@@ITEMNAME@@", backgroundValue.name);
+        item_temp = item_temp.replace("@@ITEMLINK@@", "feat.html?id=" + featId);
+        item_temp = item_temp.replace("@@ITEMNAME@@", featValue.name);
 
         summHtmlBlock = summHtmlBlock + item_temp;
     }
 
-    index_temp = index_temp.replace("@@BACKGROUNDELEMENT@@", summHtmlBlock);
+    index_temp = index_temp.replace("@@FEATELEMENT@@", summHtmlBlock);
     
     load_area_block.html( index_temp );
     

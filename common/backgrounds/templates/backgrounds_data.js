@@ -29,7 +29,7 @@ const backgrounds_content_data = [
                             <tbody>
                                 <tr class="tb-head-row">
                                     <th> <span class="long">d6</span> <span class="short">d6</span> </th>
-                                    <th> <span class="long">Причина изгнания</span> <span class="short">ПИ</span> </th>
+                                    <th> <span class="long">Причина изгнания</span> <span class="short">Причина изгнания</span> </th>
                                 </tr>
                                 <tr>
                                     <td>1</td>
@@ -79,7 +79,7 @@ const backgrounds_content_data = [
                                 <tbody>
                                     <tr class="tb-head-row">
                                         <th> <span class="long">d4</span> <span class="short">d4</span> </th>
-                                        <th> <span class="long">Черта характера</span> <span class="short">ЧХ</span> </th>
+                                        <th> <span class="long">Черта характера</span> <span class="short">Черта характера</span> </th>
                                     </tr>
                                     <tr>
                                         <td>1</td>
@@ -171,7 +171,7 @@ const backgrounds_content_data = [
                                 <tbody>
                                     <tr class="tb-head-row">
                                         <th> <span class="long">d4</span> <span class="short">d4</span> </th>
-                                        <th> <span class="long">Недостаток</span> <span class="short">Н</span> </th>
+                                        <th> <span class="long">Недостаток</span> <span class="short">Недостаток</span> </th>
                                     </tr>
                                     <tr>
                                         <td>1</td>

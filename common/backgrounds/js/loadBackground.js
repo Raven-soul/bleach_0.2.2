@@ -14,8 +14,6 @@ function getBackgroundPageData(order_num) {
     var class_load_area_block = $(".info-block");
     let page_temp = data.main_template;
 
-    debugger;
-
     let background = backgrounds_content_data[background_id];
 
     let background_temp = data.background_item_template;

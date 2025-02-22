@@ -1,6 +1,7 @@
 function awake(nestOrder){
     windowHeightCheckForFooter();
     menuGeneration(nestOrder);
+    footerGeneration();
 }
 
 function windowHeightCheckForFooter() {
@@ -48,13 +49,14 @@ function menuGeneration(nestOrder){
     });
 }
 
+function footerGeneration(){
+    var data = common_page_template;
+    var load_footer_block = $(".footer-area");
+    let footer_temp = data.footer_template;
 
+    footer_temp = footer_temp.replace("@@AUTHORSIGN@@", data.author_sign);
+    footer_temp = footer_temp.replace("@@AUTHORCOMMENTWIDE@@", data.author_comment_wide);
+    footer_temp = footer_temp.replace("@@AUTHORCOMMENT@@", data.author_comment);
 
-
-// function linkLauncher(){  
-//     // заполняет веб-страницу ссылками из репозитория
-//     for (let key in window.LinkDataRepository) {
-//         let searchStroke = 'a[href="' + key + '"]';
-//         $(searchStroke).attr('href',window.LinkDataRepository[key]);
-//     }
-// }
+    load_footer_block.html(footer_temp);
+}

@@ -5,7 +5,7 @@ const page_template = {
             <div class="col">
                 <div class="row-2">
                     <div class="col armament-abilities-content">
-                        @@BACKGROUNDITEMDATACONTENT@@
+                        @@FEATITEMDATACONTENT@@
                         <!-- armament-param -->
                     </div>
                     <div class="col stub-header">
@@ -15,16 +15,16 @@ const page_template = {
             </div>
         </div>
     `,    
-//background item 
-    background_item_template : `
+//feat item 
+    feat_item_template : `
         <div class="row-2 px-2">
             <div class="col armament-data">
                 <p  class="name">
-                    <span>@@BACKGROUNDNAME@@</span>
+                    <span>@@FEATNAME@@</span>
                 </p>
             </div>
             <div class="col race-class-data-area">
-                @@BACKGROUNDDESCRIPTIONDATA@@
+                @@FEATDESCRIPTIONDATA@@
             </div>
             <div class="col" style="visibility:hidden">
                 <p>data</p>
@@ -33,8 +33,8 @@ const page_template = {
     `,
     "data_content": `
         <div class="data-content content-block">
-            @@BACKGROUNDDATACONTENTELEMENT@@
+            @@FEATDATACONTENTELEMENT@@
         </div>
     `,
-    title_name : "Предыстории Bleach D&D 5e"
+    title_name : "Черты Bleach D&D 5e"
 }
