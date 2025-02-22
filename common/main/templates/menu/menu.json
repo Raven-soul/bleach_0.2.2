@@ -43,6 +43,43 @@
                     "ItemLogo":"<i class=\"fa-solid fa-fire\" aria-hidden=\"true\"></i>"
                 }
             ]
+        },
+        {
+            "id": 1,
+            "SectionName":"Прочее",
+            "SectionMenuItems":[                
+                {
+                    "ItemName":"<strike>Дары</strike>",
+                    "ItemLink":"#", 
+                    "ItemLogo":"<i class=\"fa-solid fa-hexagon-nodes\" aria-hidden=\"true\"></i>"
+                },                
+                {
+                    "ItemName":"<strike>Вооружение</strike>",
+                    "ItemLink":"#",
+                    "ItemLogo":"<i class=\"fa-solid fa-shield-halved\" aria-hidden=\"true\"></i>"
+                },
+                {
+                    "ItemName":"<strike>Снаряжение</strike>",
+                    "ItemLink":"#",
+                    "ItemLogo":"<i class=\"fa-solid fa-toolbox\" aria-hidden=\"true\"></i>"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "SectionName":"Статьи",
+            "SectionMenuItems":[                
+                {
+                    "ItemName":"<strike>Фракции</strike>",
+                    "ItemLink":"#", 
+                    "ItemLogo":"<i class=\"fa-solid fa-flag\" aria-hidden=\"true\"></i>"
+                },                
+                {
+                    "ItemName":"<strike>Планы</strike>",
+                    "ItemLink":"#",
+                    "ItemLogo":"<i class=\"fa-solid fa-earth-americas\" aria-hidden=\"true\"></i>"
+                }
+            ]
         }
     ]
 }
