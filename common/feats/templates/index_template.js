@@ -9,8 +9,13 @@ const index_template = {
                             <p>Homebrew</p>
                         </div>
                     </div>
-                    <div class="col" style="visibility:hidden;">
-                        <p>data</p>
+                    <div class="col">
+                        <div class="filter-grid-group">
+                            <div class="grid-group-data"> 
+                                <!-- selector group -->
+                                @@ARMAMENTFILTERDATACONTENT@@
+                            </div>
+                        </div>
                     </div>
                     <div class="col abilities-grid">
                         <div class="armament-abilities-content">
@@ -50,6 +55,22 @@ const index_template = {
             </div>
         </div>
     `,
+// filter - selector
+    selector_template :`
+        <div class="filter-grid-group-data-item">
+            <div class="col">
+                <select name="@@SELECTORNAME@@" id="@@SELECTORID@@" onchange="@@SELECTORFUNCTION@@">
+                    @@SELECTORBODY@@                            
+                </select>
+            </div>                                                        
+        </div>
+    `, 
+    selector_default_item_template : `
+        <option value="all" disabled selected>@@DEFITEMNAME@@</option>
+    `,
+    selector_item_template : `
+        <option value="@@ITEMVALUE@@" armtype="@@ITEMTYPE@@">@@ITEMNAME@@</option>
+    `,
 //kido-armament grid item
     bgr_grid_item_template : `
         <div class="grid-abilities-item px-1">
@@ -67,4 +88,5 @@ const index_template = {
         </div>
     `,
     title_name : "Черты Bleach D&D 5e"
+
 }

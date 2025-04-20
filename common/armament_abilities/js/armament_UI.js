@@ -1,12 +1,3 @@
-function changeFilterArmament(element) {
-    if(element.options[element.selectedIndex].text == "Отменить фильтр"){
-        element.selectedIndex = 0;
-    }
-    var data = element.options[element.selectedIndex].value;
-    
-    alert(data);
-}
-
 function getFilter() {
     var filter = new Map();
     var filterTags = $(".filter-grid-group-data-item select");
@@ -66,7 +57,7 @@ function checkFilter(filter = new Map(), abilitiesValue) {
 }
 
 function changeFilter(element){
-    var data = page_template;
+    var data = index_template;
 
     if(element.options[element.selectedIndex].value == "discard"){
         element.selectedIndex = 0;

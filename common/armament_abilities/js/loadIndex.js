@@ -36,8 +36,6 @@ function promptTypeLoader() {
 }
 
 function filtersGeneration(data){
-    debugger;
-
     var summHtmlBlock = "";
 
     for(const [columnKey, columnValue] of Object.entries(armamentAbilitiescolumns)){
@@ -47,7 +45,7 @@ function filtersGeneration(data){
 
         select_Temp = select_Temp.replace("@@SELECTORNAME@@", columnKey);
         select_Temp = select_Temp.replace("@@SELECTORID@@", columnKey + "_selector_id");
-        select_Temp = select_Temp.replace("@@SELECTORFUNCTION@@", "changeFilter(this)"); //changeFilterArmament(this)");
+        select_Temp = select_Temp.replace("@@SELECTORFUNCTION@@", "changeFilter(this)");
 
         default_item_temp = default_item_temp.replace("@@DEFITEMNAME@@", columnValue.translate);
 
