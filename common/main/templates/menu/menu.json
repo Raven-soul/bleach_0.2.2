@@ -54,8 +54,8 @@
                     "ItemLogo":"<i class=\"fa-solid fa-hexagon-nodes\" aria-hidden=\"true\"></i>"
                 },                
                 {
-                    "ItemName":"<strike>Вооружение</strike>",
-                    "ItemLink":"#",
+                    "ItemName":"Вооружение",
+                    "ItemLink":"pages/armament/index.html",
                     "ItemLogo":"<i class=\"fa-solid fa-shield-halved\" aria-hidden=\"true\"></i>"
                 },
                 {
